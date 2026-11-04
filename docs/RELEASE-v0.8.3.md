@@ -10,3 +10,5 @@ Akt I, Windows x64. Wydanie zawiera trzy zestawy zużytego kamienia z materiała
 Automatyczne archiwa GitHub „Source code” zawierają kod i konfigurację z Git. **Pełne zasoby są w nazwanym archiwum Unity-project.zip.** W klonie można je przywrócić skryptem tools/restore_project.py.
 
 Kontrola wydania: powierzchnie w 12 wnętrzach, zrzuty siedmiu lokacji, niski profil grafiki, start i sesja gry. Zapisy pozostają poza katalogiem wydania. Jest to wersja rozwojowa Aktu I.
+
+[Obejrzyj zwiastun](https://zautomatyzowani.ai/nocturis)

@@ -2,7 +2,7 @@
 
 Izometryczne action RPG w mrocznym świecie fantasy. **Akt I, wersja 0.8.3**, Unity 6000.3.26f1, Windows x64.
 
-[**Pobierz grę i pełny projekt**](https://github.com/KonradLe/nocturnis/releases/tag/v0.8.3) · [Zwiastun](https://zautomatyzowani.ai/pobierz/nocturnis-trailer-rozszerzony-2026-11-04/)
+[**Pobierz grę i pełny projekt**](https://github.com/KonradLe/nocturnis/releases/tag/v0.8.3) · [Zwiastun](https://zautomatyzowani.ai/nocturis)
 
 ![Katakumby — rzeczywisty obraz z wersji 0.8.3](docs/screenshots/catacombs.png)
 
