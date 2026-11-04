@@ -1,0 +1,12 @@
+# Preserve exact Unity source bytes for verified restoration.
+Assets/** -text
+Packages/** -text
+ProjectSettings/** -text
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.png binary
+*.pdf binary
+# Override JSON for original package configuration.
+Packages/** -text
+ProjectSettings/** -text

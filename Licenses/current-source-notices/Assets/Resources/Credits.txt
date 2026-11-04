@@ -1,0 +1,37 @@
+NOCTURNIS: ŻNIWO UPADŁYCH GWIAZD — 0.7.0
+
+GŁÓWNA BIBLIOTEKA AKTU I
+62 modele przygotowane dla Nocturnis: 32 rekonstrukcje 3D z referencji imagegen za pomocą TRELLIS.2 oraz 30 modeli wykonanych w Blenderze. Przygotowanie materiałów, szkieletów, wag i chwytów broni: projekt Nocturnis. Bieżące 13 klipów ruchu każdego z 20 rigowanych aktorów generuje kod NocturnisIntegratedBuild; są to animacje proceduralne.
+TRELLIS.2 — Microsoft, https://github.com/microsoft/TRELLIS.2
+Blender — Blender Foundation i współtwórcy, https://www.blender.org/
+
+KAMIEŃ I POWIERZCHNIE
+Poly Haven — rock_boulder_dry i rock_wall_16, CC0 1.0.
+https://polyhaven.com/a/rock_boulder_dry
+https://polyhaven.com/a/rock_wall_16
+https://polyhaven.com/license
+Zmiany: mapowanie UV, skalowanie, konwersja map materiałów i barwy dopasowane do lokacji.
+
+KAYKIT I KENNEY
+Kay Lousberg / KayKit — CC0 1.0, https://kaylousberg.com/
+Dodatkowe i zachowane rekwizyty oraz atlasy: Adventurers, Skeletons, Dungeon, Forest Nature, Medieval Hexagon i Halloween Bits. Animacje KayKit były źródłem retargetingu wcześniejszych wersji postaci; ich biblioteki i uznania pozostają w projekcie. Bieżący Inkwizytor i pozostałe główne postacie pochodzą z biblioteki Nocturnis opisanej wyżej.
+Kenney — Graveyard Kit, CC0 1.0, https://kenney.nl/
+Przygotowanie prefabów, materiałów, skali i historycznych animacji: projekt Nocturnis.
+
+ZASOBY ZACHOWANE Z WCZEŚNIEJSZYCH WERSJI
+Rakshi Games — Free Realistic Tree 10 i Realistic Tree 12, CC BY 3.0.
+https://opengameart.org/content/free-realistic-tree-10
+https://opengameart.org/content/realistic-tree-12
+https://creativecommons.org/licenses/by/3.0/
+Zmiany: konwersja prefabów, skala, podstawa, materiały, barwy, wiatr i odsłanianie postaci. Główne drzewa aktualnej biblioteki są nowymi modelami Nocturnis.
+Xali — Rigged Knight in Armor, https://blendswap.com/blend/28541 — CC0 według oryginalnej deklaracji autora; zachowana starsza konwersja z jej uwagami źródłowymi. Nie jest modelem obecnego Inkwizytora.
+Wcześniejszy Inkwizytor TRELLIS v1 i posadzki CryptFloor-v01 pozostają zasobami poprzednich iteracji.
+
+INTERFEJS, DŹWIĘK I FONT
+Ilustracje menu i HUD przygotowane dla Nocturnis przy użyciu imagegen; interfejs, efekty i dźwięki proceduralne: projekt Nocturnis.
+Font tytułów: DejaVu Serif Book. Copyright © 2003 Bitstream, Inc.; zmiany DejaVu w domenie publicznej. Pełny tekst licencji fontu dołączono do katalogu Licenses.
+
+SILNIK I IMPORT
+Unity oraz Unity glTFast 6.10.0 — Unity Technologies i współtwórcy. glTFast: Apache License 2.0. Licencje pakietów i notices podmiotów trzecich zachowano w Licenses/package-notices.
+
+Pełne teksty licencji i oryginalne uznania są w katalogu Licenses obok gry. Licencje wymienionych składników odnoszą się do tych składników; nie nadają całej grze jednej wspólnej licencji CC0, MIT ani Apache.

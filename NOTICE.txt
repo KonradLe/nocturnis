@@ -1,0 +1,1 @@
+Nocturnis 0.8.3 - private project snapshot. No project-wide open-source license is granted. Third-party components retain their respective licenses; see Licenses/README.md.

@@ -1,0 +1,27 @@
+NOCTURNIS 0.7.3 - AUDIO CREDITS
+
+CC0-1.0 audio sources. Edited, layered and mixed for Nocturnis.
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+kenney-rpg
+https://kenney.nl/assets/rpg-audio
+SHA256 download: 3ae398ad63e293f9c450bda22d5d81c3af69c74df66fc1400f33c012c0bbc231
+
+artisticdude-rpg
+https://opengameart.org/content/rpg-sound-pack
+SHA256 download: f80754a9c04854e30c9da89d0186540ad097309d98b41387b6e83029e2601421
+
+dungeon.ogg
+https://opengameart.org/content/loopable-dungeon-ambience
+SHA256 download: df491823e4877371c34dbda4e9321cd83a4a14fa7573cee0ebca1ae423b70e6e
+
+forest.mp3
+https://opengameart.org/content/forest-ambience
+SHA256 download: 9850aa1d0d5d66bd9c5daf8bb77c6d852e01f2f4de22f283bd5621e8bed13b75
+
+magic
+https://opengameart.org/node/86018
+SHA256 download: 1c2f06ff4e8563b5b8b745b23cf213c1474142a69bb82bd8f5e10d9b3f7a7bbd
+
+Authors: Kenney Vleugels; artisticdude; rubberduck; JaggedStone; TinyWorlds.
+Additional wind: previously commissioned Nocturnis ElevenLabs SFX (2026-11-01).

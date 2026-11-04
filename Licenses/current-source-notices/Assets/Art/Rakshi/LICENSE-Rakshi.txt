@@ -1,0 +1,12 @@
+DRZEWA: RAKSHI GAMES
+Free Realistic Tree 10 oraz Realistic Tree 12 — CC BY 3.0
+opengameart.org/content/free-realistic-tree-10
+opengameart.org/content/realistic-tree-12
+Licencja: https://creativecommons.org/licenses/by/3.0/
+Zmiany w Nocturnis: konwersja prefabów, ustawienie podstawy i skali, nowe materiały, przygaszone barwy, wiatr i odsłanianie bohatera.
+
+POZOSTAŁE MODELE
+Kay Lousberg / KayKit oraz Kenney — CC0. Pełne informacje o źródłach i licencjach dołączono do projektu i wydania gry.
+
+INTERFEJS I FONTY
+Grafiki interfejsu przygotowane dla Nocturnis. Font DejaVu — licencja dołączona do gry.

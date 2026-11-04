@@ -1,0 +1,8 @@
+Poly Haven — CC0 1.0 Universal
+Assets used by the current Nocturnis Act I material catalog:
+- rock_boulder_dry: https://polyhaven.com/a/rock_boulder_dry
+- rock_wall_16: https://polyhaven.com/a/rock_wall_16
+Source licensing statement: https://polyhaven.com/license
+Canonical CC0 legal text: CC0-1.0-Universal.txt
+Nocturnis modifications: UV scale, material-channel conversion and location-specific tint.
+The attribution is voluntary. The CC0 notice applies to the identified assets, not to the entire game.
