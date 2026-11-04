@@ -112,16 +112,16 @@ namespace Krypta
     }
     string description=NocturnisInput.Format(game.RelicDescription(selected));
     string comparison=NocturnisInput.Format(game.RelicComparison(selected));
-    float descriptionHeight=Mathf.Ceil(marketDetailsStyle.CalcHeight(new GUIContent(description),388));
-    float comparisonHeight=Mathf.Ceil(marketDetailsStyle.CalcHeight(new GUIContent(comparison),388));
+    float descriptionHeight=Mathf.Ceil(marketDetailsStyle.CalcHeight(new GUIContent(NocturnisInput.Format(description)),388));
+    float comparisonHeight=Mathf.Ceil(marketDetailsStyle.CalcHeight(new GUIContent(NocturnisInput.Format(comparison)),388));
     float comparisonY=4+descriptionHeight+14;
     float full=Mathf.Max(200,comparisonY+comparisonHeight+12);
     marketDetailsScroll=GUI.BeginScrollView(new Rect(778,329,418,212),marketDetailsScroll,new Rect(0,0,396,full));
     // Use the measured style directly; Label would apply LargeText a second time.
     Color previousTextColor=GUI.contentColor;GUI.contentColor=paper;
-    GUI.Label(new Rect(4,4,388,descriptionHeight),description,marketDetailsStyle);
+    NocturnisLocalizedGUI.Label(new Rect(4,4,388,descriptionHeight),description,marketDetailsStyle);
     GUI.contentColor=muted;
-    GUI.Label(new Rect(4,comparisonY,388,comparisonHeight),comparison,marketDetailsStyle);
+    NocturnisLocalizedGUI.Label(new Rect(4,comparisonY,388,comparisonHeight),comparison,marketDetailsStyle);
     GUI.contentColor=previousTextColor;GUI.EndScrollView();
    }
    else

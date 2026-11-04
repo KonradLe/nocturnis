@@ -235,8 +235,9 @@ namespace Krypta
   void ControlsMenu(){KeyBindingsMenu();}
   void CreditsMenu()
   {
-   string value=creditsText ? creditsText.text : "Licencje znajdują się w katalogu Licenses gry.";
-   float height=menuText.CalcHeight(new GUIContent(value),674)+24;
+   var localizedCredits=NocturnisLanguage.English ? Resources.Load<TextAsset>("Credits-en") : creditsText;
+   string value=localizedCredits ? localizedCredits.text : "Licencje znajdują się w katalogu Licenses gry.";
+   float height=menuText.CalcHeight(new GUIContent(NocturnisInput.Format(value)),674)+24;
    creditsScroll=GUI.BeginScrollView(new Rect(280,185,720,375),creditsScroll,new Rect(0,0,691,height));
    Label(5,4,674,height,value,menuText,paper);GUI.EndScrollView();
   }

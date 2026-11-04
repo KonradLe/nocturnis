@@ -1,5 +1,4 @@
 {
-  "version": "0.8.3",
   "files": [
     {
       "path": "Assets/Art/KayKit/Adventurers/addons/kaykit_character_pack_adventures/Assets/gltf/arrow.bin",
@@ -20882,6 +20881,16 @@
       "sha256": "3683be1a0ad4fc66a95b7531a9136e986aadadddf4003db84087faf1a79e7162"
     },
     {
+      "path": "Assets/Editor/NocturnisLanguageBuild.cs",
+      "bytes": 4377,
+      "sha256": "9ee6fb2e30d4d7866851cd850358d426fd6804929f08e53463fafe04583267ba"
+    },
+    {
+      "path": "Assets/Editor/NocturnisLanguageBuild.cs.meta",
+      "bytes": 159,
+      "sha256": "649f85f0afda336c7016a5c13b13714e2c440a692ec9759a5089f2a54dec7247"
+    },
+    {
       "path": "Assets/Editor/NocturnisLootPersistenceQA.cs",
       "bytes": 9389,
       "sha256": "c8d46e036d0a557bf89db5489cc7f61b2b8f19f49fd8a45b9c894937dd25c131"
@@ -32877,9 +32886,19 @@
       "sha256": "70a264b88baec23be3d563a5d073e2a5cdddb2113896e31c8433335226403d07"
     },
     {
+      "path": "Assets/Resources/Credits-en.txt",
+      "bytes": 3138,
+      "sha256": "f68fa3cc6fee85da907b6d042ef86d22d16e92d4ee8162ef86cefc578e1f04f3"
+    },
+    {
+      "path": "Assets/Resources/Credits-en.txt.meta",
+      "bytes": 165,
+      "sha256": "6a0d434c37f4f90cd70f648568356c95e5b433eb1a6d15f7f87d3dcbbe110718"
+    },
+    {
       "path": "Assets/Resources/Credits.txt",
-      "bytes": 2959,
-      "sha256": "afe183f772de8852e69591ad564a32365661c346dae5209db9a3f95747309153"
+      "bytes": 3231,
+      "sha256": "01ef888ce6d2b0b88b61a6e455ccb8f7a52142226bcdf2ed9c4feaefbeac15c8"
     },
     {
       "path": "Assets/Resources/Credits.txt.meta",
@@ -32930,6 +32949,21 @@
       "path": "Assets/Resources/KryptaAssets.asset.meta",
       "bytes": 189,
       "sha256": "b53de06b9eb0b50751963bef5dd5c8411ff587756309fa0c3aab03aebbdf519d"
+    },
+    {
+      "path": "Assets/Resources/Localization/strings.json",
+      "bytes": 136542,
+      "sha256": "ce9b124465d6f2d4f22b90cfbdca0ed9571edabeeecb434c66bbea0036c5fa1f"
+    },
+    {
+      "path": "Assets/Resources/Localization/strings.json.meta",
+      "bytes": 165,
+      "sha256": "c75ee6174c4eae80506c1c1ab0c98035ec7409c07ef93e3780a95c434e7c3db5"
+    },
+    {
+      "path": "Assets/Resources/Localization.meta",
+      "bytes": 180,
+      "sha256": "955e9e459144f6b36663c690562d726e87defa7d92d80f77c0f37821c336b391"
     },
     {
       "path": "Assets/Resources/Masonry/monastery_stone_floor/Floor.mat",
@@ -34833,8 +34867,8 @@
     },
     {
       "path": "Assets/Scripts/KryptaGame.cs",
-      "bytes": 16540,
-      "sha256": "d4c3d0eced69696c33327353547a052b50bb021eb91b3edd958b657f2daf53a7"
+      "bytes": 16660,
+      "sha256": "c94081da309b98275f78e438ba3e324a186138572cc2f76f5c5c82a68f147f75"
     },
     {
       "path": "Assets/Scripts/KryptaGame.cs.meta",
@@ -34843,8 +34877,8 @@
     },
     {
       "path": "Assets/Scripts/KryptaHUD.cs",
-      "bytes": 16436,
-      "sha256": "debba3b9a17c8f639ae26ef292d83f1e03a01b4760dfeaecda37a7b5d3c0e055"
+      "bytes": 16867,
+      "sha256": "693f5528600eeca3cb04934ea8d29773ffea6042788df5f2d21cd391c1e122b3"
     },
     {
       "path": "Assets/Scripts/KryptaHUD.cs.meta",
@@ -34983,8 +35017,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisCinematic.cs",
-      "bytes": 5016,
-      "sha256": "1f6f5e4782d6790d712f7b56a9bd54d871821fe6c4efbe8e24872bd6a6839ea5"
+      "bytes": 5035,
+      "sha256": "d81cc77eac21a542848ec75826123858c35ccb7ece6713857cac210c04e98bec"
     },
     {
       "path": "Assets/Scripts/NocturnisCinematic.cs.meta",
@@ -35013,8 +35047,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisClassicMenu.cs",
-      "bytes": 14142,
-      "sha256": "ecfec0c2c3fd540a784c2b981e5e1109c3a0d2e7907a3ec3132fe7a02b458cba"
+      "bytes": 14282,
+      "sha256": "341f8f8a887c2d976aa8b9b1b120dc2a6d2a1279733c1e16f31c91537d48d6af"
     },
     {
       "path": "Assets/Scripts/NocturnisClassicMenu.cs.meta",
@@ -35213,8 +35247,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisInput.cs",
-      "bytes": 12430,
-      "sha256": "99c26f4fe3828dad4588e59a1ba6d70a9ad48081204ebbc33621832a4f360077"
+      "bytes": 12395,
+      "sha256": "6213e9d774b79612716717114cc082964d44ebd330c99afc0f4f0e35cdedca1d"
     },
     {
       "path": "Assets/Scripts/NocturnisInput.cs.meta",
@@ -35263,13 +35297,33 @@
     },
     {
       "path": "Assets/Scripts/NocturnisInventoryVisualUI.cs",
-      "bytes": 12431,
-      "sha256": "e989f366e5feae0a01f90032802607f4d02b071049c51ed4fbdc5745c409e940"
+      "bytes": 12472,
+      "sha256": "c42410c3aeb9b53a41e7c57e61bb886ee64ce75eccfe006c3f8681798ef58061"
     },
     {
       "path": "Assets/Scripts/NocturnisInventoryVisualUI.cs.meta",
       "bytes": 59,
       "sha256": "70a12f16b5eb824c667a24d64aa5402952b215ce8a8035ff6b1d577f5cc89830"
+    },
+    {
+      "path": "Assets/Scripts/NocturnisLanguage.cs",
+      "bytes": 7503,
+      "sha256": "b905cef40ae23cbc7744697170d36481103f6b16755f2efb9bd5279dd5f9d35d"
+    },
+    {
+      "path": "Assets/Scripts/NocturnisLanguage.cs.meta",
+      "bytes": 159,
+      "sha256": "7f9f7e0daae0613f267a88d97ff610d4f0488d1d83a18c71f54c12ffdd1173ee"
+    },
+    {
+      "path": "Assets/Scripts/NocturnisLanguageReview.cs",
+      "bytes": 4464,
+      "sha256": "ce622731124bba463beb7af673043b6a0a79671d3a003f246b18b0647f7b2f6e"
+    },
+    {
+      "path": "Assets/Scripts/NocturnisLanguageReview.cs.meta",
+      "bytes": 159,
+      "sha256": "847e4679fa9d232ba849474f227d9bc165dfb797bec2b726fd5c791c18c5c4b5"
     },
     {
       "path": "Assets/Scripts/NocturnisLootPersistence.cs",
@@ -35283,8 +35337,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisMarket.cs",
-      "bytes": 9921,
-      "sha256": "d3ff45a539e34abe69e15d9402ea50b7c40760a8a280c8bf3862b5400afa773e"
+      "bytes": 10003,
+      "sha256": "3eb71aefd8d5de4b59a7591541f86f5011127bb6346223f49d74600c360f7105"
     },
     {
       "path": "Assets/Scripts/NocturnisMarket.cs.meta",
@@ -35533,8 +35587,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisRpgUI.cs",
-      "bytes": 5357,
-      "sha256": "548006bdea78a4aa1e1f1b4dab0c6e6bc7b1b36dd46d9fe4dcf88913430aa7e1"
+      "bytes": 5380,
+      "sha256": "e4693c997ffc8b4253612a9374057c8de5818e6d7d5a8d14ab1cb44c76574611"
     },
     {
       "path": "Assets/Scripts/NocturnisRpgUI.cs.meta",
@@ -35563,8 +35617,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisSettingsUI.cs",
-      "bytes": 8903,
-      "sha256": "f249e45bddb1c6f09e88329a35c9386f6b0a1d1dadb183f6a56412fe22a1e02a"
+      "bytes": 8958,
+      "sha256": "5fd5e6adddecb55bf72a97ad23e9b9ec49b4a2fcd0cd965dfc1af6416413f87e"
     },
     {
       "path": "Assets/Scripts/NocturnisSettingsUI.cs.meta",
@@ -35633,8 +35687,8 @@
     },
     {
       "path": "Assets/Scripts/NocturnisStorybookUI.cs",
-      "bytes": 12056,
-      "sha256": "0c2a0e669e91bdbd5782c7765795bae8bbcb8628e41033ec5483f5a44cdadf2c"
+      "bytes": 11864,
+      "sha256": "9d8167fdd138705b5faec49034ebeacb2a94896eb8c9ef835fc1a68010d20cbd"
     },
     {
       "path": "Assets/Scripts/NocturnisStorybookUI.cs.meta",
@@ -35822,6 +35876,16 @@
       "sha256": "b7f9932c0a340b9c99bdc1c6b338751fc02d030709e670096b5ded2ab313934d"
     },
     {
+      "path": "Assets/StreamingAssets/Nocturnis-Intro-en.mp4",
+      "bytes": 12777879,
+      "sha256": "facbfd9ea0d19fb13a73bd779b9e7b8cc61d863403c1a66870337d665e365660"
+    },
+    {
+      "path": "Assets/StreamingAssets/Nocturnis-Intro-en.mp4.meta",
+      "bytes": 162,
+      "sha256": "900d37f3b0e9a173d6cd6d13c65b3160919b1c5785919e37b9f089e3c712a168"
+    },
+    {
       "path": "Assets/StreamingAssets/Nocturnis-Intro.mp4",
       "bytes": 12771188,
       "sha256": "ee453d7837daaca38ac9eba56ef9ceb81530574ed83e4f9b56af27264635ee7e"
@@ -35914,7 +35978,7 @@
     {
       "path": "ProjectSettings/ProjectSettings.asset",
       "bytes": 20604,
-      "sha256": "751121fec77f19bc43b363da8557e8649946a55aa62ac34a406d19937e214a33"
+      "sha256": "a3b095c193912229421b89f6064c17d2015dc72b234aa444e3ec34f624b5033b"
     },
     {
       "path": "ProjectSettings/ProjectVersion.txt",

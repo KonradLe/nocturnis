@@ -1,0 +1,4948 @@
+{
+  "entries": [
+    {
+      "pl": "Przygotuj projekt: Krypta > Przygotuj projekt.",
+      "en": "Prepare the project: Krypta > Prepare Project."
+    },
+    {
+      "pl": "Bohater",
+      "en": "Hero"
+    },
+    {
+      "pl": "Mikstura • odnowa zdrowia",
+      "en": "Potion • restore health"
+    },
+    {
+      "pl": "WASD / LPM • ruszaj traktem. Q / PPM — moc. Spacja — unik.",
+      "en": "WASD / LMB • follow the road. Q / RMB — skill. Space — dodge."
+    },
+    {
+      "pl": "TRAKT WISIELCÓW • DOLINA POPIOŁÓW",
+      "en": "GALLOWS ROAD • VALLEY OF ASH"
+    },
+    {
+      "pl": "SPACJA — POMIŃ WPROWADZENIE",
+      "en": "SPACE — SKIP INTRODUCTION"
+    },
+    {
+      "pl": "AKT I  /  ",
+      "en": "ACT I  /  "
+    },
+    {
+      "pl": "ZŁOTO",
+      "en": "GOLD"
+    },
+    {
+      "pl": "[V] TALENTY • punkty: ",
+      "en": "[V] TALENTS • points: "
+    },
+    {
+      "pl": "OGŁUSZENIE",
+      "en": "STUNNED"
+    },
+    {
+      "pl": "KORZENIE ",
+      "en": "ROOTED "
+    },
+    {
+      "pl": "KREW ",
+      "en": "BLOOD "
+    },
+    {
+      "pl": "ODP. OGŁ. ",
+      "en": "STUN RESIST. "
+    },
+    {
+      "pl": "SZLAK",
+      "en": "PATH"
+    },
+    {
+      "pl": "◆ Cel  ◇ NPC",
+      "en": "◆ Objective  ◇ NPC"
+    },
+    {
+      "pl": "DZIENNIK • SERCE POD KATEDRĄ",
+      "en": "JOURNAL • THE HEART BENEATH THE CATHEDRAL"
+    },
+    {
+      "pl": "SERCE WCIĄŻ BIJE",
+      "en": "THE HEART STILL BEATS"
+    },
+    {
+      "pl": "MROK UPOMNIAŁ SIĘ O CIEBIE",
+      "en": "DARKNESS HAS CLAIMED YOU"
+    },
+    {
+      "pl": "CHWILA CISZY",
+      "en": "A MOMENT OF SILENCE"
+    },
+    {
+      "pl": "Cel: ",
+      "en": "Objective: "
+    },
+    {
+      "pl": "\n\nIrma poprosiła o odzyskanie odłamka serca spod katedry. Szlak prowadzi przez Martwe Błonia i cmentarz, gdzie pielgrzymi wracają z martwych. Krwawy Biskup Malazar przygotowuje koronację poległych królów.\n\nKapliczki: Rzeź skraca odnowienia i znosi koszt mocy. Łaska daje szybkość i łańcuchy światła. Źródło Życia oczyszcza Skazę Ichoritu.",
+      "en": "\n\nIrma asked you to recover the heart shard beneath the cathedral. The path leads across the Dead Fields to a cemetery where pilgrims rise from their graves. Malazar, the Blood Bishop, is preparing to crown the fallen kings.\n\nShrines: Slaughter reduces cooldowns and removes skill costs. Grace grants speed and chains of light. The Wellspring cleanses Ichorite Blight."
+    },
+    {
+      "pl": "Malazar upadł, lecz odłamek Varkosa wciąż bije. Za piaskami Kar-Darak ktoś czeka na wieść z Oakhaven.\n\nAkt I ukończony.\n\n",
+      "en": "Malazar has fallen, yet the shard of Varkos still beats. Beyond the sands of Kar-Darak, someone awaits news from Oakhaven.\n\nAct I complete.\n\n"
+    },
+    {
+      "pl": "Czytaj zapowiedzi ataków, korzystaj z kapliczek i oczyszczaj Skazę Ichoritu.\n\nUnik chroni podczas doskoku. Moc R osłania lub leczy.\n\nMożesz wrócić do zapisu z wejścia do lokacji. Jej przeciwnicy i łupy zostaną odtworzeni.",
+      "en": "Watch enemy attack warnings, use shrines and cleanse Ichorite Blight.\n\nDodging protects you during the dash. Your R skill shields or heals you.\n\nYou can reload the checkpoint at the entrance to this area. Its enemies and loot will be restored."
+    },
+    {
+      "pl": "WASD / kliknięcie — ruch\nLPM na wrogu lub Shift + LPM — atak\nQ / PPM — moc klasowa • R — ochrona\nSpacja — unik • H — mikstura\nE — interakcja • J — dziennik • I — ekwipunek • K — księga mocy\nT — zwój powrotu • V — talenty\n\nZapis automatyczny przy wejściu do lokacji.",
+      "en": "WASD / click — move\nLMB on an enemy or Shift + LMB — attack\nQ / RMB — class skill • R — defense\nSpace — dodge • H — potion\nE — interact • J — journal • I — inventory • K — spellbook\nT — town scroll • V — talents\n\nProgress is saved automatically when you enter an area."
+    },
+    {
+      "pl": "Złoto: ",
+      "en": "Gold: "
+    },
+    {
+      "pl": "     Pokonani: ",
+      "en": "     Defeated: "
+    },
+    {
+      "pl": "     Poziom: ",
+      "en": "     Level: "
+    },
+    {
+      "pl": "PONÓW OD POCZĄTKU LOKACJI",
+      "en": "RETRY FROM THE AREA ENTRANCE"
+    },
+    {
+      "pl": "RELIKTY [I]",
+      "en": "RELICS [I]"
+    },
+    {
+      "pl": "WŁĄCZ DŹWIĘK",
+      "en": "ENABLE SOUND"
+    },
+    {
+      "pl": "WYCISZ",
+      "en": "MUTE"
+    },
+    {
+      "pl": "MENU GŁÓWNE",
+      "en": "MAIN MENU"
+    },
+    {
+      "pl": "POWRÓT DO WYBORU BOHATERA",
+      "en": "RETURN TO HERO SELECTION"
+    },
+    {
+      "pl": "WYRUSZAM",
+      "en": "I WILL GO"
+    },
+    {
+      "pl": "WRÓĆ DO WYPRAWY",
+      "en": "RESUME JOURNEY"
+    },
+    {
+      "pl": "Odłamek",
+      "en": "Shard"
+    },
+    {
+      "pl": "Szlifowany",
+      "en": "Polished"
+    },
+    {
+      "pl": "Doskonały",
+      "en": "Flawless"
+    },
+    {
+      "pl": "Bez zaklęcia",
+      "en": "No enchantment"
+    },
+    {
+      "pl": "Siła",
+      "en": "Might"
+    },
+    {
+      "pl": "Wytrzymałość",
+      "en": "Endurance"
+    },
+    {
+      "pl": "Odnowa",
+      "en": "Recovery"
+    },
+    {
+      "pl": "Strój pielgrzyma",
+      "en": "Pilgrim's Garb"
+    },
+    {
+      "pl": "Szata popiołów",
+      "en": "Ash Robes"
+    },
+    {
+      "pl": "Blask Ichoritu",
+      "en": "Ichorite Glow"
+    },
+    {
+      "pl": " ataku",
+      "en": " attack"
+    },
+    {
+      "pl": " zdrowia",
+      "en": " health"
+    },
+    {
+      "pl": " regeneracji/s",
+      "en": " regeneration/s"
+    },
+    {
+      "pl": "Kronika czeka na pierwszą wyprawę.",
+      "en": "Your chronicle awaits its first journey."
+    },
+    {
+      "pl": " • poziom ",
+      "en": " • level "
+    },
+    {
+      "pl": "\nPokonani: ",
+      "en": "\nDefeated: "
+    },
+    {
+      "pl": " • złoto: ",
+      "en": " • gold: "
+    },
+    {
+      "pl": "Brama Błoni [E] • mieszkańcy oferują usługi",
+      "en": "Fields Gate [E] • townsfolk offer services"
+    },
+    {
+      "pl": "Porozmawiaj z Malakorem przy Namiocie Reliktów [E]",
+      "en": "Speak to Malakor at the Relic Tent [E]"
+    },
+    {
+      "pl": "Obroń grabarza • fala ",
+      "en": "Defend the gravedigger • wave "
+    },
+    {
+      "pl": "Strażnik pokonany • przejście otwarte; pozostało ",
+      "en": "Guardian defeated • passage open; remaining: "
+    },
+    {
+      "pl": "Przeżyj trakt • pokonaj Nadzorcę",
+      "en": "Survive the road • defeat the Overseer"
+    },
+    {
+      "pl": "Przerwij rytuał Malazara",
+      "en": "Interrupt Malazar's ritual"
+    },
+    {
+      "pl": "Znajdź strażnika przejścia • pozostali: ",
+      "en": "Find the passage guardian • remaining: "
+    },
+    {
+      "pl": "Odzyskaj odłamek Varkosa [E]",
+      "en": "Recover the shard of Varkos [E]"
+    },
+    {
+      "pl": "Przejdź dalej przy złotej pieczęci [E]",
+      "en": "Move on at the golden seal [E]"
+    },
+    {
+      "pl": "Krąg pokuty",
+      "en": "Circle of Penance"
+    },
+    {
+      "pl": "Łańcuch wyroku",
+      "en": "Chain of Judgment"
+    },
+    {
+      "pl": "Sąd popiołów",
+      "en": "Court of Ash"
+    },
+    {
+      "pl": "Pieczęć transfuzji",
+      "en": "Transfusion Seal"
+    },
+    {
+      "pl": "Krwawy splot",
+      "en": "Bloodweave"
+    },
+    {
+      "pl": "Morze posoki",
+      "en": "Sea of Ichor"
+    },
+    {
+      "pl": "Sokole oko",
+      "en": "Hawk's Eye"
+    },
+    {
+      "pl": "Strzała pęt",
+      "en": "Binding Arrow"
+    },
+    {
+      "pl": "Zaćmienie",
+      "en": "Eclipse"
+    },
+    {
+      "pl": "Studnia entropii",
+      "en": "Well of Entropy"
+    },
+    {
+      "pl": "Pętla czasu",
+      "en": "Time Loop"
+    },
+    {
+      "pl": "Martwa gwiazda",
+      "en": "Dead Star"
+    },
+    {
+      "pl": "Totem odnowy",
+      "en": "Renewal Totem"
+    },
+    {
+      "pl": "Ciernisty uścisk",
+      "en": "Thorn's Grasp"
+    },
+    {
+      "pl": "Przebudzenie dębu",
+      "en": "Oak Awakening"
+    },
+    {
+      "pl": "Rzadka broń klasowa zdobyta • most do Oakhaven otwarty",
+      "en": "Rare class weapon acquired • bridge to Oakhaven open"
+    },
+    {
+      "pl": "Irma • latarniczka",
+      "en": "Irma • lamplighter"
+    },
+    {
+      "pl": "Wczoraj zostawiłam dwanaście lamp. Rano wróciło trzynastu pielgrzymów. Żaden nie oddychał.\n\nMalazar otworzył groby pod katedrą Świętego Solariusa. Porozmawiaj z Malakorem przy Namiocie Reliktów. Potem idź przez Martwe Błonia. Serce pod katedrą nie może bić dla niego.",
+      "en": "Yesterday I left twelve lamps. This morning, thirteen pilgrims returned. None were breathing.\n\nMalazar has opened the graves beneath Saint Solarius's Cathedral. Speak to Malakor at the Relic Tent. Then cross the Dead Fields. The heart beneath the cathedral must not beat for him."
+    },
+    {
+      "pl": "Hargrym Bezręki",
+      "en": "Hargrym the One-Armed"
+    },
+    {
+      "pl": "Moja ręka działa na żarze. Twoje ostrze też może. Rozbiorę stare relikty, a z ich odłamków wykuję silniejsze.\n\nKuźnia Upadłej Gwiazdy • wzmacnianie broni, pancerza i pieczęci.",
+      "en": "My arm runs on embers. Your blade could, too. I'll break down old relics and forge stronger ones from their shards.\n\nFallen Star Forge • upgrade weapons, armor and seals."
+    },
+    {
+      "pl": "Meteorytowe kowadło",
+      "en": "Meteorite Anvil"
+    },
+    {
+      "pl": "Malakor • ślepy kronikarz",
+      "en": "Malakor • blind chronicler"
+    },
+    {
+      "pl": "Widzę lepiej odkąd zgasły moje oczy. Malazar chce nakarmić serce Varkosa krwią wiernych.\n\nPowierzam Ci wyprawę: odszukaj odłamek serca i powstrzymaj Malazara. Brama Martwych Błoni jest już dla Ciebie otwarta. Przejdź przez wąwóz i cmentarz, potem katakumby i krypty biskupów.\n\nW drodze wracaj z niezidentyfikowanymi reliktami; odczytam ich historię.",
+      "en": "I see more clearly now that my eyes have gone dark. Malazar means to feed the heart of Varkos with the blood of the faithful.\n\nI entrust this journey to you: find the heart shard and stop Malazar. The gate to the Dead Fields is open to you. Cross the ravine and cemetery, then descend into the catacombs and the bishops' crypts.\n\nBring me any unidentified relics you find; I will read their histories."
+    },
+    {
+      "pl": "Siostra Vespera",
+      "en": "Sister Vespera"
+    },
+    {
+      "pl": "Nie zdejmuję maski. Zapach Ichoritu zabija wcześniej niż jego dotyk.\n\nUzupełnię mikstury, połączę i wyjmę klejnoty. Zmieniam też zaklęcia oręża, pancerza i pieczęci.",
+      "en": "I do not remove my mask. Ichorite's scent kills before its touch.\n\nI can replenish potions, combine and remove gems, and change enchantments on your weapons, armor and seals."
+    },
+    {
+      "pl": "Eryk • handlarz reliktów",
+      "en": "Eryk • relic trader"
+    },
+    {
+      "pl": "Broń, pancerze i pieczęcie z wypraw. Kupisz tu wyposażenie i Zwoje Powrotu. Odkup zachowuję do opuszczenia miasta.",
+      "en": "Weapons, armor and seals brought back from expeditions. Buy equipment and Town Scrolls here. Buyback items remain available until you leave town."
+    },
+    {
+      "pl": "Neme • kartografka",
+      "en": "Neme • cartographer"
+    },
+    {
+      "pl": "Pęknięte Astrolabium pamięta tylko miejsca, do których dotarłeś. Wybierz odkryty punkt szlaku.",
+      "en": "The Cracked Astrolabe remembers only places you have reached. Choose a discovered waypoint."
+    },
+    {
+      "pl": "Ołtarz szat",
+      "en": "Altar of Garb"
+    },
+    {
+      "pl": "Wybierz barwy pielgrzyma. Barwienie nie zmienia statystyk pancerza.",
+      "en": "Choose your pilgrim's colors. Dyeing does not change armor stats."
+    },
+    {
+      "pl": "Żelazny kufer",
+      "en": "Iron Chest"
+    },
+    {
+      "pl": "Wspólny kufer tego urządzenia. Pozostaw relikty następnemu pielgrzymowi.",
+      "en": "A shared chest on this device. Leave relics for the next pilgrim."
+    },
+    {
+      "pl": "Zgubiony na trakcie",
+      "en": "Lost on the Road"
+    },
+    {
+      "pl": "NADZORCA GNILCÓW",
+      "en": "ROTLING OVERSEER"
+    },
+    {
+      "pl": "Herold ostatniego rytuału",
+      "en": "Herald of the Final Rite"
+    },
+    {
+      "pl": "Sługa Pękniętego Serca",
+      "en": "Servant of the Broken Heart"
+    },
+    {
+      "pl": "Widmo pierwszego grobowca",
+      "en": "Wraith of the First Tomb"
+    },
+    {
+      "pl": "Widmo drugiego grobowca",
+      "en": "Wraith of the Second Tomb"
+    },
+    {
+      "pl": "Widmo trzeciego grobowca",
+      "en": "Wraith of the Third Tomb"
+    },
+    {
+      "pl": "Hiena cmentarna",
+      "en": "Graveyard Hyena"
+    },
+    {
+      "pl": "Oren • grabarz",
+      "en": "Oren • gravedigger"
+    },
+    {
+      "pl": "Nie chcę złota. Daj mi tylko czas zamknąć te groby. Nadchodzą trzy fale. Nie opuszczę bramy.",
+      "en": "I don't want gold. Just give me time to seal these graves. Three waves are coming. I will not leave the gate."
+    },
+    {
+      "pl": "Źródło Życia",
+      "en": "Wellspring"
+    },
+    {
+      "pl": "Strażnik Wymazanych",
+      "en": "Guardian of the Erased"
+    },
+    {
+      "pl": "Dławiciel Korzeni",
+      "en": "Root Strangler"
+    },
+    {
+      "pl": "Pożeracz Żaru",
+      "en": "Ember Devourer"
+    },
+    {
+      "pl": "Dzwonnik Trzynastej Lampy",
+      "en": "Bellkeeper of the Thirteenth Lamp"
+    },
+    {
+      "pl": "Nadzorca Czarnej Wody",
+      "en": "Blackwater Overseer"
+    },
+    {
+      "pl": "Strażnik przejścia • ",
+      "en": "Passage guardian • "
+    },
+    {
+      "pl": "Strażnik miejsca ",
+      "en": "Area guardian "
+    },
+    {
+      "pl": "Pylon Rzezi",
+      "en": "Pylon of Slaughter"
+    },
+    {
+      "pl": "Kapliczka Upadłych",
+      "en": "Shrine of the Fallen"
+    },
+    {
+      "pl": "Edra • pod korzeniami",
+      "en": "Edra • beneath the roots"
+    },
+    {
+      "pl": "Korzenie trzymają moje serce. Możesz przeciąć splot i mnie uwolnić albo oczyścić drzewo. Wybierz, czy ocalisz wędrowca, czy pamięć lasu.",
+      "en": "The roots hold my heart. You can cut them and free me, or cleanse the tree. Choose whether to save a wanderer or the memory of the forest."
+    },
+    {
+      "pl": "Wygłodniały pokutnik",
+      "en": "Starved Penitent"
+    },
+    {
+      "pl": "Szkielet łucznik",
+      "en": "Skeleton Archer"
+    },
+    {
+      "pl": "Kultysta krwi",
+      "en": "Blood Cultist"
+    },
+    {
+      "pl": "Zmutowany ogar",
+      "en": "Mutant Hound"
+    },
+    {
+      "pl": "Widmo pielgrzyma",
+      "en": "Pilgrim Wraith"
+    },
+    {
+      "pl": "Plujnik Ichoritu",
+      "en": "Ichorite Spitter"
+    },
+    {
+      "pl": "Tarczownik biskupa",
+      "en": "Bishop's Shieldbearer"
+    },
+    {
+      "pl": "Mroczny kapłan",
+      "en": "Dark Priest"
+    },
+    {
+      "pl": "Nadzorca gnilców",
+      "en": "Rotling Overseer"
+    },
+    {
+      "pl": "Fanatyk ofiarny",
+      "en": "Sacrificial Fanatic"
+    },
+    {
+      "pl": "Kamienny gargulec",
+      "en": "Stone Gargoyle"
+    },
+    {
+      "pl": "Demon korzeni",
+      "en": "Root Demon"
+    },
+    {
+      "pl": "E • Las Ostatnich Szeptów",
+      "en": "E • Forest of Last Whispers"
+    },
+    {
+      "pl": "E • Piwnica spalonej farmy",
+      "en": "E • Burnt Farm Cellar"
+    },
+    {
+      "pl": "E • Kaplica Trzynastej Lampy",
+      "en": "E • Chapel of the Thirteenth Lamp"
+    },
+    {
+      "pl": "E • Cysterna Czarnej Wody",
+      "en": "E • Blackwater Cistern"
+    },
+    {
+      "pl": "E • Ossuarium Bez Imion",
+      "en": "E • Nameless Ossuary"
+    },
+    {
+      "pl": "E • Martwe Błonia",
+      "en": "E • Dead Fields"
+    },
+    {
+      "pl": "Najpierw porozmawiaj z Malakorem",
+      "en": "Speak to Malakor first"
+    },
+    {
+      "pl": "E • Odzyskaj serce",
+      "en": "E • Recover the heart"
+    },
+    {
+      "pl": "Droga zamknięta • pokonaj wrogów",
+      "en": "Path blocked • defeat the enemies"
+    },
+    {
+      "pl": "Przeciąłeś korzenie. Edra oddaje Ci pamiątki pielgrzymów i rusza do Oakhaven.",
+      "en": "You cut the roots. Edra gives you the pilgrims' keepsakes and sets off for Oakhaven."
+    },
+    {
+      "pl": "Oczyściłeś drzewo. Edra znika w jego korze. W dłoni zostaje bursztyn pamięci.",
+      "en": "You cleansed the tree. Edra vanishes into its bark. Amber of memory remains in your hand."
+    },
+    {
+      "pl": "Nieznana moc.",
+      "en": "Unknown skill."
+    },
+    {
+      "pl": "Zmarły z fali ",
+      "en": "Undead from wave "
+    },
+    {
+      "pl": "Obrona grabarza • fala ",
+      "en": "Defend the gravedigger • wave "
+    },
+    {
+      "pl": "Las Ostatnich Szeptów",
+      "en": "Forest of Last Whispers"
+    },
+    {
+      "pl": "Płaczące Katakumby • I",
+      "en": "Weeping Catacombs • I"
+    },
+    {
+      "pl": "Trakt Wisielców",
+      "en": "Gallows Road"
+    },
+    {
+      "pl": "Martwe Błonia",
+      "en": "Dead Fields"
+    },
+    {
+      "pl": "Cmentarzysko Zapomnianych",
+      "en": "Cemetery of the Forgotten"
+    },
+    {
+      "pl": "Płaczące Katakumby • II",
+      "en": "Weeping Catacombs • II"
+    },
+    {
+      "pl": "Płaczące Katakumby • III",
+      "en": "Weeping Catacombs • III"
+    },
+    {
+      "pl": "Krypta Królów-Biskupów",
+      "en": "Crypt of the Bishop-Kings"
+    },
+    {
+      "pl": "Komnata Pękniętego Serca",
+      "en": "Chamber of the Broken Heart"
+    },
+    {
+      "pl": "Piwnica pod spaloną farmą",
+      "en": "Burnt Farm Cellar"
+    },
+    {
+      "pl": "Kaplica Trzynastej Lampy",
+      "en": "Chapel of the Thirteenth Lamp"
+    },
+    {
+      "pl": "Cysterna Czarnej Wody",
+      "en": "Blackwater Cistern"
+    },
+    {
+      "pl": "Ossuarium Bez Imion",
+      "en": "Nameless Ossuary"
+    },
+    {
+      "pl": "Wąwóz Zgaszonych Sygnałów",
+      "en": "Ravine of Faded Signals"
+    },
+    {
+      "pl": "Krużganek Skrępowanych",
+      "en": "Cloister of the Bound"
+    },
+    {
+      "pl": "Galerie Dzwoniących Kości",
+      "en": "Galleries of Tolling Bones"
+    },
+    {
+      "pl": "Kuźnia Czarnego Serca",
+      "en": "Blackheart Forge"
+    },
+    {
+      "pl": "Próg Ostatniej Przysięgi",
+      "en": "Threshold of the Last Oath"
+    },
+    {
+      "pl": "Dwanaście lamp. Trzynastu pielgrzymów. Żaden nie oddychał.",
+      "en": "Twelve lamps. Thirteen pilgrims. None were breathing."
+    },
+    {
+      "pl": "Pod korzeniami Edra słyszy imiona tych, których las nie oddał.",
+      "en": "Beneath the roots, Edra hears the names of those the forest never released."
+    },
+    {
+      "pl": "Woda spływa po kamieniu. Pod kratami płynie coś gęstszego.",
+      "en": "Water runs down the stone. Something thicker flows beneath the grates."
+    },
+    {
+      "pl": "Ocalałeś z rozbitego wozu. Za mostem płoną ostatnie lampy Oakhaven.",
+      "en": "You survived the shattered wagon. Beyond the bridge, Oakhaven's last lamps still burn."
+    },
+    {
+      "pl": "Na polach nie rośnie już zboże. Studnie oddychają purpurą.",
+      "en": "Grain no longer grows in these fields. The wells breathe violet."
+    },
+    {
+      "pl": "Cztery mauzolea. Trzy groby. Jedna droga pod katedrę.",
+      "en": "Four mausoleums. Three graves. One path beneath the cathedral."
+    },
+    {
+      "pl": "Żelazo pamięta krzyki. Uważaj na zapowiedzi pułapek.",
+      "en": "Iron remembers the screams. Watch for the traps' warning signs."
+    },
+    {
+      "pl": "Fanatycy niosą własną krew do serca pod katedrą.",
+      "en": "Fanatics carry their own blood to the heart beneath the cathedral."
+    },
+    {
+      "pl": "Czarny marmur, złote czaszki. Kapłani podnoszą poległych strażników.",
+      "en": "Black marble, golden skulls. Priests raise the fallen guardians."
+    },
+    {
+      "pl": "Malazar przykował odłamek Varkosa do serca Oakhaven.",
+      "en": "Malazar has chained the shard of Varkos to the heart of Oakhaven."
+    },
+    {
+      "pl": "Ktoś ukrył zapasy pod popiołem. Ktoś jeszcze ich pilnuje.",
+      "en": "Someone hid supplies beneath the ash. Someone still guards them."
+    },
+    {
+      "pl": "Trzy lampy płoną zimnym ogniem. Ich światło prowadzi zmarłych do miasta.",
+      "en": "Three lamps burn with cold fire. Their light leads the dead into town."
+    },
+    {
+      "pl": "Woda pamięta każdą kroplę krwi. Zamknij dopływy, nim dotrze do studni Oakhaven.",
+      "en": "The water remembers every drop of blood. Close the inlets before it reaches Oakhaven's wells."
+    },
+    {
+      "pl": "Biskupi zeskrobali imiona z kości. Kamień zachował to, czego bali się żywi.",
+      "en": "The bishops scraped the names from the bones. Stone preserved what the living feared."
+    },
+    {
+      "pl": "Trzy wieże zgasły. Bez ich sygnałów karawany błądzą ku krawędzi przepaści.",
+      "en": "Three towers have gone dark. Without their signals, caravans stray toward the abyss."
+    },
+    {
+      "pl": "Przysięgi stały się łańcuchami. Rozbij więzy, zanim cienie zapomną własne głosy.",
+      "en": "Oaths have become chains. Break the bonds before the shadows forget their own voices."
+    },
+    {
+      "pl": "Każda otwarta krypta jest gardłem. Trzy gardła śpiewają imię Malazara.",
+      "en": "Every open crypt is a throat. Three throats sing Malazar's name."
+    },
+    {
+      "pl": "Młoty wykuwają dla serca nowe żebra. Wygaszaj paleniska, zanim zamkną się wokół odłamka.",
+      "en": "Hammers forge new ribs for the heart. Quench the furnaces before they close around the shard."
+    },
+    {
+      "pl": "Serce karmi się trzema przysięgami. Zerwij ich pieczęcie, a biskup usłyszy twoje kroki.",
+      "en": "The heart feeds on three oaths. Break their seals, and the bishop will hear your footsteps."
+    },
+    {
+      "pl": "POMIŃ  ·  SPACJA / ESC",
+      "en": "SKIP  ·  SPACE / ESC"
+    },
+    {
+      "pl": "Ż N I W O   U P A D Ł Y C H   G W I A Z D",
+      "en": "H A R V E S T   O F   F A L L E N   S T A R S"
+    },
+    {
+      "pl": "KONTYNUUJ WYPRAWĘ",
+      "en": "CONTINUE JOURNEY"
+    },
+    {
+      "pl": "Nie udało się odczytać zapisu.",
+      "en": "The saved game could not be loaded."
+    },
+    {
+      "pl": "NOWA WYPRAWA",
+      "en": "NEW JOURNEY"
+    },
+    {
+      "pl": "USTAWIENIA",
+      "en": "SETTINGS"
+    },
+    {
+      "pl": "STEROWANIE",
+      "en": "CONTROLS"
+    },
+    {
+      "pl": "AUTORZY I LICENCJE",
+      "en": "CREDITS & LICENSES"
+    },
+    {
+      "pl": "ZAKOŃCZ GRĘ",
+      "en": "QUIT GAME"
+    },
+    {
+      "pl": "AKT I  /  SERCE POD KATEDRĄ",
+      "en": "ACT I  /  THE HEART BENEATH THE CATHEDRAL"
+    },
+    {
+      "pl": "PROFIL ",
+      "en": "PROFILE "
+    },
+    {
+      "pl": "TWOJA OSTATNIA WYPRAWA",
+      "en": "YOUR LAST JOURNEY"
+    },
+    {
+      "pl": "KRONIKA JESZCZE NIE ZOSTAŁA ZAPISANA",
+      "en": "YOUR CHRONICLE IS YET UNWRITTEN"
+    },
+    {
+      "pl": "Pięcioro pielgrzymów. Jedno bijące serce.\nWybierz bohatera i wyrusz ku Oakhaven.",
+      "en": "Five pilgrims. One beating heart.\nChoose a hero and set out for Oakhaven."
+    },
+    {
+      "pl": "VAELORIA  •  TRZY STULECIA PO GWIAZDOSPADZIE",
+      "en": "VAELORIA  •  THREE CENTURIES AFTER STARFALL"
+    },
+    {
+      "pl": "KRONIKA PIELGRZYMÓW",
+      "en": "CHRONICLE OF PILGRIMS"
+    },
+    {
+      "pl": "Wybierz tego, kto poniesie ostatni żar upadłych gwiazd.",
+      "en": "Choose who will carry the last ember of the fallen stars."
+    },
+    {
+      "pl": "Przytrzymaj LPM i przeciągnij, aby obrócić postać",
+      "en": "Hold LMB and drag to rotate the character"
+    },
+    {
+      "pl": "ŻYCIE  ",
+      "en": "HEALTH  "
+    },
+    {
+      "pl": "SZEŚĆ MOCY  /  DWIE ŚCIEŻKI RUN",
+      "en": "SIX SKILLS  /  TWO RUNE PATHS"
+    },
+    {
+      "pl": "WRÓĆ DO MENU",
+      "en": "BACK TO MENU"
+    },
+    {
+      "pl": "ROZPOCZNIJ WYPRAWĘ",
+      "en": "BEGIN JOURNEY"
+    },
+    {
+      "pl": "NOWA HISTORIA  •  POZIOM 1",
+      "en": "NEW STORY  •  LEVEL 1"
+    },
+    {
+      "pl": "  •  POZIOM ",
+      "en": "  •  LEVEL "
+    },
+    {
+      "pl": "WRÓĆ DO WYPRAWY  [ESC]",
+      "en": "RESUME JOURNEY  [ESC]"
+    },
+    {
+      "pl": "RELIKWIARZ  [I]",
+      "en": "RELIQUARY  [I]"
+    },
+    {
+      "pl": "KSIĘGA MOCY  [K]",
+      "en": "SPELLBOOK  [K]"
+    },
+    {
+      "pl": "DZIENNIK  [J]",
+      "en": "JOURNAL  [J]"
+    },
+    {
+      "pl": "TALENTY  [V]",
+      "en": "TALENTS  [V]"
+    },
+    {
+      "pl": "ZAPISZ I WRÓĆ DO MENU",
+      "en": "SAVE & RETURN TO MENU"
+    },
+    {
+      "pl": "Wyprawa zatrzymana.\nMożesz odetchnąć — mrok zaczeka.",
+      "en": "Journey paused.\nTake a breath — the darkness can wait."
+    },
+    {
+      "pl": "WRÓĆ DO MENU  [ESC]",
+      "en": "BACK TO MENU  [ESC]"
+    },
+    {
+      "pl": "WRÓĆ DO PAUZY  [ESC]",
+      "en": "BACK TO PAUSE MENU  [ESC]"
+    },
+    {
+      "pl": "Licencje znajdują się w katalogu Licenses gry.",
+      "en": "Licenses are included in the game's Licenses folder."
+    },
+    {
+      "pl": "ZAKOŃCZYĆ WYPRAWĘ?",
+      "en": "END THIS JOURNEY?"
+    },
+    {
+      "pl": "OPUŚCIĆ VAELORIĘ?",
+      "en": "LEAVE VAELORIA?"
+    },
+    {
+      "pl": "Rozpoczęcie nowej historii zastąpi zapis obecną postacią. Dotychczasowa wyprawa zostanie utracona.",
+      "en": "Starting a new story will overwrite this character's save. Your current journey will be lost."
+    },
+    {
+      "pl": "Zapiszemy postęp wyprawy. Po powrocie rozpoczniesz od wejścia do bieżącej lokacji.",
+      "en": "Your journey will be saved. When you return, you will begin at the entrance to the current area."
+    },
+    {
+      "pl": "Gra zostanie zamknięta. Zapisana wyprawa będzie czekać na Twój powrót.",
+      "en": "The game will close. Your saved journey will await your return."
+    },
+    {
+      "pl": "ZOSTAJĘ",
+      "en": "STAY"
+    },
+    {
+      "pl": "ROZPOCZNIJ",
+      "en": "BEGIN"
+    },
+    {
+      "pl": "POTWIERDZAM",
+      "en": "CONFIRM"
+    },
+    {
+      "pl": "Znamie krwi",
+      "en": "Blood Mark"
+    },
+    {
+      "pl": "ZNAMIĘ ",
+      "en": "MARK "
+    },
+    {
+      "pl": "Kontra gotowa",
+      "en": "Counter ready"
+    },
+    {
+      "pl": "KONTRA",
+      "en": "COUNTER"
+    },
+    {
+      "pl": "Nadchodzaca osobliwosc",
+      "en": "Approaching Singularity"
+    },
+    {
+      "pl": "Narastajace korzenie",
+      "en": "Rising Roots"
+    },
+    {
+      "pl": "Nadchodzacy wyrok",
+      "en": "Coming Judgment"
+    },
+    {
+      "pl": "Splot korzeni",
+      "en": "Root Entanglement"
+    },
+    {
+      "pl": "trzy kolejne wyroki na linii",
+      "en": "three successive judgments in a line"
+    },
+    {
+      "pl": "wyrok po 0,25 s",
+      "en": "judgment after 0.25 s"
+    },
+    {
+      "pl": "Znaki krwi: ",
+      "en": "Blood marks: "
+    },
+    {
+      "pl": "Krwawa detonacja: ",
+      "en": "Blood detonation: "
+    },
+    {
+      "pl": " • zużywa znamiona",
+      "en": " • consumes marks"
+    },
+    {
+      "pl": "Przebicia: ",
+      "en": "Pierces: "
+    },
+    {
+      "pl": " • spowolnienie 3 s",
+      "en": " • slows for 3 s"
+    },
+    {
+      "pl": "Osobliwość po ",
+      "en": "Singularity after "
+    },
+    {
+      "pl": " s • przyciąga zwykłych wrogów",
+      "en": " s • pulls normal enemies"
+    },
+    {
+      "pl": "splot korzeni • 2,5 s",
+      "en": "root entanglement • 2.5 s"
+    },
+    {
+      "pl": "trzy sploty korzeni • blokują ruch zwykłych wrogów",
+      "en": "three root tangles • stop normal enemies moving"
+    },
+    {
+      "pl": "Przepełnienie",
+      "en": "Overflow"
+    },
+    {
+      "pl": "Przepełnienie • +50% obrażeń przez 6 s",
+      "en": "Overflow • +50% damage for 6 s"
+    },
+    {
+      "pl": " • maks. 3 cele, 5 po Kroku Cienia",
+      "en": " • up to 3 targets, 5 after Shadow Step"
+    },
+    {
+      "pl": "osobliwość po 0,85 s • przyciąga zwykłych wrogów",
+      "en": "singularity after 0.85 s • pulls normal enemies"
+    },
+    {
+      "pl": "Detonacja: ",
+      "en": "Detonation: "
+    },
+    {
+      "pl": " • do 3 znamion na cel; trafienia podstawowe nakładają znamiona",
+      "en": " • up to 3 marks per target; basic hits apply marks"
+    },
+    {
+      "pl": "Trafienia w stożku: ",
+      "en": "Cone hits: "
+    },
+    {
+      "pl": " • ogłuszenie; elity mają odporność",
+      "en": " • stun; elites gain resistance"
+    },
+    {
+      "pl": " • osłabienie pancerza 5 s",
+      "en": " • reduced armor for 5 s"
+    },
+    {
+      "pl": " • korzenie ",
+      "en": " • roots "
+    },
+    {
+      "pl": " s; wrogowie nadal atakują",
+      "en": " s; enemies can still attack"
+    },
+    {
+      "pl": "Żelazna Pokuta",
+      "en": "Iron Penance"
+    },
+    {
+      "pl": "Okno kontry",
+      "en": "Counter Window"
+    },
+    {
+      "pl": "Transfuzja",
+      "en": "Transfusion"
+    },
+    {
+      "pl": "Krok Cienia",
+      "en": "Shadow Step"
+    },
+    {
+      "pl": "Celny powrót",
+      "en": "Precise Return"
+    },
+    {
+      "pl": "Płaszcz Próżni",
+      "en": "Void Mantle"
+    },
+    {
+      "pl": "Pochłonięta energia",
+      "en": "Absorbed Energy"
+    },
+    {
+      "pl": "Kora Przodków",
+      "en": "Ancestral Bark"
+    },
+    {
+      "pl": "Poziom ",
+      "en": "Level "
+    },
+    {
+      "pl": " • punkt talentu [V] • odnowione zdrowie",
+      "en": " • talent point [V] • health restored"
+    },
+    {
+      "pl": "Malazar upadł • odzyskaj odłamek serca [E]",
+      "en": "Malazar has fallen • recover the heart shard [E]"
+    },
+    {
+      "pl": "Szlak oczyszczony • złota pieczęć wskazuje przejście",
+      "en": "Path cleared • the golden seal marks the passage"
+    },
+    {
+      "pl": "Skaza Ichoritu",
+      "en": "Ichorite Blight"
+    },
+    {
+      "pl": "Eksplozja Ichoritu • skaza rozproszona",
+      "en": "Ichorite explosion • blight dispersed"
+    },
+    {
+      "pl": "Rozpocznij wyprawę.",
+      "en": "Begin a journey."
+    },
+    {
+      "pl": "Wznów grę, aby użyć mocy.",
+      "en": "Resume the game to use skills."
+    },
+    {
+      "pl": "Pomiń wprowadzenie [Spacja].",
+      "en": "Skip the introduction [Space]."
+    },
+    {
+      "pl": "Moce bojowe są wyłączone w mieście.",
+      "en": "Combat skills are disabled in town."
+    },
+    {
+      "pl": "Wymagany poziom 4.",
+      "en": "Requires level 4."
+    },
+    {
+      "pl": "Odnowienie: ",
+      "en": "Cooldown: "
+    },
+    {
+      "pl": "Za mało: Mrok (",
+      "en": "Not enough: Darkness ("
+    },
+    {
+      "pl": "Za mało: ",
+      "en": "Not enough: "
+    },
+    {
+      "pl": "NIEGOTOWE",
+      "en": "NOT READY"
+    },
+    {
+      "pl": "OBRONA",
+      "en": "DEFENSE"
+    },
+    {
+      "pl": "WZMOCNIENIE",
+      "en": "EMPOWERED"
+    },
+    {
+      "pl": "MOC!",
+      "en": "SKILL!"
+    },
+    {
+      "pl": "Ładowanie osobliwości: eksplozja po opóźnieniu",
+      "en": "Charging singularity: delayed explosion"
+    },
+    {
+      "pl": "Otrzymywane obrażenia −55%",
+      "en": "Damage taken −55%"
+    },
+    {
+      "pl": "Otrzymywane obrażenia −30%",
+      "en": "Damage taken −30%"
+    },
+    {
+      "pl": "Leczenie za 15% zadanych obrażeń",
+      "en": "Heal for 15% of damage dealt"
+    },
+    {
+      "pl": "Zadawane obrażenia +30%",
+      "en": "Damage dealt +30%"
+    },
+    {
+      "pl": "Regeneracja +6 HP/s; splot zatrzymuje ruch zwykłych wrogów",
+      "en": "Regeneration +6 HP/s; roots stop normal enemies moving"
+    },
+    {
+      "pl": "Pierwsze trafienie daje kontrę; dodatkowa redukcja 85%",
+      "en": "The first hit grants a counter; an extra 85% reduction"
+    },
+    {
+      "pl": "Następny cios lub moc główna: obrażenia +75%",
+      "en": "Next strike or primary skill: +75% damage"
+    },
+    {
+      "pl": "Następna strzała przebijająca: +25% obrażeń i 2 cele",
+      "en": "Next piercing arrow: +25% damage and 2 targets"
+    },
+    {
+      "pl": "Magazynuje część obrażeń i oddaje je po 3 s",
+      "en": "Stores some damage and releases it after 3 s"
+    },
+    {
+      "pl": "Niewrażliwość i szybkość +35%",
+      "en": "Invulnerability and +35% speed"
+    },
+    {
+      "pl": "Zadawane obrażenia +50%",
+      "en": "Damage dealt +50%"
+    },
+    {
+      "pl": "Darmowe moce, odnowienie −75%",
+      "en": "Free skills, cooldown −75%"
+    },
+    {
+      "pl": "Szybkość i łańcuchy światła",
+      "en": "Speed and chains of light"
+    },
+    {
+      "pl": "Leczenie −10% za warstwę",
+      "en": "Healing −10% per stack"
+    },
+    {
+      "pl": "Ruch i ataki spowolnione",
+      "en": "Movement and attacks slowed"
+    },
+    {
+      "pl": "Aktywny efekt",
+      "en": "Active effect"
+    },
+    {
+      "pl": "Ogar Ichoritu",
+      "en": "Ichorite Hound"
+    },
+    {
+      "pl": "Inkwizytor Popiołów",
+      "en": "Ash Inquisitor"
+    },
+    {
+      "pl": "OSTRZE • PANCERZ • OGIEŃ",
+      "en": "BLADE • ARMOR • FIRE"
+    },
+    {
+      "pl": "Żar",
+      "en": "Ember"
+    },
+    {
+      "pl": "Wyrok Niebios",
+      "en": "Heaven's Judgment"
+    },
+    {
+      "pl": "Spalił zakon, który kazał mu strzec martwego boga. Teraz niesie ostatni żar jego serca.",
+      "en": "He burned the order that commanded him to guard a dead god. Now he carries the last ember of its heart."
+    },
+    {
+      "pl": "Tkacz Krwi",
+      "en": "Blood Weaver"
+    },
+    {
+      "pl": "Mira Szept",
+      "en": "Mira Whisper"
+    },
+    {
+      "pl": "POSOKA • DRENAŻ • KLĄTWY",
+      "en": "ICHOR • DRAIN • CURSES"
+    },
+    {
+      "pl": "Posoka",
+      "en": "Ichor"
+    },
+    {
+      "pl": "Żniwo Znamion",
+      "en": "Harvest of Marks"
+    },
+    {
+      "pl": "Chirurżka bez katedry. Słyszy wspomnienia w krwi poległych i szuka imienia swojej siostry.",
+      "en": "A surgeon without a cathedral. She hears memories in the blood of the fallen and searches for her sister's name."
+    },
+    {
+      "pl": "Łowca Zmierzchu",
+      "en": "Dusk Hunter"
+    },
+    {
+      "pl": "Kael Wrona",
+      "en": "Kael Crow"
+    },
+    {
+      "pl": "ŁUK • MOBILNOŚĆ • PRZEBICIE",
+      "en": "BOW • MOBILITY • PIERCING"
+    },
+    {
+      "pl": "Skupienie",
+      "en": "Focus"
+    },
+    {
+      "pl": "Przeszywający Cień",
+      "en": "Piercing Shadow"
+    },
+    {
+      "pl": "Przeprowadzał uchodźców przez las, aż jedna karawana wróciła bez żywych. Od tej nocy tropi jej przewodnika.",
+      "en": "He led refugees through the forest until one caravan returned with no survivors. Since that night, he has hunted its guide."
+    },
+    {
+      "pl": "Zwiastun Próżni",
+      "en": "Void Herald"
+    },
+    {
+      "pl": "Ilyra Bezgwiezdna",
+      "en": "Ilyra the Starless"
+    },
+    {
+      "pl": "ENTROPIA • OBSZAR • KONTROLA",
+      "en": "ENTROPY • AREA • CONTROL"
+    },
+    {
+      "pl": "Entropia",
+      "en": "Entropy"
+    },
+    {
+      "pl": "Osobliwość",
+      "en": "Singularity"
+    },
+    {
+      "pl": "Astronomka, która zobaczyła przestrzeń między Słońcami. Na jej mapach pojawia się ósmy cień.",
+      "en": "An astronomer who saw the space between the Suns. An eighth shadow appears on her charts."
+    },
+    {
+      "pl": "Strażnik Korzeni",
+      "en": "Root Warden"
+    },
+    {
+      "pl": "Brann Cierniowy",
+      "en": "Brann Thorn"
+    },
+    {
+      "pl": "TOPÓR • KORZENIE • ODNOWA",
+      "en": "AXE • ROOTS • RENEWAL"
+    },
+    {
+      "pl": "Żywica",
+      "en": "Resin"
+    },
+    {
+      "pl": "Gniew Korzeni",
+      "en": "Wrath of Roots"
+    },
+    {
+      "pl": "Ostatni opiekun Dębu Pamięci. Pod jego korą rośnie Ichorit, a każda gałąź pamięta innego zmarłego.",
+      "en": "The last keeper of the Oak of Memory. Ichorite grows beneath its bark, and each branch remembers a different soul."
+    },
+    {
+      "pl": "Beczka",
+      "en": "Barrel"
+    },
+    {
+      "pl": "Urna pogrzebowa",
+      "en": "Funerary Urn"
+    },
+    {
+      "pl": "Skrzynia zapasów",
+      "en": "Supply Crate"
+    },
+    {
+      "pl": "Żelazna puszka",
+      "en": "Iron Can"
+    },
+    {
+      "pl": " [LPM]",
+      "en": " [LMB]"
+    },
+    {
+      "pl": "Relikt z pojemnika",
+      "en": "Container relic"
+    },
+    {
+      "pl": "Zawartość: ",
+      "en": "Contents: "
+    },
+    {
+      "pl": "Pełny plecak [I] • relikt z pojemnika czeka na ziemi",
+      "en": "Backpack full [I] • the container's relic is on the ground"
+    },
+    {
+      "pl": " zł",
+      "en": " gold"
+    },
+    {
+      "pl": "+1 odłamek rzemieślniczy",
+      "en": "+1 crafting shard"
+    },
+    {
+      "pl": "+1 mikstura",
+      "en": "+1 potion"
+    },
+    {
+      "pl": "Pełny pas • +5 zł",
+      "en": "Belt full • +5 gold"
+    },
+    {
+      "pl": "Znaleziono: ",
+      "en": "Found: "
+    },
+    {
+      "pl": "Pieczęć",
+      "en": "Seal"
+    },
+    {
+      "pl": "Kula Łaski",
+      "en": "Orb of Grace"
+    },
+    {
+      "pl": "Złoto",
+      "en": "Gold"
+    },
+    {
+      "pl": "Łaska Upadłych",
+      "en": "Grace of the Fallen"
+    },
+    {
+      "pl": "Łaska Upadłych • warstwy: ",
+      "en": "Grace of the Fallen • stacks: "
+    },
+    {
+      "pl": "Pętla Czasu",
+      "en": "Time Loop"
+    },
+    {
+      "pl": "OFIARA +6%",
+      "en": "SACRIFICE +6%"
+    },
+    {
+      "pl": "MALAZAR • ROZDARCIE • unikaj szarży i żaru posadzki",
+      "en": "MALAZAR • RUPTURE • dodge charges and burning floor"
+    },
+    {
+      "pl": "Fanatycy idą do serca — zabij ich, zanim uleczą Malazara",
+      "en": "Fanatics are approaching the heart — kill them before they heal Malazar"
+    },
+    {
+      "pl": "Kapłan wskrzesił strażnika — przerwij jego rytuał",
+      "en": "The priest revived a guardian — interrupt the ritual"
+    },
+    {
+      "pl": "LPM",
+      "en": "LMB"
+    },
+    {
+      "pl": "{KEYRAW:skill} / PPM",
+      "en": "{KEYRAW:skill} / RMB"
+    },
+    {
+      "pl": "{KEYRAW:inventory}  EKWIPUNEK",
+      "en": "{KEYRAW:inventory}  INVENTORY"
+    },
+    {
+      "pl": "{KEYRAW:book}  KSIĘGA",
+      "en": "{KEYRAW:book}  SPELLBOOK"
+    },
+    {
+      "pl": "{KEYRAW:journal}  DZIENNIK",
+      "en": "{KEYRAW:journal}  JOURNAL"
+    },
+    {
+      "pl": "NISKIE ZDROWIE  •  {KEYRAW:potion}: MIKSTURA",
+      "en": "LOW HEALTH  •  {KEYRAW:potion}: POTION"
+    },
+    {
+      "pl": "  ŻYCIE",
+      "en": "  HEALTH"
+    },
+    {
+      "pl": "POZ.4",
+      "en": "LV.4"
+    },
+    {
+      "pl": "MIASTO",
+      "en": "TOWN"
+    },
+    {
+      "pl": "Za mało",
+      "en": "Not enough"
+    },
+    {
+      "pl": "ZASÓB",
+      "en": "RESOURCE"
+    },
+    {
+      "pl": "CHWILA",
+      "en": "WAIT"
+    },
+    {
+      "pl": "  •  POZ. ",
+      "en": "  •  LV. "
+    },
+    {
+      "pl": "  •  {KEYRAW:potion}: mikstura ×",
+      "en": "  •  {KEYRAW:potion}: potion ×"
+    },
+    {
+      "pl": "Złoto ",
+      "en": "Gold "
+    },
+    {
+      "pl": " • Odłamki ",
+      "en": " • Shards "
+    },
+    {
+      "pl": "WYKUJ RELIKT • 12 ODŁAMKÓW",
+      "en": "FORGE RELIC • 12 SHARDS"
+    },
+    {
+      "pl": "ZWÓJ POWROTU • ",
+      "en": "TOWN SCROLL • "
+    },
+    {
+      "pl": " ZŁ",
+      "en": " GOLD"
+    },
+    {
+      "pl": "WRÓĆ PO ŚLADZIE",
+      "en": "RETRACE YOUR STEPS"
+    },
+    {
+      "pl": "Ślad: ",
+      "en": "Trail: "
+    },
+    {
+      "pl": "Zwój zapisuje miejsce powrotu; ślad jest jednorazowy.",
+      "en": "A scroll marks your return point; the trail can be used once."
+    },
+    {
+      "pl": "Cztery mauzolea. Malazar jest dalej niż groby królów. Najpierw ucisz kapłanów, którzy wskrzeszają tarczowników.",
+      "en": "Four mausoleums. Malazar waits beyond the kings' tombs. First silence the priests who revive the shieldbearers."
+    },
+    {
+      "pl": "IDENTYFIKUJ PIERWSZY NIEZNANY RELIKT • 10 ZŁ",
+      "en": "IDENTIFY FIRST UNKNOWN RELIC • 10 GOLD"
+    },
+    {
+      "pl": "UWOLNIJ EDRĘ • 12 ODŁAMKÓW",
+      "en": "FREE EDRA • 12 SHARDS"
+    },
+    {
+      "pl": "OCZYŚĆ DRZEWO • KAMIEŃ PAMIĘCI",
+      "en": "CLEANSE THE TREE • MEMORY STONE"
+    },
+    {
+      "pl": "Najpierw pokonaj strażników korzeni.",
+      "en": "Defeat the root guardians first."
+    },
+    {
+      "pl": "Decyzja zostanie zapisana.",
+      "en": "Your choice will be saved."
+    },
+    {
+      "pl": "ZAMKNIJ • WRÓĆ DO WYPRAWY",
+      "en": "CLOSE • RESUME JOURNEY"
+    },
+    {
+      "pl": "CHRONIONY",
+      "en": "PROTECTED"
+    },
+    {
+      "pl": "ODŁÓŻ DO KUFRA",
+      "en": "STORE IN CHEST"
+    },
+    {
+      "pl": "ROZŁÓŻ NA ODŁAMKI",
+      "en": "SALVAGE FOR SHARDS"
+    },
+    {
+      "pl": "W KUFRZE • ",
+      "en": "IN CHEST • "
+    },
+    {
+      "pl": "ZABIERZ",
+      "en": "TAKE"
+    },
+    {
+      "pl": "Ruch naprzód",
+      "en": "Move forward"
+    },
+    {
+      "pl": "Ruch w tył",
+      "en": "Move backward"
+    },
+    {
+      "pl": "Ruch w lewo",
+      "en": "Move left"
+    },
+    {
+      "pl": "Ruch w prawo",
+      "en": "Move right"
+    },
+    {
+      "pl": "Moc główna (także PPM)",
+      "en": "Primary skill (also RMB)"
+    },
+    {
+      "pl": "Ochrona (także 1)",
+      "en": "Defense (also 1)"
+    },
+    {
+      "pl": "Druga moc",
+      "en": "Second skill"
+    },
+    {
+      "pl": "Trzecia moc",
+      "en": "Third skill"
+    },
+    {
+      "pl": "Moc ostateczna",
+      "en": "Ultimate skill"
+    },
+    {
+      "pl": "Unik",
+      "en": "Dodge"
+    },
+    {
+      "pl": "Mikstura",
+      "en": "Potion"
+    },
+    {
+      "pl": "Interakcja",
+      "en": "Interact"
+    },
+    {
+      "pl": "Ekwipunek",
+      "en": "Inventory"
+    },
+    {
+      "pl": "Księga mocy",
+      "en": "Spellbook"
+    },
+    {
+      "pl": "Dziennik",
+      "en": "Journal"
+    },
+    {
+      "pl": "Zwój / modlitwa powrotu",
+      "en": "Town scroll / prayer"
+    },
+    {
+      "pl": "Wyciszenie",
+      "en": "Mute"
+    },
+    {
+      "pl": "Drzewo talentów",
+      "en": "Talent tree"
+    },
+    {
+      "pl": "SPACJA",
+      "en": "SPACE"
+    },
+    {
+      "pl": "Ruszaj traktem. Użyj ",
+      "en": "Follow the road. Use "
+    },
+    {
+      "pl": " albo kliknij drogę.",
+      "en": " or click the path."
+    },
+    {
+      "pl": "Kliknij przeciwnika, aby podejść i uderzyć. Shift + LPM pozwala atakować bez ruchu.",
+      "en": "Click an enemy to approach and strike. Shift + LMB lets you attack without moving."
+    },
+    {
+      "pl": "Wyceluj i użyj ",
+      "en": "Aim and press "
+    },
+    {
+      "pl": " lub PPM. Zasób i czas odnowienia widać na pasie mocy.",
+      "en": " or RMB. Your resource and cooldown appear on the skill bar."
+    },
+    {
+      "pl": "Unik: ",
+      "en": "Dodge: "
+    },
+    {
+      "pl": ". Ochrona: ",
+      "en": ". Defense: "
+    },
+    {
+      "pl": ". Reaguj na zapowiedzi ciosów; ",
+      "en": ". Watch for attack warnings; "
+    },
+    {
+      "pl": " leczy miksturą.",
+      "en": " drinks a healing potion."
+    },
+    {
+      "pl": "Pokonaj Nadzorcę. Podejdź do pieczęci i wciśnij ",
+      "en": "Defeat the Overseer. Approach the seal and press "
+    },
+    {
+      "pl": ", aby przejść do Oakhaven.",
+      "en": "to enter Oakhaven."
+    },
+    {
+      "pl": "Porozmawiaj z mieszkańcami. Dziennik: ",
+      "en": "Speak to the townsfolk. Journal: "
+    },
+    {
+      "pl": ". Relikty: ",
+      "en": ". Relics: "
+    },
+    {
+      "pl": ". Księga mocy: ",
+      "en": ". Spellbook: "
+    },
+    {
+      "pl": "PIERWSZA WYPRAWA  •  ",
+      "en": "FIRST JOURNEY  •  "
+    },
+    {
+      "pl": "ZNAM PODSTAWY • POMIŃ",
+      "en": "I KNOW THE BASICS • SKIP"
+    },
+    {
+      "pl": "Kliknij klawisz, potem naciśnij nowy. Zajęte klawisze zamieniają się miejscami.",
+      "en": "Click a binding, then press a new key. Occupied keys swap places."
+    },
+    {
+      "pl": "NACIŚNIJ KLAWISZ…",
+      "en": "PRESS A KEY…"
+    },
+    {
+      "pl": "PRZYWRÓĆ DOMYŚLNE STEROWANIE",
+      "en": "RESTORE DEFAULT CONTROLS"
+    },
+    {
+      "pl": "CZYTELNOŚĆ I WPROWADZENIE",
+      "en": "READABILITY & TUTORIAL"
+    },
+    {
+      "pl": "Większy tekst rozmów, zadań i opisów",
+      "en": "Larger dialogue, quest and description text"
+    },
+    {
+      "pl": "WIĘKSZY",
+      "en": "LARGER"
+    },
+    {
+      "pl": "STANDARDOWY",
+      "en": "STANDARD"
+    },
+    {
+      "pl": "Wstrząsy kamery podczas trafień",
+      "en": "Camera shake on impact"
+    },
+    {
+      "pl": "WŁĄCZONE",
+      "en": "ON"
+    },
+    {
+      "pl": "WYŁĄCZONE",
+      "en": "OFF"
+    },
+    {
+      "pl": "POWTÓRZ WPROWADZENIE DO GRY",
+      "en": "RESTART GAMEPLAY TUTORIAL"
+    },
+    {
+      "pl": "Wskazówki pojawią się po wznowieniu wyprawy.",
+      "en": "Hints will appear when you resume your journey."
+    },
+    {
+      "pl": "MAPA: ODKRYWANA PODCZAS WĘDRÓWKI",
+      "en": "MAP: REVEALED AS YOU EXPLORE"
+    },
+    {
+      "pl": "MAPA: CAŁY TEREN",
+      "en": "MAP: ENTIRE AREA"
+    },
+    {
+      "pl": "Wskazówki kończą się po wykonaniu czynności. Możesz je pominąć w dowolnej chwili.",
+      "en": "Hints end when you complete their actions. You can skip them at any time."
+    },
+    {
+      "pl": " • Rozdarcie",
+      "en": " • Rupture"
+    },
+    {
+      "pl": "SKUP.",
+      "en": "FOCUS"
+    },
+    {
+      "pl": "MROK",
+      "en": "DARK"
+    },
+    {
+      "pl": "LPM • ",
+      "en": "LMB • "
+    },
+    {
+      "pl": " obrażeń bazowych • ",
+      "en": " base damage • "
+    },
+    {
+      "pl": " m\nTrafienie odnawia zasób. ",
+      "en": " m\nHits restore your resource. "
+    },
+    {
+      "pl": "Gotowa kontra wzmacnia następne trafienie o 75%.",
+      "en": "A ready counter empowers the next hit by 75%."
+    },
+    {
+      "pl": "Trafienie nakłada znamię krwi na 7 s, maks. 3. Detonuj je mocą główną.",
+      "en": "Hits apply a Blood Mark for 7 s, up to 3. Detonate them with your primary skill."
+    },
+    {
+      "pl": "Pojedynczy cel na linii strzału.",
+      "en": "A single target in the line of fire."
+    },
+    {
+      "pl": "Trafienie dodaje 20 Entropii.",
+      "en": "Hits grant 20 Entropy."
+    },
+    {
+      "pl": "Cios zakorzenia zwykłego wroga na 0,65 s; wróg nadal może atakować.",
+      "en": "Strikes root normal enemies for 0.65 s; they can still attack."
+    },
+    {
+      "pl": "Stożek 3,6 m: ",
+      "en": "3.6 m cone: "
+    },
+    {
+      "pl": " obrażeń. ",
+      "en": " damage. "
+    },
+    {
+      "pl": "Osłabienie pancerza na 5 s.",
+      "en": "Reduces armor for 5 s."
+    },
+    {
+      "pl": "Ogłuszenie 3 s; elity maks. 0,75 s, potem 5 s odporności.",
+      "en": "Stuns for 3 s; elites for up to 0.75 s, then gain 5 s immunity."
+    },
+    {
+      "pl": "Detonuje znamiona w 4 m od celu (zasięg 8 m). Bez znamion 32% obrażeń; 1–3 znamiona: 115/160/205%. Leczy za zużyte znamiona.",
+      "en": "Detonates marks within 4 m of the target (8 m range). No marks: 32% damage; 1–3 marks: 115/160/205%. Heals for marks consumed."
+    },
+    {
+      "pl": "Strzała na 12 m przebija 3 cele; każdy kolejny otrzymuje 88% poprzednich obrażeń. ",
+      "en": "An arrow travels 12 m and pierces 3 targets; each successive target takes 88% of the previous damage. "
+    },
+    {
+      "pl": "Szerszy tor i spowolnienie 3 s.",
+      "en": "Wider trajectory and a 3 s slow."
+    },
+    {
+      "pl": "Trafia do 0,7 m od osi strzału.",
+      "en": "Hits within 0.7 m of the firing line."
+    },
+    {
+      "pl": "Osobliwość 4,2 m wybucha po 0,85 s. Przyciąga zwykłych wrogów i spowalnia na 2 s.",
+      "en": "A 4.2 m singularity erupts after 0.85 s. Pulls normal enemies and slows them for 2 s."
+    },
+    {
+      "pl": " Osłabia też pancerz na 5 s.",
+      "en": " Also reduces armor for 5 s."
+    },
+    {
+      "pl": "Stożek 4,8 m: ",
+      "en": "4.8 m cone: "
+    },
+    {
+      "pl": " obrażeń. Korzenie ",
+      "en": " damage. Roots for "
+    },
+    {
+      "pl": "2 s; +5 HP za cel, maks. 20.",
+      "en": "2 s; +5 HP per target, up to 20."
+    },
+    {
+      "pl": " Blokują ruch, nie ataki. Elity tylko spowalnia.",
+      "en": " Stops movement, not attacks. Only slows elites."
+    },
+    {
+      "pl": "PPM / ",
+      "en": "RMB / "
+    },
+    {
+      "pl": " • odnowienie 5 s\n",
+      "en": " • 5 s cooldown\n"
+    },
+    {
+      "pl": "+25 Entropii.",
+      "en": "+25 Entropy."
+    },
+    {
+      "pl": "Koszt: 25 ",
+      "en": "Cost: 25 "
+    },
+    {
+      "pl": " • odnowienie 10 s\n",
+      "en": " • 10 s cooldown\n"
+    },
+    {
+      "pl": "Pancerz −55% obrażeń przez 5 s. Pierwsze trafienie w oknie 1,25 s daje kontrę: następny cios lub moc główna +75% (do 4 s).",
+      "en": "Armor reduces damage by 55% for 5 s. The first hit within 1.25 s grants a counter: +75% on the next strike or primary skill (within 4 s)."
+    },
+    {
+      "pl": "Usuwa Ichorit, leczy 25 HP; drenaż 15% zadanych obrażeń przez 5 s.",
+      "en": "Cleanses Ichorite and heals 25 HP; drains 15% of damage dealt for 5 s."
+    },
+    {
+      "pl": "Koszt 20 Mroku. Cień: niewrażliwość i szybkość +35% na 2 s. Następna moc główna w 5 s: +25% obrażeń i 2 dodatkowe cele.",
+      "en": "Costs 20 Darkness. Shadow: invulnerability and +35% speed for 2 s. Your next primary skill within 5 s gains +25% damage and 2 extra targets."
+    },
+    {
+      "pl": "Pancerz na 3 s. Magazynuje 45% pozostałych obrażeń, maks. 80. Po 3 s oddaje je w promieniu 3 m i dodaje 10 Entropii.",
+      "en": "Armor for 3 s. Stores 45% of remaining damage, up to 80. After 3 s, releases it within 3 m and grants 10 Entropy."
+    },
+    {
+      "pl": "Leczy 15 HP; pancerz −55% przez 6 s. Splot 2,5 m na 3 s zatrzymuje ruch zwykłych wrogów.",
+      "en": "Heals 15 HP; armor reduces damage by 55% for 6 s. A 2.5 m root tangle stops normal enemies moving for 3 s."
+    },
+    {
+      "pl": " • odnowienie 14 s • ",
+      "en": " • 14 s cooldown • "
+    },
+    {
+      "pl": "+20 Entropii",
+      "en": "+20 Entropy"
+    },
+    {
+      "pl": "koszt 20",
+      "en": "cost 20"
+    },
+    {
+      "pl": "Obrażenia otrzymywane −30% przez 7 s.",
+      "en": "Damage taken −30% for 7 s."
+    },
+    {
+      "pl": "Drenaż 15% zadanych obrażeń przez 8 s.",
+      "en": "Drain 15% of damage dealt for 8 s."
+    },
+    {
+      "pl": "Obrażenia +30% przez 7 s; +30 Mroku.",
+      "en": "Damage +30% for 7 s; +30 Darkness."
+    },
+    {
+      "pl": "Regeneracja +6 HP/s przez 7 s. Splot korzeni 3,5 m przez 4 s; nie wyłącza ataków wroga.",
+      "en": "Regeneration +6 HP/s for 7 s. A 3.5 m root tangle lasts 4 s; enemies can still attack."
+    },
+    {
+      "pl": " • odnowienie 9 s • ",
+      "en": " • 9 s cooldown • "
+    },
+    {
+      "pl": "Wyrok na linii przed bohaterem: uderza po 0,25 s w promieniu 2,2 m. Może zużyć gotową kontrę.",
+      "en": "Judgment ahead of the hero: strikes after 0.25 s within 2.2 m. Can consume a ready counter."
+    },
+    {
+      "pl": "Krwawy splot nakłada 2 znamiona w promieniu 4 m i zadaje niewielkie obrażenia. Przygotowanie do detonacji.",
+      "en": "Bloodweave applies 2 marks within 4 m and deals minor damage. Sets up a detonation."
+    },
+    {
+      "pl": "Strzała pęt przebija do 4 celów na linii 10 m i spowalnia je na 3 s.",
+      "en": "Binding Arrow pierces up to 4 targets along a 10 m line and slows them for 3 s."
+    },
+    {
+      "pl": "Osobliwość 3,2 m po 0,65 s. Przyciąga zwykłych wrogów, potem spowalnia ich.",
+      "en": "A 3.2 m singularity erupts after 0.65 s. Pulls normal enemies, then slows them."
+    },
+    {
+      "pl": "Po 0,2 s wyrasta splot 2,7 m. Przez 2,5 s zatrzymuje zwykłych wrogów, którzy wejdą w obszar.",
+      "en": "A 2.7 m root tangle rises after 0.2 s. For 2.5 s, it stops normal enemies entering the area."
+    },
+    {
+      "pl": " • odnowienie 24 s • ",
+      "en": " • 24 s cooldown • "
+    },
+    {
+      "pl": "+50 Entropii",
+      "en": "+50 Entropy"
+    },
+    {
+      "pl": "koszt 50",
+      "en": "cost 50"
+    },
+    {
+      "pl": "\nOd poziomu 4. ",
+      "en": "\nRequires level 4. "
+    },
+    {
+      "pl": "Trzy wyroki przed bohaterem po 0,25 / 0,5 / 0,75 s. Każdy zadaje 55% obrażeń bazowych. Kontra wzmacnia całą serię.",
+      "en": "Three judgments strike ahead after 0.25 / 0.5 / 0.75 s. Each deals 55% of base damage. A counter empowers the entire sequence."
+    },
+    {
+      "pl": "Detonacja znamion w promieniu 7 m. Oznaczone ofiary wyzwalają dodatkową falę 2,5 m; każdy wróg dostaje ją najwyżej raz.",
+      "en": "Detonates marks within 7 m. Marked victims trigger an extra 2.5 m wave; each enemy is hit by that wave at most once."
+    },
+    {
+      "pl": "Wachlarz trzech przebijających strzał na 12 m, do 5 celów na linię. Każda zadaje 48% obrażeń bazowych i spowalnia.",
+      "en": "A fan of three piercing arrows travels 12 m, hitting up to 5 targets per line. Each deals 48% of base damage and slows."
+    },
+    {
+      "pl": "Martwa gwiazda o promieniu 5,5 m wybucha po 1,25 s: 135% obrażeń bazowych i przyciąganie zwykłych wrogów.",
+      "en": "A dead star with a 5.5 m radius erupts after 1.25 s: 135% base damage and pulls normal enemies."
+    },
+    {
+      "pl": "Trzy sploty na linii przed bohaterem; każdy działa 4 s. Blokują ruch zwykłych wrogów. Leczy 25 HP.",
+      "en": "Three root tangles rise ahead, each lasting 4 s. They stop normal enemies moving. Heals 25 HP."
+    },
+    {
+      "pl": "KSIĘGA MOCY",
+      "en": "SPELLBOOK"
+    },
+    {
+      "pl": "ORĘŻ I MOC",
+      "en": "WEAPON & POWER"
+    },
+    {
+      "pl": "OCHRONA",
+      "en": "DEFENSE"
+    },
+    {
+      "pl": "KULMINACJA",
+      "en": "ULTIMATE"
+    },
+    {
+      "pl": "Atak podstawowy",
+      "en": "Basic attack"
+    },
+    {
+      "pl": "GNIAZDO RUNY",
+      "en": "RUNE SOCKET"
+    },
+    {
+      "pl": "Stalowy Gniew: ogłuszenie 3 s zamiast osłabienia pancerza.",
+      "en": "Steel Wrath: 3 s stun instead of reduced armor."
+    },
+    {
+      "pl": "Transfuzja: leczenie 9% zamiast 5% zdrowia za trafiony cel.",
+      "en": "Transfusion: heal 9% instead of 5% health per target hit."
+    },
+    {
+      "pl": "Sieć Cienia: pole dodatkowo spowalnia wrogów.",
+      "en": "Shadow Web: the field also slows enemies."
+    },
+    {
+      "pl": "Rozpad: trafieni otrzymują +25% obrażeń przez 5 s.",
+      "en": "Decay: targets take +25% damage for 5 s."
+    },
+    {
+      "pl": "Głębokie Korzenie: kontrola 4 s zamiast 2 s, bez leczenia przy trafieniu.",
+      "en": "Deep Roots: 4 s control instead of 2 s, without healing on hit."
+    },
+    {
+      "pl": "RUNA PIERWOTNA",
+      "en": "ORIGINAL RUNE"
+    },
+    {
+      "pl": "RUNA PRZEMIANY",
+      "en": "TRANSFORMATION RUNE"
+    },
+    {
+      "pl": "Runa modyfikuje moc Q / PPM.\nWybór jest zapisywany automatycznie.\nPylon Rzezi znosi koszt mocy.",
+      "en": "The rune modifies your Q / RMB skill.\nYour choice is saved automatically.\nThe Pylon of Slaughter removes skill costs."
+    },
+    {
+      "pl": "ZAMKNIJ KSIĘGĘ [K]",
+      "en": "CLOSE SPELLBOOK [K]"
+    },
+    {
+      "pl": "MIKSTURY",
+      "en": "POTIONS"
+    },
+    {
+      "pl": "KLEJNOTY",
+      "en": "GEMS"
+    },
+    {
+      "pl": "ZAKLINANIE",
+      "en": "ENCHANTING"
+    },
+    {
+      "pl": " • Mikstury ",
+      "en": " • Potions "
+    },
+    {
+      "pl": "/5 • Receptura ",
+      "en": "/5 • Recipe "
+    },
+    {
+      "pl": "/3 • Moc klejnotów +",
+      "en": "/3 • Gem power +"
+    },
+    {
+      "pl": "KUP MIKSTURĘ • 8 ZŁ",
+      "en": "BUY POTION • 8 GOLD"
+    },
+    {
+      "pl": "WZMOCNIJ LECZENIE +20 • ",
+      "en": "UPGRADE HEALING +20 • "
+    },
+    {
+      "pl": "OSADŹ",
+      "en": "SOCKET"
+    },
+    {
+      "pl": "POŁĄCZ 3 → 1 • 20 ZŁ",
+      "en": "COMBINE 3 → 1 • 20 GOLD"
+    },
+    {
+      "pl": "NAJWYŻSZA JAKOŚĆ",
+      "en": "HIGHEST QUALITY"
+    },
+    {
+      "pl": "KUP ODŁAMEK • 30 ZŁ",
+      "en": "BUY SHARD • 30 GOLD"
+    },
+    {
+      "pl": "WYJMIJ OSTATNI • 10 ZŁ",
+      "en": "REMOVE LAST • 10 GOLD"
+    },
+    {
+      "pl": "Gniazda pieczęci: ",
+      "en": "Seal sockets: "
+    },
+    {
+      "pl": "/5. Wyjęty klejnot wraca do sakwy w tej samej jakości.",
+      "en": "/5. Removed gems return to your pouch at the same quality."
+    },
+    {
+      "pl": "ORĘŻ",
+      "en": "WEAPON"
+    },
+    {
+      "pl": "PANCERZ",
+      "en": "ARMOR"
+    },
+    {
+      "pl": "PIECZĘĆ",
+      "en": "SEAL"
+    },
+    {
+      "pl": "ZMIEŃ ZAKLĘCIE • ",
+      "en": "CHANGE ENCHANTMENT • "
+    },
+    {
+      "pl": "Nieznany relikt +",
+      "en": "Unknown relic +"
+    },
+    {
+      "pl": "Epicki ",
+      "en": "Epic "
+    },
+    {
+      "pl": "Rzadki ",
+      "en": "Rare "
+    },
+    {
+      "pl": "oręż",
+      "en": "weapon"
+    },
+    {
+      "pl": "RELIKWIARZ PIELGRZYMA",
+      "en": "PILGRIM'S RELIQUARY"
+    },
+    {
+      "pl": "AKT I  •  POZIOM ",
+      "en": "ACT I  •  LEVEL "
+    },
+    {
+      "pl": "ZAMKNIJ  [I]",
+      "en": "CLOSE  [I]"
+    },
+    {
+      "pl": "Przygotowanie podglądu bohatera…",
+      "en": "Preparing hero preview…"
+    },
+    {
+      "pl": "PLECAK",
+      "en": "BACKPACK"
+    },
+    {
+      "pl": "Wolne miejsca na łupy z wyprawy",
+      "en": "Free slots for loot from your journey"
+    },
+    {
+      "pl": "DO MALAKORA",
+      "en": "TAKE TO MALAKOR"
+    },
+    {
+      "pl": "ZAŁÓŻ",
+      "en": "EQUIP"
+    },
+    {
+      "pl": "ODCHROŃ",
+      "en": "UNPROTECT"
+    },
+    {
+      "pl": "CHROŃ",
+      "en": "PROTECT"
+    },
+    {
+      "pl": " złota",
+      "en": " gold"
+    },
+    {
+      "pl": " odłamków",
+      "en": " shards"
+    },
+    {
+      "pl": "Klejnoty w pieczęci: ",
+      "en": "Gems in seal: "
+    },
+    {
+      "pl": "/5  •  Zwoje Powrotu: ",
+      "en": "/5  •  Town Scrolls: "
+    },
+    {
+      "pl": "RELIKT NA ZIEMI",
+      "en": "RELIC ON THE GROUND"
+    },
+    {
+      "pl": "ZAŁOŻONE WYPOSAŻENIE",
+      "en": "EQUIPPED GEAR"
+    },
+    {
+      "pl": "WYBRANY PRZEDMIOT",
+      "en": "SELECTED ITEM"
+    },
+    {
+      "pl": "Wybierz ikonę przedmiotu w plecaku albo jeden z trzech slotów bohatera. Tutaj sprawdzisz jego właściwości i porównanie z wyposażeniem.",
+      "en": "Select an item in your backpack or one of the hero's three equipment slots. Inspect its properties and compare it with your equipped gear here."
+    },
+    {
+      "pl": "Przedmioty na ziemi pozostają dostępne także przy pełnym plecaku.",
+      "en": "Items on the ground remain available even when your backpack is full."
+    },
+    {
+      "pl": "  •  CHRONIONY",
+      "en": "  •  PROTECTED"
+    },
+    {
+      "pl": "WŁAŚCIWOŚCI",
+      "en": "PROPERTIES"
+    },
+    {
+      "pl": "NA BOHATERZE",
+      "en": "ON YOUR HERO"
+    },
+    {
+      "pl": "Wybierz przedmiot w plecaku, aby porównać jego właściwości i założyć go przyciskiem ZAŁÓŻ.",
+      "en": "Select an item in the backpack to compare its properties and equip it with the EQUIP button."
+    },
+    {
+      "pl": "PORÓWNANIE Z ZAŁOŻONYM",
+      "en": "COMPARE WITH EQUIPPED"
+    },
+    {
+      "pl": "Obecnie: ",
+      "en": "Currently: "
+    },
+    {
+      "pl": "Ochrona blokuje sprzedaż i rozbiórkę. Właściwości pozostają zapisane także po schowaniu do kufra.",
+      "en": "Protection prevents selling and salvaging. Item properties are preserved when stored in the chest."
+    },
+    {
+      "pl": "Przycisk CHROŃ zabezpiecza przed sprzedażą i rozbiórką. Nie zmienia statystyk przedmiotu.",
+      "en": "The PROTECT button prevents selling and salvaging. It does not change item stats."
+    },
+    {
+      "pl": "ŁUPY NA ZIEMI",
+      "en": "LOOT ON THE GROUND"
+    },
+    {
+      "pl": "Pełny plecak? Podejdź do reliktu i otwórz ekwipunek. Możesz wymienić wybraną sztukę. Kufer w Oakhaven jest wspólny dla profili.",
+      "en": "Backpack full? Approach a relic and open your inventory. You can swap a selected item. The Oakhaven chest is shared between profiles."
+    },
+    {
+      "pl": "NA ZIEMI ",
+      "en": "ON THE GROUND "
+    },
+    {
+      "pl": "PORÓWNAJ RELIKT NA ZIEMI",
+      "en": "COMPARE GROUND RELIC"
+    },
+    {
+      "pl": "ZAMIEŃ ZA WYBRANY W PLECAKU",
+      "en": "SWAP FOR SELECTED BACKPACK ITEM"
+    },
+    {
+      "pl": "Wybrany przedmiot z plecaka pozostanie na ziemi.",
+      "en": "The selected backpack item will be left on the ground."
+    },
+    {
+      "pl": "Kupiono: ",
+      "en": "Purchased: "
+    },
+    {
+      "pl": " • załóż w ekwipunku [I]",
+      "en": " • equip in inventory [I]"
+    },
+    {
+      "pl": "TARG OAKHAVEN",
+      "en": "OAKHAVEN MARKET"
+    },
+    {
+      "pl": "Eryk • relikty i pamiątki wypraw",
+      "en": "Eryk • relics and keepsakes"
+    },
+    {
+      "pl": " ZŁ • PLECAK ",
+      "en": " GOLD • BACKPACK "
+    },
+    {
+      "pl": "KUP",
+      "en": "BUY"
+    },
+    {
+      "pl": "SPRZEDAJ",
+      "en": "SELL"
+    },
+    {
+      "pl": "ODKUP",
+      "en": "BUY BACK"
+    },
+    {
+      "pl": "SPRZEDANE",
+      "en": "SOLD"
+    },
+    {
+      "pl": "TALIZMAN",
+      "en": "TALISMAN"
+    },
+    {
+      "pl": "Tu wrócą sprzedane relikty.\nOdkup jest dostępny do opuszczenia miasta.",
+      "en": "Sold relics appear here.\nBuyback remains available until you leave town."
+    },
+    {
+      "pl": "Plecak jest pusty. Przynieś znaleziska z wyprawy.",
+      "en": "Your backpack is empty. Bring back finds from your journey."
+    },
+    {
+      "pl": "Wybierz relikt.\nZobacz jego właściwości i porównaj z wyposażeniem.\n\nOdkup: 12 ostatnio sprzedanych sztuk.",
+      "en": "Select a relic.\nInspect its properties and compare it with your gear.\n\nBuyback: the last 12 items sold."
+    },
+    {
+      "pl": "SPRZEDAJ • ",
+      "en": "SELL • "
+    },
+    {
+      "pl": "ZDEJMIJ OCHRONĘ",
+      "en": "REMOVE PROTECTION"
+    },
+    {
+      "pl": "CHROŃ PRZED SPRZEDAŻĄ",
+      "en": "PROTECT FROM SALE"
+    },
+    {
+      "pl": "SPRZEDAJ ZWYKŁE",
+      "en": "SELL COMMON ITEMS"
+    },
+    {
+      "pl": "Kolor ramy pokazuje jakość. Wskaż ikonę, aby zobaczyć nazwę reliktu.",
+      "en": "The border color shows quality. Hover over an icon to see the relic's name."
+    },
+    {
+      "pl": "Chronione przedmioty pozostają w plecaku. Kupiony relikt założysz w ekwipunku [I].",
+      "en": "Protected items stay in your backpack. Equip purchased relics in inventory [I]."
+    },
+    {
+      "pl": "ZAMKNIJ TARG",
+      "en": "CLOSE MARKET"
+    },
+    {
+      "pl": "Sprzedać wszystkie zwykłe, rozpoznane przedmioty? Chronione sztuki pozostaną w plecaku.",
+      "en": "Sell all common, identified items? Protected items will stay in the backpack."
+    },
+    {
+      "pl": "ANULUJ",
+      "en": "CANCEL"
+    },
+    {
+      "pl": "Profil ",
+      "en": "Profile "
+    },
+    {
+      "pl": " • pusta kronika",
+      "en": " • unwritten chronicle"
+    },
+    {
+      "pl": " • poz. ",
+      "en": " • lv. "
+    },
+    {
+      "pl": "Ostrze ostatniej przysięgi",
+      "en": "Blade of the Last Oath"
+    },
+    {
+      "pl": "Pancerz pielgrzyma",
+      "en": "Pilgrim's Armor"
+    },
+    {
+      "pl": "Pieczęć upadłej gwiazdy",
+      "en": "Seal of the Fallen Star"
+    },
+    {
+      "pl": "Miecz ostatniej przysięgi",
+      "en": "Sword of the Last Oath"
+    },
+    {
+      "pl": "Sztylet tętnic",
+      "en": "Arterial Dagger"
+    },
+    {
+      "pl": "Kusza zmierzchu",
+      "en": "Dusk Crossbow"
+    },
+    {
+      "pl": "Kostur pustki",
+      "en": "Void Staff"
+    },
+    {
+      "pl": "Topór korzeni",
+      "en": "Root Axe"
+    },
+    {
+      "pl": "Wczytano początek lokacji • ",
+      "en": "Loaded area entrance • "
+    },
+    {
+      "pl": "Relikt: ",
+      "en": "Relic: "
+    },
+    {
+      "pl": "Pełny plecak [I] • relikt czeka na ziemi",
+      "en": "Backpack full [I] • the relic is on the ground"
+    },
+    {
+      "pl": "Założono: ",
+      "en": "Equipped: "
+    },
+    {
+      "pl": "RELIKT +",
+      "en": "RELIC +"
+    },
+    {
+      "pl": "Relikt w plecaku [I]",
+      "en": "Relic in backpack [I]"
+    },
+    {
+      "pl": "Nieznany relikt • zanieś Malakorowi",
+      "en": "Unknown relic • take it to Malakor"
+    },
+    {
+      "pl": "Oczyść lampy",
+      "en": "Cleanse the lamps"
+    },
+    {
+      "pl": "Ocal naczynia żaru",
+      "en": "Save the ember vessels"
+    },
+    {
+      "pl": "Zamknij dopływy",
+      "en": "Close the inlets"
+    },
+    {
+      "pl": "Odczytaj imiona",
+      "en": "Read the names"
+    },
+    {
+      "pl": "Odzyskaj znaczniki",
+      "en": "Recover the markers"
+    },
+    {
+      "pl": "I. Ostatnie światła",
+      "en": "I. The Last Lights"
+    },
+    {
+      "pl": "II. Droga przez popiół",
+      "en": "II. A Road Through Ash"
+    },
+    {
+      "pl": "III. Głosy pod cmentarzem",
+      "en": "III. Voices Beneath the Graves"
+    },
+    {
+      "pl": "IV. Imiona królów",
+      "en": "IV. The Names of Kings"
+    },
+    {
+      "pl": "V. Serce pod katedrą",
+      "en": "V. The Heart Beneath the Cathedral"
+    },
+    {
+      "pl": "Przeżyj zasadzkę na Trakcie Wisielców. Pokonaj Nadzorcę, przejdź przez most i porozmawiaj z Malakorem w Oakhaven. Mieszkańcy oferują usługi i zadania poboczne.",
+      "en": "Survive the ambush on Gallows Road. Defeat the Overseer, cross the bridge and speak to Malakor in Oakhaven. The townsfolk offer services and side quests."
+    },
+    {
+      "pl": "Przejdź przez Martwe Błonia i Wąwóz Zgaszonych Sygnałów. Zabezpiecz sygnały i pokonaj strażnika przejścia. W Błoniach odchodzą ścieżki do lasu i spalonej farmy.",
+      "en": "Cross the Dead Fields and the Ravine of Faded Signals. Secure the signals and defeat the passage guardian. Paths from the Fields lead to the forest and the burnt farm."
+    },
+    {
+      "pl": "Osłoń Orena przed trzema falami na cmentarzu, następnie zejdź do katakumb. W Krużganku Skrępowanych zerwij więzy i pokonaj strażnika. Boczne wejście na cmentarzu prowadzi do kaplicy Irmy.",
+      "en": "Protect Oren from three waves in the cemetery, then descend into the catacombs. Break the bonds and defeat the guardian in the Cloister of the Bound. A side entrance in the cemetery leads to Irma's chapel."
+    },
+    {
+      "pl": "Przemierz dalsze katakumby, ucisz śpiewające krypty w Galeriach Dzwoniących Kości i dotrzyj do Krypty Królów-Biskupów. Cysterna i ossuarium kryją sprawy Vespery oraz Malakora.",
+      "en": "Explore the deeper catacombs, silence the singing crypts in the Galleries of Tolling Bones and reach the Crypt of the Bishop-Kings. The cistern and ossuary hold matters for Vespera and Malakor."
+    },
+    {
+      "pl": "Wygaszaj paleniska Kuźni Czarnego Serca i zerwij pieczęcie na Progu Ostatniej Przysięgi. Pokonaj Malazara w Komnacie Pękniętego Serca, a potem podejdź do odłamka Varkosa i odzyskaj go [E].",
+      "en": "Quench the furnaces of the Blackheart Forge and break the seals at the Threshold of the Last Oath. Defeat Malazar in the Chamber of the Broken Heart, then approach and recover the shard of Varkos [E]."
+    },
+    {
+      "pl": "UKOŃCZONE",
+      "en": "COMPLETED"
+    },
+    {
+      "pl": "DO ODDANIA",
+      "en": "READY TO TURN IN"
+    },
+    {
+      "pl": "W TOKU",
+      "en": "IN PROGRESS"
+    },
+    {
+      "pl": "DOSTĘPNE",
+      "en": "AVAILABLE"
+    },
+    {
+      "pl": "Możesz śledzić 3 zadania. Odepnij jedno w dzienniku [J].",
+      "en": "You can track 3 quests. Unpin one in the journal [J]."
+    },
+    {
+      "pl": "Cele ukończone: ",
+      "en": "Objectives complete: "
+    },
+    {
+      "pl": " • Wróć do: ",
+      "en": " • Return to: "
+    },
+    {
+      "pl": "Nagroda: ",
+      "en": "Reward: "
+    },
+    {
+      "pl": "Zanieś żar do misy przy wejściu",
+      "en": "Bring the embers to the basin by the entrance"
+    },
+    {
+      "pl": "Pokonaj Strażnika Wymazanych",
+      "en": "Defeat the Guardian of the Erased"
+    },
+    {
+      "pl": "Obroń Orena • trzy fale na cmentarzu",
+      "en": "Protect Oren • three cemetery waves"
+    },
+    {
+      "pl": "\nDostarcz żar do misy: ",
+      "en": "\nDeliver embers to the basin: "
+    },
+    {
+      "pl": "jeszcze nie",
+      "en": "not yet"
+    },
+    {
+      "pl": "\nPokonaj Strażnika Wymazanych: ",
+      "en": "\nDefeat the Guardian of the Erased: "
+    },
+    {
+      "pl": "\nObroń Orena przed trzema falami: ",
+      "en": "\nProtect Oren from three waves: "
+    },
+    {
+      "pl": "\nOdbierz nagrodę u zleceniodawcy: ",
+      "en": "\nClaim your reward from the quest giver: "
+    },
+    {
+      "pl": "możesz wrócić",
+      "en": "you can return"
+    },
+    {
+      "pl": "po wykonaniu celów",
+      "en": "after completing the objectives"
+    },
+    {
+      "pl": "Nadzorca: rzadka broń klasowa. Oakhaven: kowal, alchemik i usługi mieszkańców.",
+      "en": "Overseer: a rare class weapon. Oakhaven: smith, alchemist and townsfolk services."
+    },
+    {
+      "pl": "Łupy i doświadczenie z walk. Odzyskanie odłamka Varkosa kończy Akt I.",
+      "en": "Loot and experience from combat. Recovering the shard of Varkos ends Act I."
+    },
+    {
+      "pl": "Łupy i doświadczenie z walk oraz dostęp do dalszej części szlaku. Pełne oczyszczenie lokacji daje złoto i odłamki; zadania poboczne mają oddzielne nagrody.",
+      "en": "Loot and combat experience, plus access to the next section of the path. Clearing an area grants gold and shards; side quests have separate rewards."
+    },
+    {
+      "pl": "FABUŁA",
+      "en": "STORY"
+    },
+    {
+      "pl": "PRZYJMIJ ZADANIE",
+      "en": "ACCEPT QUEST"
+    },
+    {
+      "pl": "ZADANIE W TOKU",
+      "en": "QUEST IN PROGRESS"
+    },
+    {
+      "pl": "ODBIERZ NAGRODĘ",
+      "en": "CLAIM REWARD"
+    },
+    {
+      "pl": "ZADANIE UKOŃCZONE",
+      "en": "QUEST COMPLETED"
+    },
+    {
+      "pl": "PRZYJMUJĘ ZADANIE",
+      "en": "I ACCEPT THE QUEST"
+    },
+    {
+      "pl": "Ta nagroda została już odebrana.",
+      "en": "This reward has already been claimed."
+    },
+    {
+      "pl": "Postęp jest zapisywany. Wskazówki znajdziesz w dzienniku [J].",
+      "en": "Progress is saved. Find hints in the journal [J]."
+    },
+    {
+      "pl": "WRÓĆ DO ROZMOWY",
+      "en": "BACK TO CONVERSATION"
+    },
+    {
+      "pl": "DZIENNIK WYPRAWY",
+      "en": "JOURNEY JOURNAL"
+    },
+    {
+      "pl": "AKT I  •  SERCE POD KATEDRĄ",
+      "en": "ACT I  •  THE HEART BENEATH THE CATHEDRAL"
+    },
+    {
+      "pl": "SPRAWY MIESZKAŃCÓW  ",
+      "en": "TOWNSFOLK'S REQUESTS  "
+    },
+    {
+      "pl": "ŚLEDZONE ZADANIA  ",
+      "en": "TRACKED QUESTS  "
+    },
+    {
+      "pl": "Pierwszy przypięty cel prowadzi na minimapie.",
+      "en": "The first pinned objective guides you on the minimap."
+    },
+    {
+      "pl": "WRÓĆ DO WYPRAWY  •  [J]",
+      "en": "RESUME JOURNEY  •  [J]"
+    },
+    {
+      "pl": "UKOŃCZONY",
+      "en": "COMPLETED"
+    },
+    {
+      "pl": "BIEŻĄCY ROZDZIAŁ",
+      "en": "CURRENT CHAPTER"
+    },
+    {
+      "pl": "PRZED TOBĄ",
+      "en": "AHEAD OF YOU"
+    },
+    {
+      "pl": "ODEPNIJ Z EKRANU",
+      "en": "UNPIN FROM HUD"
+    },
+    {
+      "pl": "ODEPNIJ INNE • LIMIT 3",
+      "en": "UNPIN ANOTHER • LIMIT 3"
+    },
+    {
+      "pl": "ŚLEDŹ NA EKRANIE",
+      "en": "TRACK ON HUD"
+    },
+    {
+      "pl": "NAGRODA ODEBRANA",
+      "en": "REWARD CLAIMED"
+    },
+    {
+      "pl": "PRZYJMIJ U ZLECENIODAWCY",
+      "en": "ACCEPT FROM QUEST GIVER"
+    },
+    {
+      "pl": "GŁÓWNY CEL WYPRAWY JEST NA HUD",
+      "en": "THE MAIN OBJECTIVE IS ON THE HUD"
+    },
+    {
+      "pl": "ZADANIA ",
+      "en": "QUESTS "
+    },
+    {
+      "pl": "ZALECANY POZIOM  ",
+      "en": "RECOMMENDED LEVEL  "
+    },
+    {
+      "pl": "ŻADNYCH WPISÓW",
+      "en": "NO ENTRIES"
+    },
+    {
+      "pl": "Twoja kronika czeka na nowe zadanie.",
+      "en": "Your chronicle awaits a new quest."
+    },
+    {
+      "pl": "Żadna sprawa nie jest jeszcze gotowa do oddania.",
+      "en": "No quest is ready to turn in yet."
+    },
+    {
+      "pl": "Ukończone sprawy zapiszą się w tej kronice.",
+      "en": "Completed requests will be recorded here."
+    },
+    {
+      "pl": "Znasz już wszystkie sprawy mieszkańców.",
+      "en": "You already know all the townsfolk's requests."
+    },
+    {
+      "pl": "Porozmawiaj z mieszkańcami. Ich prośby znajdziesz w zakładce Dostępne.",
+      "en": "Speak to the townsfolk. Their requests appear in the Available tab."
+    },
+    {
+      "pl": "Wybierz inną zakładkę. Droga przez Akt I pozostaje w zakładce Fabuła.",
+      "en": "Choose another tab. Your Act I journey remains in the Story tab."
+    },
+    {
+      "pl": "Cmentarzysko",
+      "en": "Cemetery"
+    },
+    {
+      "pl": ": gotowe",
+      "en": ": complete"
+    },
+    {
+      "pl": ": odebrana",
+      "en": ": claimed"
+    },
+    {
+      "pl": "NAGRODA U ZLECENIODAWCY",
+      "en": "REWARD FROM QUEST GIVER"
+    },
+    {
+      "pl": "SŁOWA ZLECENIODAWCY",
+      "en": "QUEST GIVER'S WORDS"
+    },
+    {
+      "pl": "WSKAZÓWKI I DROGA DO CELU",
+      "en": "HINTS & THE PATH AHEAD"
+    },
+    {
+      "pl": "Przyjmij zadanie w rozmowie ze zleceniodawcą. Nagrodę odbierzesz po powrocie do niego.",
+      "en": "Accept the quest by speaking to its giver. Return to them to claim your reward."
+    },
+    {
+      "pl": "ODŁAMKI",
+      "en": "SHARDS"
+    },
+    {
+      "pl": "Ulepszone",
+      "en": "Upgraded"
+    },
+    {
+      "pl": "Bursztyn",
+      "en": "Amber"
+    },
+    {
+      "pl": "RANGA PANCERZA",
+      "en": "ARMOR RANK"
+    },
+    {
+      "pl": "RANGA PIECZĘCI",
+      "en": "SEAL RANK"
+    },
+    {
+      "pl": "KLEJNOT",
+      "en": "GEM"
+    },
+    {
+      "pl": "KRONIKA WYPRAWY  •  AKT I",
+      "en": "JOURNEY CHRONICLE  •  ACT I"
+    },
+    {
+      "pl": "SZLAK ROZDZIAŁU",
+      "en": "CHAPTER PATH"
+    },
+    {
+      "pl": "JESTEŚ TUTAJ",
+      "en": "YOU ARE HERE"
+    },
+    {
+      "pl": "ODKRYTO",
+      "en": "DISCOVERED"
+    },
+    {
+      "pl": "RZADKA BROŃ KLASOWA • USŁUGI OAKHAVEN",
+      "en": "RARE CLASS WEAPON • OAKHAVEN SERVICES"
+    },
+    {
+      "pl": "ODŁAMEK VARKOSA • FINAŁ AKTU I",
+      "en": "SHARD OF VARKOS • ACT I FINALE"
+    },
+    {
+      "pl": "ŁUPY • DOŚWIADCZENIE • DALSZY SZLAK",
+      "en": "LOOT • EXPERIENCE • THE PATH AHEAD"
+    },
+    {
+      "pl": "HISTORIA I CELE ROZDZIAŁU",
+      "en": "CHAPTER STORY & OBJECTIVES"
+    },
+    {
+      "pl": "SZCZEGÓŁY SZLAKU I NAGRÓD",
+      "en": "PATH & REWARD DETAILS"
+    },
+    {
+      "pl": "Zwój Powrotu • skupienie 1,5 s",
+      "en": "Town Scroll • channel for 1.5 s"
+    },
+    {
+      "pl": "Modlitwa powrotu • skupienie 8 s",
+      "en": "Prayer of Return • channel for 8 s"
+    },
+    {
+      "pl": " Zwój Powrotu • użyj [T]",
+      "en": " Town Scroll • use [T]"
+    },
+    {
+      "pl": "Najpierw dotrzyj do Oakhaven za mostem.",
+      "en": "Reach Oakhaven beyond the bridge first."
+    },
+    {
+      "pl": " • ruch lub obrażenia przerywają",
+      "en": " • movement or damage interrupts"
+    },
+    {
+      "pl": "Powrót przerwany • zwój zachowany",
+      "en": "Return interrupted • scroll preserved"
+    },
+    {
+      "pl": "Oakhaven • Neme zachowała ślad Twojego powrotu",
+      "en": "Oakhaven • Neme preserved your return trail"
+    },
+    {
+      "pl": "Oakhaven • zwoje kupisz u Neme lub kupca",
+      "en": "Oakhaven • buy scrolls from Neme or the trader"
+    },
+    {
+      "pl": "Powrót po śladzie • ",
+      "en": "Retrace your steps • "
+    },
+    {
+      "pl": "Ruch lub obrażenia przerywają. Zwój zużywa się po powrocie.",
+      "en": "Movement or damage interrupts. The scroll is consumed after returning."
+    },
+    {
+      "pl": " zwojów",
+      "en": " scrolls"
+    },
+    {
+      "pl": "modlitwa 8 s",
+      "en": "8 s prayer"
+    },
+    {
+      "pl": "[T] POWRÓT • ",
+      "en": "[T] RETURN • "
+    },
+    {
+      "pl": "Przysięga Popiołów",
+      "en": "Oath of Ash"
+    },
+    {
+      "pl": "Serce Transfuzji",
+      "en": "Heart of Transfusion"
+    },
+    {
+      "pl": "Oko Dalekiego Zmierzchu",
+      "en": "Eye of Distant Dusk"
+    },
+    {
+      "pl": "Węzeł Entropii",
+      "en": "Knot of Entropy"
+    },
+    {
+      "pl": "Pamięć Starego Dębu",
+      "en": "Memory of the Ancient Oak"
+    },
+    {
+      "pl": "Relikt • osłona jednego ciosu",
+      "en": "Relic • one-hit shield"
+    },
+    {
+      "pl": "RELIKT +10 ",
+      "en": "RELIC +10 "
+    },
+    {
+      "pl": "OSŁONA RELIKTU",
+      "en": "RELIC SHIELD"
+    },
+    {
+      "pl": "Właściwości ujawni Malakor.",
+      "en": "Malakor will reveal its properties."
+    },
+    {
+      "pl": "Żar: +",
+      "en": "Ember: +"
+    },
+    {
+      "pl": "% obrażeń",
+      "en": "% damage"
+    },
+    {
+      "pl": "Hart: -",
+      "en": "Temper: -"
+    },
+    {
+      "pl": "% otrzymywanych obrażeń (łącznie do 12%)",
+      "en": "% damage taken (up to 12% total)"
+    },
+    {
+      "pl": "Wyrok: +",
+      "en": "Judgment: +"
+    },
+    {
+      "pl": "% obrażeń przeciw wrogom poniżej 35% zdrowia",
+      "en": "% damage against enemies below 35% health"
+    },
+    {
+      "pl": "Bez dodatkowego affiksu",
+      "en": "No additional affix"
+    },
+    {
+      "pl": "Zabójstwo daje osłonę: następny cios zadaje o 25% mniej obrażeń. Osłona trwa do 8 s; nie kumuluje się.",
+      "en": "A kill grants a shield: the next hit deals 25% less damage. Lasts up to 8 s; does not stack."
+    },
+    {
+      "pl": "+15% obrażeń przy dystansie co najmniej 5 m. Ten efekt nie kumuluje się.",
+      "en": "+15% damage from at least 5 m away. This effect does not stack."
+    },
+    {
+      "pl": "Zabójstwo przywraca 10 zasobu, najwyżej raz na 2 s. Ten efekt nie kumuluje się.",
+      "en": "A kill restores 10 resource, at most once every 2 s. This effect does not stack."
+    },
+    {
+      "pl": "\nNieaktywne dla obecnej klasy.",
+      "en": "\nInactive for the current class."
+    },
+    {
+      "pl": "Brak przedmiotu.",
+      "en": "No item."
+    },
+    {
+      "pl": "Nieznany relikt • identyfikacja u Malakora w Oakhaven.",
+      "en": "Unknown relic • identify it with Malakor in Oakhaven."
+    },
+    {
+      "pl": "% obrażeń od pancerza",
+      "en": "% damage from armor"
+    },
+    {
+      "pl": " zdrowia/s",
+      "en": " health/s"
+    },
+    {
+      "pl": "Zidentyfikuj przedmiot, aby porównać właściwości.",
+      "en": "Identify the item to compare its properties."
+    },
+    {
+      "pl": " pkt proc. redukcji pancerza",
+      "en": " percentage points of armor reduction"
+    },
+    {
+      "pl": "Zmiana podstawy: ",
+      "en": "Base change: "
+    },
+    {
+      "pl": ".\nZaklęcie: ",
+      "en": ".\nEnchantment: "
+    },
+    {
+      "pl": ".\nAffiks obecnego: ",
+      "en": ".\nCurrent affix: "
+    },
+    {
+      "pl": ".\nWybrany: ",
+      "en": ".\nSelected: "
+    },
+    {
+      "pl": "Wymieniono relikty • poprzedni przedmiot czeka na ziemi",
+      "en": "Relics swapped • the previous item is on the ground"
+    },
+    {
+      "pl": "PUSTY SLOT",
+      "en": "EMPTY SLOT"
+    },
+    {
+      "pl": "NIEROZPOZNANY",
+      "en": "UNIDENTIFIED"
+    },
+    {
+      "pl": "LEGENDARNY",
+      "en": "LEGENDARY"
+    },
+    {
+      "pl": "EPICKI",
+      "en": "EPIC"
+    },
+    {
+      "pl": "RZADKI",
+      "en": "RARE"
+    },
+    {
+      "pl": "PODSTAWOWY",
+      "en": "BASIC"
+    },
+    {
+      "pl": "ZWYKŁY",
+      "en": "COMMON"
+    },
+    {
+      "pl": " • CHRONIONY",
+      "en": " • PROTECTED"
+    },
+    {
+      "pl": "Zapisano ustawienia ekranu.",
+      "en": "Display settings saved."
+    },
+    {
+      "pl": "Przywrócono poprzednie ustawienia ekranu.",
+      "en": "Previous display settings restored."
+    },
+    {
+      "pl": "DŹWIĘK",
+      "en": "AUDIO"
+    },
+    {
+      "pl": "OBRAZ",
+      "en": "GRAPHICS"
+    },
+    {
+      "pl": "DOSTĘPNOŚĆ",
+      "en": "ACCESSIBILITY"
+    },
+    {
+      "pl": "NISKIE",
+      "en": "LOW"
+    },
+    {
+      "pl": "ŚREDNIE",
+      "en": "MEDIUM"
+    },
+    {
+      "pl": "WYSOKIE",
+      "en": "HIGH"
+    },
+    {
+      "pl": "DŹWIĘK VAELORII",
+      "en": "SOUNDS OF VAELORIA"
+    },
+    {
+      "pl": "WYCISZENIE: TAK",
+      "en": "MUTED: YES"
+    },
+    {
+      "pl": "WYCISZENIE: NIE",
+      "en": "MUTED: NO"
+    },
+    {
+      "pl": "Efekty i interfejs",
+      "en": "Effects & interface"
+    },
+    {
+      "pl": "Muzyka",
+      "en": "Music"
+    },
+    {
+      "pl": "Dźwięki otoczenia",
+      "en": "Ambience"
+    },
+    {
+      "pl": "Film i lektor",
+      "en": "Cinematics & narration"
+    },
+    {
+      "pl": "Muzyka reaguje na eksplorację, walkę i starcia z bossami.\nZmiany głośności zapisują się automatycznie.",
+      "en": "Music responds to exploration, combat and boss fights.\nVolume changes are saved automatically."
+    },
+    {
+      "pl": "Jakość grafiki",
+      "en": "Graphics quality"
+    },
+    {
+      "pl": "Większa płynność: bez cieni, mniejsze tekstury, bez wygładzania krawędzi.",
+      "en": "Smoother performance: no shadows, smaller textures, no anti-aliasing."
+    },
+    {
+      "pl": "Równowaga: cienie, połowa rozdzielczości tekstur i wygładzanie 2×.",
+      "en": "Balanced: shadows, half-resolution textures and 2× anti-aliasing."
+    },
+    {
+      "pl": "Pełna rozdzielczość tekstur, miękkie cienie i wygładzanie 4×.",
+      "en": "Full-resolution textures, soft shadows and 4× anti-aliasing."
+    },
+    {
+      "pl": "Synchronizacja pionowa",
+      "en": "Vertical synchronization"
+    },
+    {
+      "pl": "WŁĄCZONA",
+      "en": "ON"
+    },
+    {
+      "pl": "WYŁĄCZONA",
+      "en": "OFF"
+    },
+    {
+      "pl": "Limit klatek na sekundę",
+      "en": "Frame rate limit"
+    },
+    {
+      "pl": "BEZ LIMITU",
+      "en": "UNLIMITED"
+    },
+    {
+      "pl": "Synchronizacja dopasowuje liczbę klatek do odświeżania monitora.",
+      "en": "VSync matches the frame rate to your monitor's refresh rate."
+    },
+    {
+      "pl": "Tryb wyświetlania",
+      "en": "Display mode"
+    },
+    {
+      "pl": "Rozdzielczość",
+      "en": "Resolution"
+    },
+    {
+      "pl": "ZASTOSUJ TRYB EKRANU",
+      "en": "APPLY DISPLAY MODE"
+    },
+    {
+      "pl": "Rozmiar okna został ustalony przez uruchomienie gry lub podgląd.",
+      "en": "The window size is controlled by launch options or the preview."
+    },
+    {
+      "pl": "Nowy tryb ekranu wymaga potwierdzenia w ciągu 15 sekund.",
+      "en": "Confirm a new display mode within 15 seconds."
+    },
+    {
+      "pl": "OKNO",
+      "en": "WINDOWED"
+    },
+    {
+      "pl": "PEŁNY EKRAN BEZ RAMEK",
+      "en": "BORDERLESS FULLSCREEN"
+    },
+    {
+      "pl": "PEŁNY EKRAN",
+      "en": "FULLSCREEN"
+    },
+    {
+      "pl": "ZACHOWAĆ TEN OBRAZ?",
+      "en": "KEEP THESE DISPLAY SETTINGS?"
+    },
+    {
+      "pl": "Jeżeli obraz jest poprawny, potwierdź zmianę.\nPowrót do poprzedniego trybu za ",
+      "en": "If the display looks correct, confirm the change.\nPrevious settings will return in "
+    },
+    {
+      "pl": "COFNIJ  [ESC]",
+      "en": "REVERT  [ESC]"
+    },
+    {
+      "pl": "ZACHOWAJ",
+      "en": "KEEP"
+    },
+    {
+      "pl": "Większy tekst rozmów i zadań",
+      "en": "Larger dialogue and quest text"
+    },
+    {
+      "pl": "Wstrząsy kamery",
+      "en": "Camera shake"
+    },
+    {
+      "pl": "Liczby obrażeń i leczenia",
+      "en": "Damage and healing numbers"
+    },
+    {
+      "pl": "Łagodniejsze błyski zaklęć",
+      "en": "Gentler spell flashes"
+    },
+    {
+      "pl": "Odkrywanie mapy",
+      "en": "Map exploration"
+    },
+    {
+      "pl": "PODCZAS WĘDRÓWKI",
+      "en": "AS YOU EXPLORE"
+    },
+    {
+      "pl": "CAŁY TEREN",
+      "en": "ENTIRE AREA"
+    },
+    {
+      "pl": "Dopasuj czytelność i intensywność efektów.\nZmiany zapisują się automatycznie.",
+      "en": "Adjust readability and effect intensity.\nChanges are saved automatically."
+    },
+    {
+      "pl": "Broń lampy • ",
+      "en": "Defend the lamp • "
+    },
+    {
+      "pl": " s • pozostań w kręgu",
+      "en": " s • stay inside the circle"
+    },
+    {
+      "pl": "Żar spowalnia ruch. Zanieś wszystkie trzy naczynia do misy przy wejściu.",
+      "en": "The embers slow your movement. Bring all three vessels to the basin by the entrance."
+    },
+    {
+      "pl": "Dokończ obronę zapalonej lampy.",
+      "en": "Finish defending the lit lamp."
+    },
+    {
+      "pl": "Cień trzynastej lampy",
+      "en": "Shadow of the Thirteenth Lamp"
+    },
+    {
+      "pl": "Zimny ogień wzywa cienie. Broń lampy przez 12 sekund i pokonaj przywołanych.",
+      "en": "Cold fire calls the shadows. Defend the lamp for 12 seconds and defeat those summoned."
+    },
+    {
+      "pl": "Ciśnienie jest zbyt wysokie. Kolejność odcięcia: I → III → II.",
+      "en": "The pressure is too high. Shutoff order: I → III → II."
+    },
+    {
+      "pl": "W misie muszą znaleźć się wszystkie trzy naczynia żaru.",
+      "en": "All three ember vessels must be placed in the basin."
+    },
+    {
+      "pl": "Najpierw zabezpiecz misę przed wrogami.",
+      "en": "Secure the basin against enemies first."
+    },
+    {
+      "pl": "Żar zabezpieczony. Wróć do Hargryma w Oakhaven.",
+      "en": "Embers secured. Return to Hargrym in Oakhaven."
+    },
+    {
+      "pl": "Ocalony żar",
+      "en": "Rescued Embers"
+    },
+    {
+      "pl": "Edra • ocalona wędrowczyni",
+      "en": "Edra • rescued wanderer"
+    },
+    {
+      "pl": "Pamiętam chłód korzeni. Dziś pomagam Vesperze. Ci, których imiona ocaliłeś, nie będą już liczbą w księdze.",
+      "en": "I remember the cold of the roots. Now I help Vespera. Those whose names you saved will no longer be numbers in a book."
+    },
+    {
+      "pl": "Pamięć Edry",
+      "en": "Edra's Memory"
+    },
+    {
+      "pl": "Bursztynowe drzewo zapuściło korzenie w Oakhaven. Pod korą słychać głos Edry: pamięć lasu przetrwała.",
+      "en": "An amber tree has taken root in Oakhaven. Edra's voice whispers beneath its bark: the forest's memory lives on."
+    },
+    {
+      "pl": "Oakhaven pamięta: ",
+      "en": "Oakhaven remembers: "
+    },
+    {
+      "pl": " / 5 spraw mieszkańców zakończonych.\n",
+      "en": " / 5 townsfolk requests completed.\n"
+    },
+    {
+      "pl": "Edra wróciła do miasta i pomaga ocalałym.",
+      "en": "Edra returned to town and helps the survivors."
+    },
+    {
+      "pl": "Pamięć Edry zakwitła w bursztynowym drzewie.",
+      "en": "Edra's memory blossomed in the amber tree."
+    },
+    {
+      "pl": "Los Edry pozostał nierozstrzygnięty.",
+      "en": "Edra's fate remains undecided."
+    },
+    {
+      "pl": "Trzynasta lampa",
+      "en": "The Thirteenth Lamp"
+    },
+    {
+      "pl": "Żar pod popiołem",
+      "en": "Embers Beneath the Ash"
+    },
+    {
+      "pl": "Woda dla żywych",
+      "en": "Water for the Living"
+    },
+    {
+      "pl": "Imiona wymazanych",
+      "en": "Names of the Erased"
+    },
+    {
+      "pl": "Ostatni pochówek",
+      "en": "The Last Burial"
+    },
+    {
+      "pl": "Oczyść zimną lampę",
+      "en": "Cleanse the cold lamp"
+    },
+    {
+      "pl": "Odzyskaj żar z paleniska",
+      "en": "Recover embers from the hearth"
+    },
+    {
+      "pl": "Zamknij skażony dopływ",
+      "en": "Close the tainted inlet"
+    },
+    {
+      "pl": "Odczytaj tablicę z imieniem",
+      "en": "Read the name tablet"
+    },
+    {
+      "pl": "Zabierz znacznik zaginionego",
+      "en": "Take the missing pilgrim's marker"
+    },
+    {
+      "pl": "Cmentarzysko → boczna Kaplica Trzynastej Lampy. Rozpocznij oczyszczanie każdej lampy, broń jej przez 12 sekund i pokonaj oba przywołane cienie, aby zgasić zimny ogień. Pozostań w promieniu siedmiu kroków. Przerwaną zmianą mapy obronę zaczynasz ponownie.",
+      "en": "Cemetery → side entrance to the Chapel of the Thirteenth Lamp. Begin cleansing each lamp, defend it for 12 seconds and defeat both summoned shadows to extinguish the cold fire. Stay within seven paces. Leaving the area resets an unfinished defense."
+    },
+    {
+      "pl": "Martwe Błonia → piwnica spalonej farmy. Ocal trzy naczynia żaru i dostarcz je do misy przy wejściu. Ciężar żaru spowalnia ruch; kowal przywróci pracę kuźni.",
+      "en": "Dead Fields → Burnt Farm Cellar. Save three ember vessels and bring them to the basin by the entrance. The weight of the embers slows you; the smith will restore the forge."
+    },
+    {
+      "pl": "Katakumby II → boczna Cysterna Czarnej Wody. Odetnij dopływy w kolejności I → III → II. Najpierw źródło, potem odpływ, na końcu zawór środkowy.",
+      "en": "Catacombs II → side entrance to the Blackwater Cistern. Close the inlets in this order: I → III → II. First the source, then the outlet, and finally the central valve."
+    },
+    {
+      "pl": "Krypta Królów-Biskupów → Ossuarium Bez Imion. Odczytaj cztery tablice i pokonaj Strażnika Wymazanych.",
+      "en": "Crypt of the Bishop-Kings → Nameless Ossuary. Read four tablets and defeat the Guardian of the Erased."
+    },
+    {
+      "pl": "Las Ostatnich Szeptów → trzy znaczniki zaginionych. Obroń też Orena przed trzema falami na cmentarzu; wróć do grabarza.",
+      "en": "Forest of Last Whispers → three missing pilgrims' markers. Also protect Oren from three waves in the cemetery, then return to the gravedigger."
+    },
+    {
+      "pl": "Rozpoznaję każdą lampę, którą zapalam. Trzynasta nie jest moja. Jej siostry ukryto w kaplicy przy cmentarzu. Dopóki płoną, każda ścieżka prowadzi zmarłych do naszych drzwi. Oczyść je: broń każdej lampy i odeprzyj jej cienie, aż zgaśnie zimny ogień.",
+      "en": "I know every lamp I light. The thirteenth is not mine. Its sisters are hidden in the chapel beside the cemetery. While they burn, every path leads the dead to our doors. Cleanse them: defend each lamp and repel its shadows until the cold fire dies."
+    },
+    {
+      "pl": "Pod spaloną farmą stoi dawna kuźnia. W trzech paleniskach ocalał żar gwiezdnego żelaza. Ocal go, a znów będę mógł kuć dla żywych. Zajrzyj w boczne komory; rabusie zawsze pomijają to, czego nie potrafią unieść.",
+      "en": "The old forge lies beneath the burnt farm. Star-iron embers survive in three hearths. Save them, and I can forge for the living again. Search the side chambers; looters always overlook what they cannot carry."
+    },
+    {
+      "pl": "Woda w studni przybrała kolor mojej maski. Trzy dopływy pod drugim poziomem katakumb karmią miejską cysternę. Zakręć zawory, ale najpierw odsuń od nich to, co żeruje na skażeniu. Mam dość odtrutki tylko dla dzieci.",
+      "en": "The well water has turned the color of my mask. Three inlets beneath the second catacomb level feed the town cistern. Close the valves, but first clear away the things that feed on the taint. I have only enough antidote for the children."
+    },
+    {
+      "pl": "Nie potrzebuję klejnotów. Potrzebuję imion. W ossuarium za kryptą biskupów zostały cztery tablice. Ich strażnik woli zabić żywego, niż pozwolić wspomnieć zmarłego. Przeczytaj je i ucisz go. Wtedy zapiszę prawdziwą historię miasta.",
+      "en": "I do not need jewels. I need names. Four tablets remain in the ossuary beyond the bishops' crypt. Their guardian would sooner kill the living than let the dead be remembered. Read them and silence him. Then I will record the town's true history."
+    },
+    {
+      "pl": "Mogę zamknąć groby, jeśli osłonisz mnie przed trzema falami. Ale trzy rodziny nadal czekają na zaginionych w lesie. Przynieś ich znaczniki z korzeni. Nie obiecuj, że wrócą. Obiecaj, że nie znikną bez imienia.",
+      "en": "I can seal the graves if you protect me from three waves. But three families still wait for those lost in the forest. Bring their markers back from the roots. Do not promise they will return. Promise they will not vanish nameless."
+    },
+    {
+      "pl": "Dziś zapaliłam dwanaście lamp. I naliczyłam dwanaście cieni. Nie zapomnę, kto zgasił trzynastą.",
+      "en": "Today I lit twelve lamps. And I counted twelve shadows. I will not forget who extinguished the thirteenth."
+    },
+    {
+      "pl": "Żar znów odpowiada na młot. Weź ten pancerz; będzie pamiętał ogień, który ocaliłeś.",
+      "en": "The embers answer my hammer again. Take this armor; it will remember the fire you saved."
+    },
+    {
+      "pl": "Pierwsza czysta kropla spadła o świcie. Ulepszyłam twoje mikstury i napełniłam pas. Pozwól mi teraz zająć się pozostałymi.",
+      "en": "The first clean drop fell at dawn. I have upgraded your potions and filled your belt. Now let me tend to the others."
+    },
+    {
+      "pl": "Cztery imiona wróciły do księgi. Biskupi mogą odebrać oddech, ale nie ostatnie słowo. Ta pieczęć należała do człowieka, którego właśnie przywróciłeś pamięci.",
+      "en": "Four names have returned to the book. The bishops may steal a breath, but not the last word. This seal belonged to someone you have just restored to memory."
+    },
+    {
+      "pl": "Wszystkie groby zamknięte. Wszystkie nazwane. Pierwszy raz od tygodnia odkładam łopatę. Zatrzymaj ich bursztyn — oni nie potrzebują już światła.",
+      "en": "All the graves are closed. All are named. For the first time in a week, I lay down my shovel. Keep their amber — they no longer need its light."
+    },
+    {
+      "pl": "Zakończone • nagroda odebrana",
+      "en": "Completed • reward claimed"
+    },
+    {
+      "pl": "Porozmawiaj: ",
+      "en": "Speak to: "
+    },
+    {
+      "pl": " • Cmentarzysko",
+      "en": " • Cemetery"
+    },
+    {
+      "pl": "Zanieś żar do misy przy wejściu do piwnicy [E]",
+      "en": "Bring the embers to the basin at the cellar entrance [E]"
+    },
+    {
+      "pl": " • strażnik: ",
+      "en": " • guardian: "
+    },
+    {
+      "pl": "żyje",
+      "en": "alive"
+    },
+    {
+      "pl": " • obrona grobów: ",
+      "en": " • grave defense: "
+    },
+    {
+      "pl": "ukończona",
+      "en": "complete"
+    },
+    {
+      "pl": "trzy fale",
+      "en": "three waves"
+    },
+    {
+      "pl": "Wróć po nagrodę: ",
+      "en": "Return for your reward: "
+    },
+    {
+      "pl": " zł • ",
+      "en": " gold • "
+    },
+    {
+      "pl": " odłamków • ",
+      "en": " shards • "
+    },
+    {
+      "pl": " PD",
+      "en": " XP"
+    },
+    {
+      "pl": " • pancerz +2",
+      "en": " • armor +2"
+    },
+    {
+      "pl": " • ulepszone mikstury",
+      "en": " • upgraded potions"
+    },
+    {
+      "pl": " • pieczęć +3",
+      "en": " • seal +3"
+    },
+    {
+      "pl": " • bursztyn",
+      "en": " • amber"
+    },
+    {
+      "pl": "Nowe zadanie: ",
+      "en": "New quest: "
+    },
+    {
+      "pl": " • [J] dziennik",
+      "en": " • [J] journal"
+    },
+    {
+      "pl": "Ukończono: ",
+      "en": "Completed: "
+    },
+    {
+      "pl": "Zadanie: ",
+      "en": "Quest: "
+    },
+    {
+      "pl": "Zimny płomień lampy",
+      "en": "Cold Lamp Flame"
+    },
+    {
+      "pl": "Zawór cysterny",
+      "en": "Cistern Valve"
+    },
+    {
+      "pl": "Tablica imienna",
+      "en": "Name Tablet"
+    },
+    {
+      "pl": "Znacznik pielgrzyma",
+      "en": "Pilgrim's Marker"
+    },
+    {
+      "pl": "E • Zabezpiecz żar w misie",
+      "en": "E • Secure the embers in the basin"
+    },
+    {
+      "pl": "Zlecenie: ",
+      "en": "Quest: "
+    },
+    {
+      "pl": "Najpierw przyjmij zadanie: ",
+      "en": "Accept the quest first: "
+    },
+    {
+      "pl": "Najpierw zabezpiecz komnatę • wrogowie są zbyt blisko",
+      "en": "Secure the chamber first • enemies are too close"
+    },
+    {
+      "pl": "Lokacja oczyszczona • +",
+      "en": "Area cleared • +"
+    },
+    {
+      "pl": " zł, +3 odłamki • przejście otwarte",
+      "en": " gold, +3 shards • passage open"
+    },
+    {
+      "pl": "Zapal sygnał",
+      "en": "Light the signal"
+    },
+    {
+      "pl": "Zerwij łańcuch",
+      "en": "Break the chain"
+    },
+    {
+      "pl": "Zamknij kryptę",
+      "en": "Seal the crypt"
+    },
+    {
+      "pl": "Wyłącz palenisko",
+      "en": "Quench the furnace"
+    },
+    {
+      "pl": "Usuń pieczęć serca",
+      "en": "Remove the heart seal"
+    },
+    {
+      "pl": "Przywróć trzy sygnały w wąwozie",
+      "en": "Restore three signals in the ravine"
+    },
+    {
+      "pl": "Uwolnij trzy skrępowane cienie",
+      "en": "Free three bound shadows"
+    },
+    {
+      "pl": "Zamknij trzy śpiewające krypty",
+      "en": "Seal three singing crypts"
+    },
+    {
+      "pl": "Wygasz trzy paleniska kuźni",
+      "en": "Quench the forge's three furnaces"
+    },
+    {
+      "pl": "Zerwij trzy przysięgi chroniące serce",
+      "en": "Break three oaths protecting the heart"
+    },
+    {
+      "pl": "Leona • zwiadowczyni",
+      "en": "Leona • scout"
+    },
+    {
+      "pl": "Aster • ostatni nowicjusz",
+      "en": "Aster • last novice"
+    },
+    {
+      "pl": "Tomasz • strażnik ciszy",
+      "en": "Tomasz • keeper of silence"
+    },
+    {
+      "pl": "Ragna • wygaszaczka",
+      "en": "Ragna • quencher"
+    },
+    {
+      "pl": "Eliasz • odstępca",
+      "en": "Eliasz • apostate"
+    },
+    {
+      "pl": "Na trzech rozwidleniach stoją kamienne sygnały. Przy każdym czatuje łowca, który strąca ludzi w mgłę. Pokonaj strażnika, zabezpiecz platformę i zapal ogień [E]. Dopiero trzy światła pokażą bezpieczne wyjście. Na końcu czeka Przewodnik Zgaszonych.",
+      "en": "Stone signals stand at three crossroads. A hunter waits at each, casting travelers into the mist. Defeat the guardian, secure the platform and light the fire [E]. Only three lights will reveal a safe exit. The Guide of the Faded waits at the end."
+    },
+    {
+      "pl": "Nie wszystkie cienie służą biskupowi. Trzy z nich przywiązano do ruin własnymi przysięgami. Pokonaj nadzorców i zerwij każdy łańcuch [E]. Gdy ostatni cień odejdzie, brama przestanie domagać się kolejnej ofiary. Jej Opiekun Łańcuchów nie odejdzie dobrowolnie.",
+      "en": "Not every shadow serves the bishop. Three were bound to these ruins by their own oaths. Defeat the overseers and break each chain [E]. Once the last shadow leaves, the gate will stop demanding another sacrifice. Its Chain Keeper will not leave willingly."
+    },
+    {
+      "pl": "Słyszysz śpiew pod posadzką? To nie modlitwa. Trzy otwarte krypty wołają umarłych do galerii. Najpierw ucisz ich strażników, potem dociśnij każdą kamienną pieczęć [E]. Nie zostawiaj za sobą śpiewu. Dzwonnik Bez Twarzy pilnuje ostatniego przejścia.",
+      "en": "Do you hear singing beneath the floor? That is no prayer. Three open crypts call the dead into the galleries. Silence their guardians, then press each stone seal shut [E]. Leave no song behind. The Faceless Bellkeeper guards the final passage."
+    },
+    {
+      "pl": "Kuźnia wyrabia kości do nowego ciała Varkosa. Trzy paleniska zasilają piec pod bramą. Zwykła woda tylko rozbudza ten żar. Zabij palaczy, oczyść komory i zamknij zawory [E]. Mistrz Czarnego Młota strzeże głównego kanału.",
+      "en": "The forge makes bones for Varkos's new body. Three furnaces feed the kiln beneath the gate. Ordinary water only stokes those embers. Kill the stokers, clear the chambers and close the valves [E]. The Master of the Black Hammer guards the main channel."
+    },
+    {
+      "pl": "Byłem przy składaniu tych przysiąg. Każda z trzech pieczęci chroni serce kosztem jednego imienia. Pokonaj nosicieli i zerwij pieczęcie [E]. Wtedy Malazar będzie mógł krwawić. Ten, który stoi przy ostatnich drzwiach, zna już twoje imię.",
+      "en": "I was there when those oaths were sworn. Each of the three seals protects the heart at the cost of a name. Defeat their bearers and break the seals [E]. Then Malazar can bleed. The one at the final door already knows your name."
+    },
+    {
+      "pl": "Przewodnik Zgaszonych",
+      "en": "Guide of the Faded"
+    },
+    {
+      "pl": "Opiekun Łańcuchów",
+      "en": "Chain Keeper"
+    },
+    {
+      "pl": "Dzwonnik Bez Twarzy",
+      "en": "Faceless Bellkeeper"
+    },
+    {
+      "pl": "Mistrz Czarnego Młota",
+      "en": "Master of the Black Hammer"
+    },
+    {
+      "pl": "Nosiciel Ostatniej Przysięgi",
+      "en": "Bearer of the Last Oath"
+    },
+    {
+      "pl": "Trzy ognie przecinają mgłę. Ocalała karawana zna już drogę.",
+      "en": "Three fires pierce the mist. The surviving caravan knows the way."
+    },
+    {
+      "pl": "Łańcuchy opadły. Krużganek po raz pierwszy nie powtarza rozkazów biskupa.",
+      "en": "The chains have fallen. For the first time, the cloister no longer echoes the bishop's commands."
+    },
+    {
+      "pl": "Ostatnia krypta zamilkła. Przejście pod galerią przestało oddychać.",
+      "en": "The final crypt has fallen silent. The passage beneath the gallery has stopped breathing."
+    },
+    {
+      "pl": "Paleniska zgasły. Żebra nowego boga ostygły, zanim zdołały objąć serce.",
+      "en": "The furnaces are dark. The ribs of a new god cooled before they could embrace the heart."
+    },
+    {
+      "pl": "Trzy przysięgi zerwane. Za drzwiami po raz pierwszy słychać nierówny oddech Malazara.",
+      "en": "Three oaths broken. Beyond the door, Malazar's breathing falters for the first time."
+    },
+    {
+      "pl": "Zabezpiecz trzy oznaczone miejsca i wykonaj przy nich akcję [E]. Strażnik miejsca musi zostać pokonany. Następnie pokonaj strażnika bramy i przejdź dalej.",
+      "en": "Secure three marked places and interact with each [E]. Defeat each area's guardian. Then defeat the gate guardian and move on."
+    },
+    {
+      "pl": "Cel etapu: ",
+      "en": "Stage objective: "
+    },
+    {
+      "pl": "Słup przysięgi",
+      "en": "Oath Pillar"
+    },
+    {
+      "pl": "Kamienna pieczęć krypty",
+      "en": "Crypt's Stone Seal"
+    },
+    {
+      "pl": "Palenisko serca",
+      "en": "Heart Furnace"
+    },
+    {
+      "pl": "Ołtarz przysięgi",
+      "en": "Oath Altar"
+    },
+    {
+      "pl": "Cel zabezpieczony • ",
+      "en": "Objective secured • "
+    },
+    {
+      "pl": "Ten cel jest już zabezpieczony • ",
+      "en": "This objective is already secured • "
+    },
+    {
+      "pl": "Najpierw pokonaj strażnika tego miejsca",
+      "en": "Defeat this area's guardian first"
+    },
+    {
+      "pl": "Zabezpiecz miejsce • pozostali przeciwnicy są zbyt blisko",
+      "en": "Secure the area • other enemies are too close"
+    },
+    {
+      "pl": " zł, +6 odłamków.",
+      "en": " gold, +6 shards."
+    },
+    {
+      "pl": "PRZERWANO",
+      "en": "INTERRUPTED"
+    },
+    {
+      "pl": "ŁAŃCUCH • zejdź z linii szarży",
+      "en": "CHAIN • move out of the charge path"
+    },
+    {
+      "pl": "DZWON • luka w pierścieniu daje schronienie",
+      "en": "BELL • shelter in the ring's gap"
+    },
+    {
+      "pl": "RYTUAŁ • opuść oba kręgi",
+      "en": "RITUAL • leave both circles"
+    },
+    {
+      "pl": "MŁOT • przejdź za strażnika",
+      "en": "HAMMER • move behind the guardian"
+    },
+    {
+      "pl": "PRÓŻNIA • omiń promień lub wejdź blisko strażnika",
+      "en": "VOID • avoid the beam or move close to the guardian"
+    },
+    {
+      "pl": "\n\nAKTYWNE: ",
+      "en": "\n\nACTIVE: "
+    },
+    {
+      "pl": "ODBLOKUJESZ NA POZIOMIE 4",
+      "en": "UNLOCKS AT LEVEL 4"
+    },
+    {
+      "pl": "MOC TEGO BOHATERA",
+      "en": "THIS HERO'S SKILL"
+    },
+    {
+      "pl": "GOTOWE  •  ",
+      "en": "READY  •  "
+    },
+    {
+      "pl": ": KSIĘGA MOCY",
+      "en": ": SPELLBOOK"
+    },
+    {
+      "pl": "WYROK",
+      "en": "JUDGMENT"
+    },
+    {
+      "pl": "PRZYSIĘGA",
+      "en": "OATH"
+    },
+    {
+      "pl": "PIELGRZYM",
+      "en": "PILGRIM"
+    },
+    {
+      "pl": "HEMOMANCJA",
+      "en": "HEMOMANCY"
+    },
+    {
+      "pl": "ŻYWA KREW",
+      "en": "LIVING BLOOD"
+    },
+    {
+      "pl": "TĘTNO",
+      "en": "HEARTBEAT"
+    },
+    {
+      "pl": "ŁOWY",
+      "en": "HUNT"
+    },
+    {
+      "pl": "CZUJNOŚĆ",
+      "en": "VIGILANCE"
+    },
+    {
+      "pl": "CIEŃ",
+      "en": "SHADOW"
+    },
+    {
+      "pl": "ENTROPIA",
+      "en": "ENTROPY"
+    },
+    {
+      "pl": "PRÓŻNIA",
+      "en": "VOID"
+    },
+    {
+      "pl": "ORBITA",
+      "en": "ORBIT"
+    },
+    {
+      "pl": "GNIEW",
+      "en": "WRATH"
+    },
+    {
+      "pl": "KORA",
+      "en": "BARK"
+    },
+    {
+      "pl": "KORZENIE",
+      "en": "ROOTS"
+    },
+    {
+      "pl": "Rozżarzona stal",
+      "en": "Glowing Steel"
+    },
+    {
+      "pl": "Sąd nad potężnymi",
+      "en": "Judgment of the Mighty"
+    },
+    {
+      "pl": "Pęknięta pieczęć",
+      "en": "Broken Seal"
+    },
+    {
+      "pl": "Niezłomna przysięga",
+      "en": "Unbroken Oath"
+    },
+    {
+      "pl": "Hart popiołów",
+      "en": "Temper of Ash"
+    },
+    {
+      "pl": "Kielich pielgrzyma",
+      "en": "Pilgrim's Chalice"
+    },
+    {
+      "pl": "Krok pokutnika",
+      "en": "Penitent's Step"
+    },
+    {
+      "pl": "Podsycanie żaru",
+      "en": "Stoke the Embers"
+    },
+    {
+      "pl": "Wieczny wyrok",
+      "en": "Eternal Judgment"
+    },
+    {
+      "pl": "Ostra posoka",
+      "en": "Sharp Ichor"
+    },
+    {
+      "pl": "Krew władców",
+      "en": "Blood of Rulers"
+    },
+    {
+      "pl": "Ostatnie tętno",
+      "en": "Final Heartbeat"
+    },
+    {
+      "pl": "Żyła życia",
+      "en": "Vein of Life"
+    },
+    {
+      "pl": "Gęsta krew",
+      "en": "Thick Blood"
+    },
+    {
+      "pl": "Czerwona ambrozja",
+      "en": "Crimson Ambrosia"
+    },
+    {
+      "pl": "Taniec tętnic",
+      "en": "Arterial Dance"
+    },
+    {
+      "pl": "Głód posoki",
+      "en": "Hunger for Ichor"
+    },
+    {
+      "pl": "Szybki puls",
+      "en": "Racing Pulse"
+    },
+    {
+      "pl": "Celne oko",
+      "en": "True Eye"
+    },
+    {
+      "pl": "Tropiciel bestii",
+      "en": "Beast Tracker"
+    },
+    {
+      "pl": "Daleki strzał",
+      "en": "Distant Shot"
+    },
+    {
+      "pl": "Wytrwałość łowcy",
+      "en": "Hunter's Endurance"
+    },
+    {
+      "pl": "Skóra zwiadowcy",
+      "en": "Scout's Hide"
+    },
+    {
+      "pl": "Zapas na szlak",
+      "en": "Trail Supplies"
+    },
+    {
+      "pl": "Lekki krok",
+      "en": "Light Step"
+    },
+    {
+      "pl": "Pełne skupienie",
+      "en": "Perfect Focus"
+    },
+    {
+      "pl": "Rytm łowów",
+      "en": "Rhythm of the Hunt"
+    },
+    {
+      "pl": "Szept osobliwości",
+      "en": "Whisper of Singularity"
+    },
+    {
+      "pl": "Upadek olbrzymów",
+      "en": "Fall of Giants"
+    },
+    {
+      "pl": "Krytyczna masa",
+      "en": "Critical Mass"
+    },
+    {
+      "pl": "Gwiezdne ciało",
+      "en": "Starlit Body"
+    },
+    {
+      "pl": "Gęstość próżni",
+      "en": "Void Density"
+    },
+    {
+      "pl": "Eliksir astralny",
+      "en": "Astral Elixir"
+    },
+    {
+      "pl": "Orbitalny krok",
+      "en": "Orbital Step"
+    },
+    {
+      "pl": "Narastanie entropii",
+      "en": "Rising Entropy"
+    },
+    {
+      "pl": "Zagięcie czasu",
+      "en": "Time Bend"
+    },
+    {
+      "pl": "Cierniowe ostrze",
+      "en": "Thorn Blade"
+    },
+    {
+      "pl": "Pogromca spaczenia",
+      "en": "Slayer of Corruption"
+    },
+    {
+      "pl": "Splot cierni",
+      "en": "Thornweave"
+    },
+    {
+      "pl": "Serce dębu",
+      "en": "Heart of Oak"
+    },
+    {
+      "pl": "Stara kora",
+      "en": "Ancient Bark"
+    },
+    {
+      "pl": "Sok odnowy",
+      "en": "Sap of Renewal"
+    },
+    {
+      "pl": "Leśna ścieżka",
+      "en": "Forest Path"
+    },
+    {
+      "pl": "Żywa żywica",
+      "en": "Living Resin"
+    },
+    {
+      "pl": "Rytm puszczy",
+      "en": "Rhythm of the Wilds"
+    },
+    {
+      "pl": "+5% obrażeń broni i mocy za rangę.",
+      "en": "+5% weapon and skill damage per rank."
+    },
+    {
+      "pl": "+8% obrażeń przeciw elitom i bossom za rangę.",
+      "en": "+8% damage against elites and bosses per rank."
+    },
+    {
+      "pl": "+18% obrażeń przeciw wrogom ogłuszonym lub z osłabionym pancerzem.",
+      "en": "+18% damage against stunned enemies or enemies with reduced armor."
+    },
+    {
+      "pl": "+18% obrażeń przeciw wrogom mającym najwyżej połowę zdrowia.",
+      "en": "+18% damage against enemies at or below half health."
+    },
+    {
+      "pl": "+18% obrażeń przeciw wrogom oddalonym o co najmniej 4 metry.",
+      "en": "+18% damage against enemies at least 4 meters away."
+    },
+    {
+      "pl": "+18% obrażeń przy 60+ Entropii lub aktywnym Przepełnieniu.",
+      "en": "+18% damage at 60+ Entropy or while Overflow is active."
+    },
+    {
+      "pl": "+18% obrażeń przeciw wrogom zakorzenionym lub spowolnionym.",
+      "en": "+18% damage against rooted or slowed enemies."
+    },
+    {
+      "pl": "+12 maksymalnego zdrowia za rangę. Nie odnawia zdrowia.",
+      "en": "+12 maximum health per rank. Does not restore health."
+    },
+    {
+      "pl": "-5% otrzymywanych obrażeń za rangę.",
+      "en": "-5% damage taken per rank."
+    },
+    {
+      "pl": "Mikstury zdrowia leczą o 35% więcej.",
+      "en": "Health potions heal 35% more."
+    },
+    {
+      "pl": "+3% szybkości poruszania się za rangę.",
+      "en": "+3% movement speed per rank."
+    },
+    {
+      "pl": "+10% zdobywanego zasobu za rangę.",
+      "en": "+10% resource gain per rank."
+    },
+    {
+      "pl": "Czas odnowienia mocy krótszy o 12%.",
+      "en": "Skill cooldowns reduced by 12%."
+    },
+    {
+      "pl": "Nieznany talent",
+      "en": "Unknown talent"
+    },
+    {
+      "pl": "Maksymalna ranga",
+      "en": "Maximum rank"
+    },
+    {
+      "pl": "Wymaga poziomu ",
+      "en": "Requires level "
+    },
+    {
+      "pl": "Poprzedni talent: ranga 2",
+      "en": "Previous talent: rank 2"
+    },
+    {
+      "pl": "Brak wolnych punktów",
+      "en": "No unspent points"
+    },
+    {
+      "pl": "Rozwinięto: ",
+      "en": "Upgraded: "
+    },
+    {
+      "pl": " • ranga ",
+      "en": " • rank "
+    },
+    {
+      "pl": "Zmiana talentów dostępna w Oakhaven",
+      "en": "Change talents in Oakhaven"
+    },
+    {
+      "pl": "Brak rozdanych punktów",
+      "en": "No points spent"
+    },
+    {
+      "pl": "Brakuje złota: koszt ",
+      "en": "Not enough gold: cost "
+    },
+    {
+      "pl": "Talenty zwrócone • dostępne punkty: ",
+      "en": "Talents refunded • available points: "
+    },
+    {
+      "pl": "ŚCIEŻKI UPADŁYCH GWIAZD",
+      "en": "PATHS OF THE FALLEN STARS"
+    },
+    {
+      "pl": "PUNKTY TALENTÓW: ",
+      "en": "TALENT POINTS: "
+    },
+    {
+      "pl": " rozdanych  /  ",
+      "en": " spent  /  "
+    },
+    {
+      "pl": " zdobytych",
+      "en": " earned"
+    },
+    {
+      "pl": "możesz rozwinąć",
+      "en": "available to upgrade"
+    },
+    {
+      "pl": "Wybierz ikonę. Połączone węzły rozwijasz od dołu ku górze.",
+      "en": "Select an icon. Follow connected nodes from bottom to top."
+    },
+    {
+      "pl": "ZMIEŃ TALENTY • BEZ OPŁATY",
+      "en": "RESET TALENTS • FREE"
+    },
+    {
+      "pl": "ZMIEŃ TALENTY • ",
+      "en": "RESET TALENTS • "
+    },
+    {
+      "pl": " ZŁOTA",
+      "en": " GOLD"
+    },
+    {
+      "pl": "1 punkt za awans • następny węzeł wymaga 2 rang poprzedniego",
+      "en": "1 point per level • the next node requires 2 ranks in the previous one"
+    },
+    {
+      "pl": "W Oakhaven możesz zmienić wybrane talenty.",
+      "en": "You can change your talents in Oakhaven."
+    },
+    {
+      "pl": " • PEŁNA RANGA",
+      "en": " • MAX RANK"
+    },
+    {
+      "pl": "Koszt: 1 punkt • dostępne: ",
+      "en": "Cost: 1 point • available: "
+    },
+    {
+      "pl": "TALENT ROZWINIĘTY",
+      "en": "TALENT UPGRADED"
+    },
+    {
+      "pl": "ROZWIŃ • 1 PUNKT",
+      "en": "UPGRADE • 1 POINT"
+    },
+    {
+      "pl": "ODNOWIENIE PRZYSIĘGI",
+      "en": "RENEW YOUR OATH"
+    },
+    {
+      "pl": "Odzyskasz wszystkie ",
+      "en": "You will recover all "
+    },
+    {
+      "pl": " wydanych punktów. ",
+      "en": " spent points. "
+    },
+    {
+      "pl": "Pierwsza zmiana jest bezpłatna.",
+      "en": "Your first reset is free."
+    },
+    {
+      "pl": "Koszt: ",
+      "en": "Cost: "
+    },
+    {
+      "pl": " złota.",
+      "en": " gold."
+    },
+    {
+      "pl": "\nZdrowie i zasób nie zostaną odnowione.",
+      "en": "\nHealth and resource will not be restored."
+    },
+    {
+      "pl": "ZACHOWAJ TALENTY",
+      "en": "KEEP TALENTS"
+    },
+    {
+      "pl": "ZWROT PUNKTÓW",
+      "en": "REFUND POINTS"
+    },
+    {
+      "pl": "Przejście",
+      "en": "Passage"
+    },
+    {
+      "pl": "MALAZAR • KRWAWY BISKUP",
+      "en": "MALAZAR • BLOOD BISHOP"
+    },
+    {
+      "pl": "HEROLD ICHORITU",
+      "en": "HERALD OF ICHORITE"
+    },
+    {
+      "pl": "Wygłodniały Pokutnik",
+      "en": "Starved Penitent"
+    },
+    {
+      "pl": "Zaprzysiężony szkielet",
+      "en": "Oathbound Skeleton"
+    },
+    {
+      "pl": "Tarcza przysięgi",
+      "en": "Oath Shield"
+    },
+    {
+      "pl": "Pylon Rzezi • 30 s • darmowe moce, odnowienie −75%",
+      "en": "Pylon of Slaughter • 30 s • free skills, cooldown −75%"
+    },
+    {
+      "pl": "Łaska Upadłych • szybkość i łańcuchy światła",
+      "en": "Grace of the Fallen • speed and chains of light"
+    },
+    {
+      "pl": "Źródło Życia • oczyszczenie i mikstura",
+      "en": "Wellspring • cleansing and a potion"
+    },
+    {
+      "pl": "Wspólna skrytka",
+      "en": "Shared Stash"
+    },
+    {
+      "pl": "Relikty Oakhaven",
+      "en": "Relics of Oakhaven"
+    },
+    {
+      "pl": "nieaktywny",
+      "en": "inactive"
+    },
+    {
+      "pl": "pokonany",
+      "en": "defeated"
+    },
+    {
+      "pl": "JĘZYK",
+      "en": "LANGUAGE"
+    },
+    {
+      "pl": "JĘZYK GRY",
+      "en": "GAME LANGUAGE"
+    },
+    {
+      "pl": "Zmiana języka działa od razu i nie zmienia zapisów postaci.\nWybór jest zapamiętywany przy kolejnych uruchomieniach.",
+      "en": "Language changes take effect immediately without changing character saves.\nYour choice is remembered for future sessions."
+    },
+    {
+      "pl": "Lektor filmowy: angielski.\nNapisy i plansze intro są zgodne z wybranym językiem.",
+      "en": "Cinematic narration: English.\nIntro subtitles and title cards follow your selected language."
+    },
+    {
+      "pl": "PPM",
+      "en": "RMB"
+    },
+    {
+      "pl": "PD",
+      "en": "XP"
+    },
+    {
+      "pl": "EKWIPUNEK",
+      "en": "INVENTORY"
+    },
+    {
+      "pl": "KSIĘGA",
+      "en": "SPELLBOOK"
+    },
+    {
+      "pl": "MIKSTURA",
+      "en": "POTION"
+    },
+    {
+      "pl": "Mrok",
+      "en": "Darkness"
+    },
+    {
+      "pl": "Entropii",
+      "en": "Entropy"
+    },
+    {
+      "pl": "Ichorit",
+      "en": "Ichorite"
+    },
+    {
+      "pl": "Nadzorcę",
+      "en": "Overseer"
+    },
+    {
+      "pl": "Katakumby II",
+      "en": "Catacombs II"
+    },
+    {
+      "pl": "ŻNIWO UPADŁYCH GWIAZD",
+      "en": "HARVEST OF FALLEN STARS"
+    },
+    {
+      "pl": "SERCE POD KATEDRĄ",
+      "en": "THE HEART BENEATH THE CATHEDRAL"
+    },
+    {
+      "pl": "AKT I  /",
+      "en": "ACT I  /"
+    },
+    {
+      "pl": "[V] TALENTY • punkty:",
+      "en": "[V] TALENTS • points:"
+    },
+    {
+      "pl": "KREW",
+      "en": "BLOOD"
+    },
+    {
+      "pl": "ODP. OGŁ.",
+      "en": "STUN RESIST."
+    },
+    {
+      "pl": "Cel:",
+      "en": "Objective:"
+    },
+    {
+      "pl": "Irma poprosiła o odzyskanie odłamka serca spod katedry. Szlak prowadzi przez Martwe Błonia i cmentarz, gdzie pielgrzymi wracają z martwych. Krwawy Biskup Malazar przygotowuje koronację poległych królów.\n\nKapliczki: Rzeź skraca odnowienia i znosi koszt mocy. Łaska daje szybkość i łańcuchy światła. Źródło Życia oczyszcza Skazę Ichoritu.",
+      "en": "Irma asked you to recover the heart shard beneath the cathedral. The path leads across the Dead Fields to a cemetery where pilgrims rise from their graves. Malazar, the Blood Bishop, is preparing to crown the fallen kings.\n\nShrines: Slaughter reduces cooldowns and removes skill costs. Grace grants speed and chains of light. The Wellspring cleanses Ichorite Blight."
+    },
+    {
+      "pl": "Malazar upadł, lecz odłamek Varkosa wciąż bije. Za piaskami Kar-Darak ktoś czeka na wieść z Oakhaven.\n\nAkt I ukończony.",
+      "en": "Malazar has fallen, yet the shard of Varkos still beats. Beyond the sands of Kar-Darak, someone awaits news from Oakhaven.\n\nAct I complete."
+    },
+    {
+      "pl": "Złoto:",
+      "en": "Gold:"
+    },
+    {
+      "pl": "Pokonani:",
+      "en": "Defeated:"
+    },
+    {
+      "pl": "Poziom:",
+      "en": "Level:"
+    },
+    {
+      "pl": "ataku",
+      "en": "attack"
+    },
+    {
+      "pl": "zdrowia",
+      "en": "health"
+    },
+    {
+      "pl": "regeneracji/s",
+      "en": "regeneration/s"
+    },
+    {
+      "pl": "• poziom",
+      "en": "• level"
+    },
+    {
+      "pl": "• złoto:",
+      "en": "• gold:"
+    },
+    {
+      "pl": "Obroń grabarza • fala",
+      "en": "Defend the gravedigger • wave"
+    },
+    {
+      "pl": "Strażnik pokonany • przejście otwarte; pozostało",
+      "en": "Guardian defeated • passage open; remaining:"
+    },
+    {
+      "pl": "Znajdź strażnika przejścia • pozostali:",
+      "en": "Find the passage guardian • remaining:"
+    },
+    {
+      "pl": "Strażnik przejścia •",
+      "en": "Passage guardian •"
+    },
+    {
+      "pl": "Strażnik miejsca",
+      "en": "Area guardian"
+    },
+    {
+      "pl": "Zmarły z fali",
+      "en": "Undead from wave"
+    },
+    {
+      "pl": "Obrona grabarza • fala",
+      "en": "Defend the gravedigger • wave"
+    },
+    {
+      "pl": "PROFIL",
+      "en": "PROFILE"
+    },
+    {
+      "pl": "ŻYCIE",
+      "en": "HEALTH"
+    },
+    {
+      "pl": "•  POZIOM",
+      "en": "•  LEVEL"
+    },
+    {
+      "pl": "ZNAMIĘ",
+      "en": "MARK"
+    },
+    {
+      "pl": "Znaki krwi:",
+      "en": "Blood marks:"
+    },
+    {
+      "pl": "Krwawa detonacja:",
+      "en": "Blood detonation:"
+    },
+    {
+      "pl": "• zużywa znamiona",
+      "en": "• consumes marks"
+    },
+    {
+      "pl": "Przebicia:",
+      "en": "Pierces:"
+    },
+    {
+      "pl": "• spowolnienie 3 s",
+      "en": "• slows for 3 s"
+    },
+    {
+      "pl": "Osobliwość po",
+      "en": "Singularity after"
+    },
+    {
+      "pl": "s • przyciąga zwykłych wrogów",
+      "en": "s • pulls normal enemies"
+    },
+    {
+      "pl": "• maks. 3 cele, 5 po Kroku Cienia",
+      "en": "• up to 3 targets, 5 after Shadow Step"
+    },
+    {
+      "pl": "Detonacja:",
+      "en": "Detonation:"
+    },
+    {
+      "pl": "• do 3 znamion na cel; trafienia podstawowe nakładają znamiona",
+      "en": "• up to 3 marks per target; basic hits apply marks"
+    },
+    {
+      "pl": "Trafienia w stożku:",
+      "en": "Cone hits:"
+    },
+    {
+      "pl": "• ogłuszenie; elity mają odporność",
+      "en": "• stun; elites gain resistance"
+    },
+    {
+      "pl": "• osłabienie pancerza 5 s",
+      "en": "• reduced armor for 5 s"
+    },
+    {
+      "pl": "• korzenie",
+      "en": "• roots"
+    },
+    {
+      "pl": "s; wrogowie nadal atakują",
+      "en": "s; enemies can still attack"
+    },
+    {
+      "pl": "Poziom",
+      "en": "Level"
+    },
+    {
+      "pl": "• punkt talentu [V] • odnowione zdrowie",
+      "en": "• talent point [V] • health restored"
+    },
+    {
+      "pl": "Odnowienie:",
+      "en": "Cooldown:"
+    },
+    {
+      "pl": "Za mało:",
+      "en": "Not enough:"
+    },
+    {
+      "pl": "[LPM]",
+      "en": "[LMB]"
+    },
+    {
+      "pl": "Zawartość:",
+      "en": "Contents:"
+    },
+    {
+      "pl": "Znaleziono:",
+      "en": "Found:"
+    },
+    {
+      "pl": "Łaska Upadłych • warstwy:",
+      "en": "Grace of the Fallen • stacks:"
+    },
+    {
+      "pl": "•  POZ.",
+      "en": "•  LV."
+    },
+    {
+      "pl": "•  {KEYRAW:potion}: mikstura ×",
+      "en": "•  {KEYRAW:potion}: potion ×"
+    },
+    {
+      "pl": "• Odłamki",
+      "en": "• Shards"
+    },
+    {
+      "pl": "ZWÓJ POWROTU •",
+      "en": "TOWN SCROLL •"
+    },
+    {
+      "pl": "Ślad:",
+      "en": "Trail:"
+    },
+    {
+      "pl": "W KUFRZE •",
+      "en": "IN CHEST •"
+    },
+    {
+      "pl": "Ruszaj traktem. Użyj",
+      "en": "Follow the road. Use"
+    },
+    {
+      "pl": "albo kliknij drogę.",
+      "en": "or click the path."
+    },
+    {
+      "pl": "Wyceluj i użyj",
+      "en": "Aim and press"
+    },
+    {
+      "pl": "lub PPM. Zasób i czas odnowienia widać na pasie mocy.",
+      "en": "or RMB. Your resource and cooldown appear on the skill bar."
+    },
+    {
+      "pl": "Unik:",
+      "en": "Dodge:"
+    },
+    {
+      "pl": ". Ochrona:",
+      "en": ". Defense:"
+    },
+    {
+      "pl": ". Reaguj na zapowiedzi ciosów;",
+      "en": ". Watch for attack warnings;"
+    },
+    {
+      "pl": "leczy miksturą.",
+      "en": "drinks a healing potion."
+    },
+    {
+      "pl": "Pokonaj Nadzorcę. Podejdź do pieczęci i wciśnij",
+      "en": "Defeat the Overseer. Approach the seal and press"
+    },
+    {
+      "pl": "Porozmawiaj z mieszkańcami. Dziennik:",
+      "en": "Speak to the townsfolk. Journal:"
+    },
+    {
+      "pl": ". Relikty:",
+      "en": ". Relics:"
+    },
+    {
+      "pl": ". Księga mocy:",
+      "en": ". Spellbook:"
+    },
+    {
+      "pl": "PIERWSZA WYPRAWA  •",
+      "en": "FIRST JOURNEY  •"
+    },
+    {
+      "pl": "• Rozdarcie",
+      "en": "• Rupture"
+    },
+    {
+      "pl": "LPM •",
+      "en": "LMB •"
+    },
+    {
+      "pl": "obrażeń bazowych •",
+      "en": "base damage •"
+    },
+    {
+      "pl": "m\nTrafienie odnawia zasób.",
+      "en": "m\nHits restore your resource."
+    },
+    {
+      "pl": "Stożek 3,6 m:",
+      "en": "3.6 m cone:"
+    },
+    {
+      "pl": "obrażeń.",
+      "en": "damage."
+    },
+    {
+      "pl": "Strzała na 12 m przebija 3 cele; każdy kolejny otrzymuje 88% poprzednich obrażeń.",
+      "en": "An arrow travels 12 m and pierces 3 targets; each successive target takes 88% of the previous damage."
+    },
+    {
+      "pl": "Osłabia też pancerz na 5 s.",
+      "en": "Also reduces armor for 5 s."
+    },
+    {
+      "pl": "Stożek 4,8 m:",
+      "en": "4.8 m cone:"
+    },
+    {
+      "pl": "obrażeń. Korzenie",
+      "en": "damage. Roots for"
+    },
+    {
+      "pl": "Blokują ruch, nie ataki. Elity tylko spowalnia.",
+      "en": "Stops movement, not attacks. Only slows elites."
+    },
+    {
+      "pl": "PPM /",
+      "en": "RMB /"
+    },
+    {
+      "pl": "• odnowienie 5 s",
+      "en": "• 5 s cooldown"
+    },
+    {
+      "pl": "Koszt: 25",
+      "en": "Cost: 25"
+    },
+    {
+      "pl": "• odnowienie 10 s",
+      "en": "• 10 s cooldown"
+    },
+    {
+      "pl": "• odnowienie 14 s •",
+      "en": "• 14 s cooldown •"
+    },
+    {
+      "pl": "• odnowienie 9 s •",
+      "en": "• 9 s cooldown •"
+    },
+    {
+      "pl": "• odnowienie 24 s •",
+      "en": "• 24 s cooldown •"
+    },
+    {
+      "pl": "Od poziomu 4.",
+      "en": "Requires level 4."
+    },
+    {
+      "pl": "• Mikstury",
+      "en": "• Potions"
+    },
+    {
+      "pl": "/5 • Receptura",
+      "en": "/5 • Recipe"
+    },
+    {
+      "pl": "WZMOCNIJ LECZENIE +20 •",
+      "en": "UPGRADE HEALING +20 •"
+    },
+    {
+      "pl": "Gniazda pieczęci:",
+      "en": "Seal sockets:"
+    },
+    {
+      "pl": "ZMIEŃ ZAKLĘCIE •",
+      "en": "CHANGE ENCHANTMENT •"
+    },
+    {
+      "pl": "Epicki",
+      "en": "Epic"
+    },
+    {
+      "pl": "Rzadki",
+      "en": "Rare"
+    },
+    {
+      "pl": "AKT I  •  POZIOM",
+      "en": "ACT I  •  LEVEL"
+    },
+    {
+      "pl": "złota",
+      "en": "gold"
+    },
+    {
+      "pl": "odłamków",
+      "en": "shards"
+    },
+    {
+      "pl": "Klejnoty w pieczęci:",
+      "en": "Gems in seal:"
+    },
+    {
+      "pl": "/5  •  Zwoje Powrotu:",
+      "en": "/5  •  Town Scrolls:"
+    },
+    {
+      "pl": "•  CHRONIONY",
+      "en": "•  PROTECTED"
+    },
+    {
+      "pl": "Obecnie:",
+      "en": "Currently:"
+    },
+    {
+      "pl": "NA ZIEMI",
+      "en": "ON THE GROUND"
+    },
+    {
+      "pl": "Kupiono:",
+      "en": "Purchased:"
+    },
+    {
+      "pl": "• załóż w ekwipunku [I]",
+      "en": "• equip in inventory [I]"
+    },
+    {
+      "pl": "ZŁ • PLECAK",
+      "en": "GOLD • BACKPACK"
+    },
+    {
+      "pl": "SPRZEDAJ •",
+      "en": "SELL •"
+    },
+    {
+      "pl": "Profil",
+      "en": "Profile"
+    },
+    {
+      "pl": "• pusta kronika",
+      "en": "• unwritten chronicle"
+    },
+    {
+      "pl": "• poz.",
+      "en": "• lv."
+    },
+    {
+      "pl": "Wczytano początek lokacji •",
+      "en": "Loaded area entrance •"
+    },
+    {
+      "pl": "Relikt:",
+      "en": "Relic:"
+    },
+    {
+      "pl": "Założono:",
+      "en": "Equipped:"
+    },
+    {
+      "pl": "Cele ukończone:",
+      "en": "Objectives complete:"
+    },
+    {
+      "pl": "• Wróć do:",
+      "en": "• Return to:"
+    },
+    {
+      "pl": "Nagroda:",
+      "en": "Reward:"
+    },
+    {
+      "pl": "Dostarcz żar do misy:",
+      "en": "Deliver embers to the basin:"
+    },
+    {
+      "pl": "Pokonaj Strażnika Wymazanych:",
+      "en": "Defeat the Guardian of the Erased:"
+    },
+    {
+      "pl": "Obroń Orena przed trzema falami:",
+      "en": "Protect Oren from three waves:"
+    },
+    {
+      "pl": "Odbierz nagrodę u zleceniodawcy:",
+      "en": "Claim your reward from the quest giver:"
+    },
+    {
+      "pl": "SPRAWY MIESZKAŃCÓW",
+      "en": "TOWNSFOLK'S REQUESTS"
+    },
+    {
+      "pl": "ŚLEDZONE ZADANIA",
+      "en": "TRACKED QUESTS"
+    },
+    {
+      "pl": "ZADANIA",
+      "en": "QUESTS"
+    },
+    {
+      "pl": "ZALECANY POZIOM",
+      "en": "RECOMMENDED LEVEL"
+    },
+    {
+      "pl": "Zwój Powrotu • użyj [T]",
+      "en": "Town Scroll • use [T]"
+    },
+    {
+      "pl": "• ruch lub obrażenia przerywają",
+      "en": "• movement or damage interrupts"
+    },
+    {
+      "pl": "Powrót po śladzie •",
+      "en": "Retrace your steps •"
+    },
+    {
+      "pl": "zwojów",
+      "en": "scrolls"
+    },
+    {
+      "pl": "[T] POWRÓT •",
+      "en": "[T] RETURN •"
+    },
+    {
+      "pl": "RELIKT +10",
+      "en": "RELIC +10"
+    },
+    {
+      "pl": "Nieaktywne dla obecnej klasy.",
+      "en": "Inactive for the current class."
+    },
+    {
+      "pl": "zdrowia/s",
+      "en": "health/s"
+    },
+    {
+      "pl": "pkt proc. redukcji pancerza",
+      "en": "percentage points of armor reduction"
+    },
+    {
+      "pl": "Zmiana podstawy:",
+      "en": "Base change:"
+    },
+    {
+      "pl": ".\nZaklęcie:",
+      "en": ".\nEnchantment:"
+    },
+    {
+      "pl": ".\nAffiks obecnego:",
+      "en": ".\nCurrent affix:"
+    },
+    {
+      "pl": ".\nWybrany:",
+      "en": ".\nSelected:"
+    },
+    {
+      "pl": "• CHRONIONY",
+      "en": "• PROTECTED"
+    },
+    {
+      "pl": "Jeżeli obraz jest poprawny, potwierdź zmianę.\nPowrót do poprzedniego trybu za",
+      "en": "If the display looks correct, confirm the change.\nPrevious settings will return in"
+    },
+    {
+      "pl": "Broń lampy •",
+      "en": "Defend the lamp •"
+    },
+    {
+      "pl": "s • pozostań w kręgu",
+      "en": "s • stay inside the circle"
+    },
+    {
+      "pl": "Oakhaven pamięta:",
+      "en": "Oakhaven remembers:"
+    },
+    {
+      "pl": "/ 5 spraw mieszkańców zakończonych.",
+      "en": "/ 5 townsfolk requests completed."
+    },
+    {
+      "pl": "Porozmawiaj:",
+      "en": "Speak to:"
+    },
+    {
+      "pl": "• Cmentarzysko",
+      "en": "• Cemetery"
+    },
+    {
+      "pl": "• strażnik:",
+      "en": "• guardian:"
+    },
+    {
+      "pl": "• obrona grobów:",
+      "en": "• grave defense:"
+    },
+    {
+      "pl": "Wróć po nagrodę:",
+      "en": "Return for your reward:"
+    },
+    {
+      "pl": "zł •",
+      "en": "gold •"
+    },
+    {
+      "pl": "odłamków •",
+      "en": "shards •"
+    },
+    {
+      "pl": "• pancerz +2",
+      "en": "• armor +2"
+    },
+    {
+      "pl": "• ulepszone mikstury",
+      "en": "• upgraded potions"
+    },
+    {
+      "pl": "• pieczęć +3",
+      "en": "• seal +3"
+    },
+    {
+      "pl": "• bursztyn",
+      "en": "• amber"
+    },
+    {
+      "pl": "Nowe zadanie:",
+      "en": "New quest:"
+    },
+    {
+      "pl": "• [J] dziennik",
+      "en": "• [J] journal"
+    },
+    {
+      "pl": "Ukończono:",
+      "en": "Completed:"
+    },
+    {
+      "pl": "Zadanie:",
+      "en": "Quest:"
+    },
+    {
+      "pl": "Zlecenie:",
+      "en": "Quest:"
+    },
+    {
+      "pl": "Najpierw przyjmij zadanie:",
+      "en": "Accept the quest first:"
+    },
+    {
+      "pl": "zł, +3 odłamki • przejście otwarte",
+      "en": "gold, +3 shards • passage open"
+    },
+    {
+      "pl": "Cel etapu:",
+      "en": "Stage objective:"
+    },
+    {
+      "pl": "Cel zabezpieczony •",
+      "en": "Objective secured •"
+    },
+    {
+      "pl": "Ten cel jest już zabezpieczony •",
+      "en": "This objective is already secured •"
+    },
+    {
+      "pl": "zł, +6 odłamków.",
+      "en": "gold, +6 shards."
+    },
+    {
+      "pl": "AKTYWNE:",
+      "en": "ACTIVE:"
+    },
+    {
+      "pl": "GOTOWE  •",
+      "en": "READY  •"
+    },
+    {
+      "pl": "Wymaga poziomu",
+      "en": "Requires level"
+    },
+    {
+      "pl": "Rozwinięto:",
+      "en": "Upgraded:"
+    },
+    {
+      "pl": "• ranga",
+      "en": "• rank"
+    },
+    {
+      "pl": "Brakuje złota: koszt",
+      "en": "Not enough gold: cost"
+    },
+    {
+      "pl": "Talenty zwrócone • dostępne punkty:",
+      "en": "Talents refunded • available points:"
+    },
+    {
+      "pl": "PUNKTY TALENTÓW:",
+      "en": "TALENT POINTS:"
+    },
+    {
+      "pl": "rozdanych  /",
+      "en": "spent  /"
+    },
+    {
+      "pl": "zdobytych",
+      "en": "earned"
+    },
+    {
+      "pl": "ZMIEŃ TALENTY •",
+      "en": "RESET TALENTS •"
+    },
+    {
+      "pl": "ZŁOTA",
+      "en": "GOLD"
+    },
+    {
+      "pl": "• PEŁNA RANGA",
+      "en": "• MAX RANK"
+    },
+    {
+      "pl": "Koszt: 1 punkt • dostępne:",
+      "en": "Cost: 1 point • available:"
+    },
+    {
+      "pl": "Odzyskasz wszystkie",
+      "en": "You will recover all"
+    },
+    {
+      "pl": "wydanych punktów.",
+      "en": "spent points."
+    },
+    {
+      "pl": "Koszt:",
+      "en": "Cost:"
+    },
+    {
+      "pl": "złota.",
+      "en": "gold."
+    },
+    {
+      "pl": "Zdrowie i zasób nie zostaną odnowione.",
+      "en": "Health and resource will not be restored."
+    }
+  ]
+}

@@ -69,7 +69,8 @@ namespace Krypta
   static void Bootstrap() { if (!FindFirstObjectByType<KryptaGame>()) new GameObject("Nocturnis").AddComponent<KryptaGame>(); }
   void Start()
   {
-   if(System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-masonry-review")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-masonry-editor-qa")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-gothic-ui-review")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-development080-editor")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-rpg081-editor")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-portrait082-editor")>=0)Testing=true;
+   if(System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-language-qa")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-language-editor-qa")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-language-choice-review")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-masonry-review")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-masonry-editor-qa")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-gothic-ui-review")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-development080-editor")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-rpg081-editor")>=0 || System.Array.IndexOf(System.Environment.GetCommandLineArgs(),"-portrait082-editor")>=0)Testing=true;
+   NocturnisLanguage.Initialize();
    Time.timeScale=1; art=Resources.Load<KryptaAssets>("KryptaAssets");
    ReducedFlashes=PlayerPrefs.GetInt("Nocturnis.ReducedFlashes",1)==1;
    NocturnisSettings.Ensure(gameObject);
@@ -79,7 +80,7 @@ namespace Krypta
    if(!Application.isBatchMode){audioSystem=gameObject.AddComponent<NocturnisAudio>();musicSystem=gameObject.AddComponent<NocturnisMusic>();}
    CreateCamera(); LoadZone(Campaign.Road); gameObject.AddComponent<KryptaHUD>(); State=Phase.Title; Time.timeScale=0;
    TryStartCryptPreview();
-   if(State==Phase.Title)NocturnisCinematic.TryPlay(this,null);
+   if(State==Phase.Title && !NocturnisLanguage.NeedsChoice)NocturnisCinematic.TryPlay(this,null);
   }
   public void SelectHero(int index)
   {
@@ -101,7 +102,7 @@ namespace Krypta
   static int Cell(float x) { return Mathf.FloorToInt(x/Tile+.5f); }
   void Update()
   {
-   if(NocturnisCinematic.BlocksInput)return;
+   if(NocturnisLanguage.NeedsChoice || NocturnisCinematic.BlocksInput)return;
    if(CryptPreviewInput())return;
    if (player==null) return;
    var hud=GetComponent<KryptaHUD>();if(hud && hud.HandleMenuInput())return;

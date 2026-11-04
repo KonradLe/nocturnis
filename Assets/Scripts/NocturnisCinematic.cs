@@ -20,7 +20,7 @@ namespace Krypta {
    if(Active || startupAttempted || Application.isBatchMode || (KryptaGame.Testing&&!QA&&!SessionQA))return false;
    // Returning to the title reloads the scene, not the application session.
    startupAttempted=true;
-   string path=Path.Combine(Application.streamingAssetsPath,"Nocturnis-Intro.mp4");
+   string path=Path.Combine(Application.streamingAssetsPath,NocturnisLanguage.English ? "Nocturnis-Intro-en.mp4" : "Nocturnis-Intro.mp4");
    if(!File.Exists(path)){Debug.Log("CINEMATIC_UNAVAILABLE");return false;}
    var obj=new GameObject("Nocturnis opening cinematic");
    var player=obj.AddComponent<NocturnisCinematic>();current=player;
@@ -59,8 +59,8 @@ namespace Krypta {
    float scale=Mathf.Min(Screen.width/1280f,Screen.height/720f);
    if(label==null){label=new GUIStyle(GUI.skin.label){alignment=TextAnchor.MiddleCenter};button=new GUIStyle(GUI.skin.button);}
    label.fontSize=Mathf.Max(14,Mathf.RoundToInt(19*scale));button.fontSize=Mathf.Max(12,Mathf.RoundToInt(15*scale));
-   if(!prepared)GUI.Label(new Rect(0,Screen.height*.46f,Screen.width,60*scale),"NOCTURNIS",label);
-   if(GUI.Button(new Rect(Screen.width-245*scale,24*scale,220*scale,38*scale),"POMIŃ  ·  SPACJA / ESC",button))Finish("skipped");
+   if(!prepared)NocturnisLocalizedGUI.Label(new Rect(0,Screen.height*.46f,Screen.width,60*scale),"NOCTURNIS",label);
+   if(GUI.Button(new Rect(Screen.width-245*scale,24*scale,220*scale,38*scale),NocturnisInput.Format("POMIŃ  ·  SPACJA / ESC"),button))Finish("skipped");
    GUI.depth=depth;GUI.matrix=matrix;GUI.color=color;
   }
   void Finish(string reason){

@@ -9,18 +9,19 @@ namespace Krypta
   int observedDisplayWidth,observedDisplayHeight;
   FullScreenMode settingsDisplayMode,observedDisplayMode;
   List<Vector2Int> settingsResolutions;
-  static readonly string[] SettingsTabs={"DŹWIĘK","OBRAZ","DOSTĘPNOŚĆ"};
+  static readonly string[] SettingsTabs={"DŹWIĘK","OBRAZ","DOSTĘPNOŚĆ","JĘZYK"};
   static readonly string[] SettingsPresets={"NISKIE","ŚREDNIE","WYSOKIE"};
   void DrawExpandedSettings()
   {
    var preferences=NocturnisSettings.Ensure(game.gameObject);
    bool previous=GUI.enabled;GUI.enabled=previous && !preferences.DisplayPending;
    for(int i=0;i<SettingsTabs.Length;i++)
-    if(Button(new Rect(282+i*241,179,234,37),SettingsTabs[i],settingsTab==i)){settingsTab=i;menuNotice="";}
+    if(Button(new Rect(282+i*180,179,174,37),SettingsTabs[i],settingsTab==i)){settingsTab=i;menuNotice="";}
    accessibilityPage=settingsTab==2;
    if(settingsTab==0)ExpandedAudioSettings();
    else if(settingsTab==1)ExpandedGraphicsSettings(preferences);
-   else ExpandedAccessibilitySettings();
+   else if(settingsTab==2)ExpandedAccessibilitySettings();
+   else LanguageSettings();
    GUI.enabled=previous;
    if(preferences.DisplayPending)DisplayPreviewConfirmation(preferences);
   }

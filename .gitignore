@@ -41,3 +41,11 @@ access-private.json
 *.dll
 *.mp4
 *.log
+
+# Versioned localization sources
+!/Assets/Resources/
+/Assets/Resources/*
+!/Assets/Resources/Localization/
+!/Assets/Resources/Localization.meta
+!/Assets/Resources/Credits-en.txt
+!/Assets/Resources/Credits-en.txt.meta

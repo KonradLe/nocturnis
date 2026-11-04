@@ -1,12 +1,12 @@
-NOCTURNIS: ŻNIWO UPADŁYCH GWIAZD — 0.7.0
+NOCTURNIS: ŻNIWO UPADŁYCH GWIAZD — 0.8.4
 
 GŁÓWNA BIBLIOTEKA AKTU I
-62 modele przygotowane dla Nocturnis: 32 rekonstrukcje 3D z referencji imagegen za pomocą TRELLIS.2 oraz 30 modeli wykonanych w Blenderze. Przygotowanie materiałów, szkieletów, wag i chwytów broni: projekt Nocturnis. Bieżące 13 klipów ruchu każdego z 20 rigowanych aktorów generuje kod NocturnisIntegratedBuild; są to animacje proceduralne.
+62 modele przygotowane dla Nocturnis: 32 rekonstrukcje 3D z referencji imagegen za pomocą TRELLIS.2 oraz 30 modeli wykonanych w Blenderze. Przygotowanie materiałów, szkieletów, wag i chwytów broni: projekt Nocturnis. Biblioteka ruchu łączy animacje proceduralne projektu z zaimportowanymi i dopasowanymi klipami Quaternius Universal Animation Library [Standard] (CC0 1.0, https://quaternius.com/). Nie każda klasa, akcja i przeciwnik korzysta z klipu tej biblioteki.
 TRELLIS.2 — Microsoft, https://github.com/microsoft/TRELLIS.2
 Blender — Blender Foundation i współtwórcy, https://www.blender.org/
 
 KAMIEŃ I POWIERZCHNIE
-Poly Haven — rock_boulder_dry i rock_wall_16, CC0 1.0.
+Poly Haven — rock_boulder_dry, rock_wall_16, monastery_stone_floor, slate_floor_02 i stone_floor, CC0 1.0.
 https://polyhaven.com/a/rock_boulder_dry
 https://polyhaven.com/a/rock_wall_16
 https://polyhaven.com/license
@@ -28,7 +28,7 @@ Xali — Rigged Knight in Armor, https://blendswap.com/blend/28541 — CC0 wedł
 Wcześniejszy Inkwizytor TRELLIS v1 i posadzki CryptFloor-v01 pozostają zasobami poprzednich iteracji.
 
 INTERFEJS, DŹWIĘK I FONT
-Ilustracje menu i HUD przygotowane dla Nocturnis przy użyciu imagegen; interfejs, efekty i dźwięki proceduralne: projekt Nocturnis.
+Ilustracje menu i HUD przygotowane dla Nocturnis przy użyciu imagegen; interfejs, efekty, dźwięki proceduralne i integracja audio: projekt Nocturnis. Ujęcia filmowe przygotowano przy użyciu Kling; angielski lektor: ElevenLabs.
 Font tytułów: DejaVu Serif Book. Copyright © 2003 Bitstream, Inc.; zmiany DejaVu w domenie publicznej. Pełny tekst licencji fontu dołączono do katalogu Licenses.
 
 SILNIK I IMPORT

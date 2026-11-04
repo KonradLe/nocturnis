@@ -36,12 +36,12 @@ namespace Krypta
   void InventoryText(Rect rect,string value,GUIStyle style,Color color)
   {
    Color previous=GUI.contentColor;GUI.contentColor=color;
-   GUI.Label(rect,NocturnisInput.Format(value),style);GUI.contentColor=previous;
+   NocturnisLocalizedGUI.Label(rect,NocturnisInput.Format(value),style);GUI.contentColor=previous;
   }
   float InventoryParagraph(float x,float y,float width,string value,GUIStyle style,Color color,bool draw)
   {
    value=NocturnisInput.Format(value);
-   float height=Mathf.Ceil(style.CalcHeight(new GUIContent(value),width))+2;
+   float height=Mathf.Ceil(style.CalcHeight(new GUIContent(NocturnisInput.Format(value)),width))+2;
    if(draw)InventoryText(new Rect(x,y,width,height),value,style,color);
    return height;
   }

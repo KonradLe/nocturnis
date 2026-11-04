@@ -94,7 +94,7 @@ namespace Krypta
   void RpgHoverDraw()
   {
    if(string.IsNullOrEmpty(rpgHoverTitle) || Event.current.type!=EventType.Repaint)return;
-   float w=285,h=Mathf.Max(66,small.CalcHeight(new GUIContent(rpgHoverTitle),w-28)+37);
+   float w=285,h=Mathf.Max(66,small.CalcHeight(new GUIContent(NocturnisInput.Format(rpgHoverTitle)),w-28)+37);
    Vector2 mouse=Event.current.mousePosition;Rect r=new Rect(Mathf.Clamp(mouse.x+18,12,1268-w),Mathf.Clamp(mouse.y+22,12,708-h),w,h);
    Fill(new Rect(r.x+3,r.y+5,r.width,r.height),new Color(0,0,0,.65f));Frame(r);
    Label(r.x+14,r.y+10,w-28,h-35,rpgHoverTitle,small,rpgHoverColor);

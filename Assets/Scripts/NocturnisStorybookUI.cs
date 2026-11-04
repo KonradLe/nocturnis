@@ -223,7 +223,7 @@ namespace Krypta
    string copy=SkillDetail(storyTooltipSkill),name=StorySkillName(storyTooltipSkill);
    float active=storyTooltipPreview ? 0 : game.SkillActiveRemaining(storyTooltipSkill);
    if(active>0)copy+="\n\nAKTYWNE: "+active.ToString("0.0")+" s\n"+game.SkillActiveSummary(storyTooltipSkill);
-   float bodyHeight=storyTooltipBody.CalcHeight(new GUIContent(copy),284),titleHeight=storyTooltipTitle.CalcHeight(new GUIContent(name),278);
+   float bodyHeight=storyTooltipBody.CalcHeight(new GUIContent(NocturnisInput.Format(copy)),284),titleHeight=storyTooltipTitle.CalcHeight(new GUIContent(NocturnisInput.Format(name)),278);
    float height=titleHeight+bodyHeight+73;
    Rect r=new Rect(Mathf.Clamp(storyTooltipAnchor.center.x-159,16,946),Mathf.Max(18,storyTooltipAnchor.y-height-12),318,height);
    StoryPanel(r,12);

@@ -10,3 +10,8 @@ ProjectSettings/** -text
 # Override JSON for original package configuration.
 Packages/** -text
 ProjectSettings/** -text
+
+# Localization JSON must also match the build-source manifest byte for byte.
+Assets/** -text
+# Unity metadata commonly leaves optional values blank after the colon.
+*.meta whitespace=cr-at-eol,-blank-at-eol

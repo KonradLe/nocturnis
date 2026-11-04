@@ -1,63 +1,68 @@
-# Nocturnis: Żniwo Upadłych Gwiazd
+# Nocturnis: Harvest of Fallen Stars
 
-Izometryczne action RPG w mrocznym świecie fantasy. **Akt I, wersja 0.8.3**, Unity 6000.3.26f1, Windows x64.
+An isometric dark fantasy action RPG. **Act I · version 0.8.4 · Polish / English · Windows x64**, built with Unity 6000.3.26f1.
 
-[**Pobierz grę i pełny projekt**](https://github.com/KonradLe/nocturnis/releases/tag/v0.8.3) · [Zwiastun](https://zautomatyzowani.ai/nocturis)
+[Download the game and complete Unity project](https://github.com/KonradLe/nocturnis/releases/tag/v0.8.4) · [Watch the trailer](https://zautomatyzowani.ai/nocturis) · [Polski](README.pl.md)
 
-![Katakumby — rzeczywisty obraz z wersji 0.8.3](docs/screenshots/catacombs.png)
+![English character selection — actual game screenshot](docs/screenshots/characters-en.png)
 
-## Uruchomienie gry
+## Play
 
-1. Pobierz **Nocturnis-0.8.3-Windows-x64.zip** z Releases.
-2. Rozpakuj cały katalog na dysk z wolnym miejscem.
-3. Uruchom **Nocturnis-0.8.3/GRAJ.cmd**.
+1. Download **Nocturnis-0.8.4-Windows-x64.zip** from Releases.
+2. Extract the entire folder to a drive with enough free space.
+3. Run **Nocturnis-0.8.4/PLAY.cmd** (GRAJ.cmd also works).
+4. On first launch, choose **POLSKI** or **ENGLISH**, then watch or skip the opening cinematic.
 
-To wydanie przenośne; Unity nie jest potrzebne do grania. Zachowaj wszystkie pliki przy Windows/Nocturnis.exe. Zapisy pozostają w profilu użytkownika Windows, poza katalogiem gry. Na słabszym sprzęcie wybierz niski profil grafiki. Nie opublikowano jeszcze pomiarów pozwalających podać rzetelne minimalne wymagania sprzętowe.
+Switch languages at any time under **Settings → Language** or **Ustawienia → Język**. The choice is saved independently of character saves. Both languages use English cinematic narration, with matching Polish or English subtitles and intro title cards. Menu, HUD, dialogue, quests, talents, item descriptions, shops and settings follow the selected language.
 
-## Zawartość Aktu I
+This is a portable release: Unity is not required to play. Keep the files beside Windows/Nocturnis.exe together. Saves remain in your Windows user profile, outside the installation folder. Select Low graphics on older hardware. Minimum hardware requirements have not been established through representative benchmarks.
 
-- Pięć klas: Inkwizytor Popiołów, Tkacz Krwi, Łowca Zmierzchu, Zwiastun Próżni i Strażnik Korzeni.
-- Oakhaven jako miejski punkt wypadowy oraz 19 lokacji Aktu I: 14 głównej trasy i pięć pobocznych.
-- Rozwój poziomów i talentów, ekwipunek, łupy, handel, zadania główne i poboczne.
-- Tereny leśne, podziemia, katakumby, krypty i finałowy boss Malazar.
-- Ustawienia obrazu, dźwięku i sterowania; muzyka reagująca na walkę.
-- W 0.8.3: trzy zestawy kamiennych materiałów PBR i ciągłe powierzchnie podłóg w 12 wnętrzach.
+## Act I
 
-To aktualna wersja rozwojowa Aktu I. Materiał zwiastuna pochodzi z 0.8.2; powyższy zrzut i PDF wydania przedstawiają 0.8.3.
+- Five classes: Ash Inquisitor, Blood Weaver, Dusk Hunter, Void Herald and Root Warden.
+- Oakhaven as the town hub and **19 Act I locations**: 14 on the main route and five side areas.
+- Character levels, talent trees, equipment, loot, trading, main quests and side quests.
+- Woodland, cellars, catacombs, crypts and the final boss, Malazar.
+- Graphics, sound and control settings; music reacts to combat.
+- Three PBR stone-floor sets across 12 interiors, introduced in 0.8.3.
 
-## Projekt Unity
+This is a development version of Act I. The trailer uses 0.8.2 footage and Polish subtitles; the English screenshots on this page show 0.8.4.
 
-Git zawiera kod, shadery, scenę startową, konfigurację pakietów i ustawienia projektu. **Duże zasoby nie są zapisane w historii Git.** Komplet modeli, tekstur, materiałów, prefabów, animacji, dźwięków i intro znajduje się w archiwum **Nocturnis-0.8.3-Unity-project.zip** w tym samym wydaniu.
+## Unity project
 
-Najprościej rozpakuj pełny projekt do osobnego pustego katalogu i otwórz go w **Unity 6000.3.26f1** z modułem Windows Build Support (Mono). Scena: Assets/Scenes/Krypta.unity.
+Git tracks code, shaders, the startup scene, localization text, package configuration and project settings. **Bulk assets are supplied through the private release archive**, rather than Git history. Download **Nocturnis-0.8.4-Unity-project.zip** for the complete models, textures, materials, prefabs, animations, audio and localized intro videos.
 
-Aby pracować w klonie repozytorium, pobierz archiwum projektu, a następnie uruchom:
+The simplest option is to extract that archive into an empty directory and open it with **Unity 6000.3.26f1**, including Windows Build Support (Mono). Startup scene: Assets/Scenes/Krypta.unity.
 
-    python tools/restore_project.py --archive "F:/Downloads/Nocturnis-0.8.3-Unity-project.zip"
+To work from a Git clone, download the matching project archive and run:
 
-Python 3.10 lub nowszy; tylko biblioteka standardowa. Skrypt weryfikuje archiwum i wszystkie 7191 plików według SHA-256. Uzupełnia brakujące pliki i odmawia nadpisania istniejących zmian. Uruchom go przed pierwszym otwarciem Unity; edytor może później zmieniać pliki importu. Zasoby pozostają lokalnie w klonie, objęte .gitignore.
+    python tools/restore_project.py --archive "F:/Downloads/Nocturnis-0.8.4-Unity-project.zip"
 
-Pierwsze otwarcie projektu odtworzy Library i pobierze pakiety Unity. Potrzebne są aktywna licencja Unity i dostęp do internetu dla menedżera pakietów. Modele TRELLIS/DINO, klucze API i serwery generujące nie są potrzebne do uruchomienia gry.
+Python 3.10+ is required; the script uses only the standard library. It verifies the archive and every source file against SHA-256, restores missing files and refuses to overwrite local edits. Run it before first opening Unity, which may subsequently update import metadata. Restored bulk assets remain local and are excluded by .gitignore.
 
-W tym projekcie rozwój Unity odbywa się na serwerze; lokalny pakiet na Windows służy do grania i archiwizacji.
+Unity recreates Library and resolves packages on first opening. A valid Unity licence and network access for the package manager are required. TRELLIS/DINO models, generation servers and API keys are not required to build or play the game.
 
-## Budowanie
+## Build
 
-Ze sceny Assets/Scenes/Krypta.unity można zbudować Windows x64 w Unity. Metoda użyta przez wydanie:
+Create a Logs directory, then run the following arguments as one command:
 
     Unity -batchmode -nographics -quit -projectPath <PROJECT>
           -buildTarget StandaloneWindows64
-          -executeMethod Krypta.Editor.NocturnisMasonryBuild.Windows
+          -executeMethod Krypta.Editor.NocturnisLanguageBuild.Windows
           -logFile <PROJECT>/Logs/build.log
 
-Przekaż argumenty w jednej komendzie. Wynik: Builds/Floors083Windows/Nocturnis.exe. Katalog Logs trzeba utworzyć przed uruchomieniem. Unity musi mieć zainstalowany docelowy moduł builda.
+Output: Builds/Language084Windows/Nocturnis.exe. The editor must have the target build module installed.
 
-## Weryfikacja wydania
+## Localization
 
-Paczka Windows odpowiada sprawdzonemu buildowi 0.8.3. Sprawdzono start/sesję gry, poprawność materiałów w 12 wnętrzach i obrazy siedmiu lokacji, w tym niski profil grafiki. Nie jest to deklaracja pełnego testu kampanii ani benchmarku FPS.
+Runtime code: Assets/Scripts/NocturnisLanguage.cs. Translation catalog: Assets/Resources/Localization/strings.json. Polish is the original text; English is applied at the display boundary, including dynamic text fragments. Stable save keys, item identifiers and quest state are unchanged. Language selection uses a separate persisted preference.
 
-SHA256SUMS.txt w Releases pozwala sprawdzić pobrane archiwa. Plik docs/project-files.json opisuje dokładną zawartość źródeł z momentu budowania.
+Intro videos: Assets/StreamingAssets/Nocturnis-Intro.mp4 (Polish subtitles) and Nocturnis-Intro-en.mp4 (English subtitles). Their repaired English audio mix is identical. Attribution is available in Polish and English in the game's credits.
 
-## Licencje
+## Verification and licences
 
-Repozytorium jest prywatne. Nie nadano grze licencji open source. Licencje poszczególnych składników, autorzy i wcześniejsze informacje źródłowe są w [Licenses](Licenses/README.md). Uprawnienia dostawców zasobów pozostają odrębne od uprawnień do kodu gry.
+The release notes describe the checks performed for this build. This is not a claim of a complete campaign playthrough or an FPS benchmark.
+
+Use SHA256SUMS.txt from Releases to verify downloads. docs/project-files.json records the complete source snapshot used for the build.
+
+This repository is private. The game is not distributed under a blanket open-source licence. Component licences, authors and historical source notes are preserved in [Licenses](Licenses/README.md).

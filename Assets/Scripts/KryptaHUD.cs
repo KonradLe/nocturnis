@@ -44,6 +44,7 @@ namespace Krypta
   }
   void Update()
   {
+   if(NocturnisLanguage.NeedsChoice){if(portraitCamera)portraitCamera.enabled=false;return;}
    TickPortraitOrbit();
    if(Application.isBatchMode)return;
    if(!game || !game.View)return;
@@ -82,13 +83,14 @@ namespace Krypta
    Matrix4x4 previous=GUI.matrix;scale=Mathf.Min(Screen.width/1280f,Screen.height/720f);
    offsetX=(Screen.width-1280*scale)*.5f;offsetY=(Screen.height-720*scale)*.5f;
    GUI.matrix=Matrix4x4.TRS(new Vector3(offsetX,offsetY,0),Quaternion.identity,Vector3.one*scale);
+   if(NocturnisLanguage.NeedsChoice){LanguageChoice();GUI.matrix=previous;return;}
    if(game.State==KryptaGame.Phase.Title)TitleScreen();
    else {InGame();if(game.IntroActive){Fill(new Rect(0,0,1280,91),Color.black);Fill(new Rect(0,629,1280,91),Color.black);Label(300,25,680,40,"TRAKT WISIELCÓW • DOLINA POPIOŁÓW",center,StoryPaleGold);Label(300,652,680,30,"SPACJA — POMIŃ WPROWADZENIE",center,warmWhite);}if(game.State!=KryptaGame.Phase.Playing)Overlay();}
    DrawStoryTooltip();RpgHoverDraw();GUI.matrix=previous;
   }
   void InGame()
   {
-   float objectiveHeight=Mathf.Max(40,text.CalcHeight(new GUIContent(game.Objective),355)+8);
+   float objectiveHeight=Mathf.Max(40,text.CalcHeight(new GUIContent(NocturnisInput.Format(game.Objective)),355)+8);
    Panel(new Rect(24,22,385,42+objectiveHeight));Label(40,32,355,22,"AKT I  /  "+NocturnisData.Zones[game.Zone].ToUpper(),small,gold);
    Label(40,58,355,objectiveHeight,game.Objective,text,paper);
    Panel(new Rect(1075,22,180,68));Label(1091,30,150,19,"ZŁOTO",small,gold);Label(1091,47,150,36,game.Coins.ToString("000"),heading,paper);
@@ -133,7 +135,7 @@ namespace Krypta
    GothicBelt();
    if(game.CastNoticeUntil>Time.unscaledTime && !string.IsNullOrEmpty(game.CastNotice) && game.State==KryptaGame.Phase.Playing)
    {
-    float height=Mathf.Clamp(Mathf.Ceil(castFeedbackStyle.CalcHeight(new GUIContent(game.CastNotice),465))+20,44,80);
+    float height=Mathf.Clamp(Mathf.Ceil(castFeedbackStyle.CalcHeight(new GUIContent(NocturnisInput.Format(game.CastNotice)),465))+20,44,80);
     Rect feedback=new Rect(425,552-height,500,height);StoryPanel(feedback,0);
     Color c=game.CastNoticeSucceeded ? new Color(.58f,.88f,.51f) : new Color(1,.46f,.34f);
     Fill(new Rect(feedback.x+6,feedback.y+6,4,feedback.height-12),c);
@@ -192,7 +194,7 @@ namespace Krypta
   void Bar(Rect r,float value,Color c){Fill(r,new Color(.12f,.11f,.14f));Fill(new Rect(r.x,r.y,r.width*Mathf.Clamp01(value),r.height),c);}
   static readonly System.Collections.Generic.Dictionary<GUIStyle,GUIStyle> largerStyles=new System.Collections.Generic.Dictionary<GUIStyle,GUIStyle>();
   static void Label(float x,float y,float w,float h,string value,GUIStyle style,Color color)
-  {Color old=GUI.contentColor;GUI.contentColor=color;GUIStyle drawStyle=style;if(PlayerPrefs.GetInt("Nocturnis.LargeText",0)==1 && w>=280 && h>=40 && style.fontSize<=17){if(!largerStyles.TryGetValue(style,out drawStyle)){drawStyle=new GUIStyle(style);drawStyle.fontSize=style.fontSize+2;largerStyles[style]=drawStyle;}}GUI.Label(new Rect(x,y,w,h),NocturnisInput.Format(value),drawStyle);GUI.contentColor=old;}
+  {Color old=GUI.contentColor;GUI.contentColor=color;GUIStyle drawStyle=style;if(PlayerPrefs.GetInt("Nocturnis.LargeText",0)==1 && w>=280 && h>=40 && style.fontSize<=17){if(!largerStyles.TryGetValue(style,out drawStyle)){drawStyle=new GUIStyle(style);drawStyle.fontSize=style.fontSize+2;largerStyles[style]=drawStyle;}}NocturnisLocalizedGUI.Label(new Rect(x,y,w,h),value,drawStyle);GUI.contentColor=old;}
   bool Button(Rect r,string label,bool primary=false)
   {
    bool enabled=GUI.enabled,hover=enabled && r.Contains(Event.current.mousePosition);

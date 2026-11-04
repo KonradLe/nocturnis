@@ -22,7 +22,7 @@ namespace Krypta {
   }
   static void RefreshName(int i){
    var key=cachedKeys[i];cachedNames[i]=key==KeyCode.Space ? "SPACJA" : key>=KeyCode.Alpha0 && key<=KeyCode.Alpha9 ? ((int)key-(int)KeyCode.Alpha0).ToString() : key.ToString().ToUpperInvariant();
-   bracketed[i]="["+cachedNames[i]+"]";
+   cachedNames[i]=NocturnisLanguage.Text(cachedNames[i]);bracketed[i]="["+cachedNames[i]+"]";
   }
   static void BindingsChanged(){bindingsRevision++;formattedHints.Clear();interactionHint=cachedNames[actionIndex["interact"]]+" \u2022";}
   static void EnsureBindings(){
@@ -66,6 +66,7 @@ namespace Krypta {
   }
   public static void Reset(){foreach(string action in Actions)PlayerPrefs.DeleteKey(Prefix+action);PlayerPrefs.Save();ReloadBindings();}
   public static string Format(string value){
+   value=NocturnisLanguage.Text(value);
    if(PerformanceSkipFormat && NocturnisPerformanceProbe.Active)return value;
    if(string.IsNullOrEmpty(value) || (value.IndexOf('[')<0 && value.IndexOf("{KEY:",StringComparison.Ordinal)<0 && value.IndexOf("{KEYRAW:",StringComparison.Ordinal)<0 && value.IndexOf("E \u2022",StringComparison.Ordinal)<0))return value;
    EnsureBindings();CachedFormat cached;

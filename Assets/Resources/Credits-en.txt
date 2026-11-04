@@ -1,0 +1,41 @@
+NOCTURNIS: HARVEST OF FALLEN STARS — 0.8.4
+
+ACT I ASSET LIBRARY
+62 models prepared for Nocturnis: 32 reference-based 3D reconstructions using imagegen and TRELLIS.2, plus 30 models created in Blender. Materials, rigs, weights, weapon grips and procedural animation work: the Nocturnis project.
+TRELLIS.2 — Microsoft, https://github.com/microsoft/TRELLIS.2
+Blender — Blender Foundation and contributors, https://www.blender.org/
+
+ANIMATION
+Quaternius — Universal Animation Library [Standard], CC0 1.0.
+https://quaternius.com/
+Imported and retargeted clips supplement the project's procedural animation. Not every class, action or enemy uses a library clip.
+
+STONE AND SURFACES
+Poly Haven — rock_boulder_dry, rock_wall_16, monastery_stone_floor, slate_floor_02 and stone_floor, CC0 1.0.
+https://polyhaven.com/
+https://polyhaven.com/license
+Modifications: UV mapping, scale, material-map conversion, surface shader and location-specific colour grading.
+
+KAYKIT AND KENNEY
+Kay Lousberg / KayKit — CC0 1.0, https://kaylousberg.com/
+Additional and preserved props and atlases: Adventurers, Skeletons, Dungeon, Forest Nature, Medieval Hexagon and Halloween Bits. KayKit animation libraries supported earlier character versions and remain credited. The current Inquisitor and other principal characters come from the Nocturnis library above.
+Kenney — Graveyard Kit, CC0 1.0, https://kenney.nl/
+Prefab preparation, materials, scale and historical animation adaptations: the Nocturnis project.
+
+PRESERVED ASSETS FROM EARLIER VERSIONS
+Rakshi Games — Free Realistic Tree 10 and Realistic Tree 12, CC BY 3.0.
+https://opengameart.org/content/free-realistic-tree-10
+https://opengameart.org/content/realistic-tree-12
+https://creativecommons.org/licenses/by/3.0/
+Modifications: prefab conversion, scale, bases, materials, colour, wind and character visibility. The current library's main trees are new Nocturnis models.
+Xali — Rigged Knight in Armor, https://blendswap.com/blend/28541 — CC0 according to the author's original declaration; the earlier conversion and its source notes are preserved. This is not the current Inquisitor model.
+The earlier TRELLIS v1 Inquisitor and CryptFloor-v01 surfaces remain assets of previous iterations.
+
+INTERFACE, AUDIO AND FONT
+Menu and HUD illustrations were prepared for Nocturnis using imagegen. Interface, effects, procedural sounds and audio integration: the Nocturnis project. Cinematic footage was generated using Kling; English narration uses ElevenLabs.
+Title font: DejaVu Serif Book. Copyright © 2003 Bitstream, Inc.; DejaVu changes are in the public domain. The complete font licence is included in Licenses.
+
+ENGINE AND IMPORT
+Unity and Unity glTFast 6.10.0 — Unity Technologies and contributors. glTFast: Apache License 2.0. Package licences and third-party notices are preserved in Licenses/package-notices.
+
+Full licence texts and original attribution records are in the Licenses directory beside the game. These licences apply to their individual components; they do not place the entire game under a single CC0, MIT or Apache licence.
